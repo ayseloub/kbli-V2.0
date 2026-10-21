@@ -25,3 +25,8 @@
 		-Server
 	}
 }
+
+# www.DOMAIN -> DOMAIN (path ikut, mis. www.../chat -> .../chat). Sertifikat www dibuat otomatis.
+www.{$DOMAIN} {
+	redir https://{$DOMAIN}{uri} permanent
+}
