@@ -1,0 +1,541 @@
+{
+  "result": {
+    "46201": {
+      "uuid": "1dd790a9-a053-4b5e-849f-3a6e4d0acf46",
+      "uraian": "Kelompok ini mencakup usaha perdagangan besar hasil pertanian tanaman padi dan palawija sebagai bahan baku atau bahan dasar dari suatu kegiatan berikutnya, seperti padi, jagung, gabah, gandum dan seralia lainnya. Termasuk perdagangan besar benih dan bibit padi, palawija, dan serealia lainnya."
+    },
+    "46209": {
+      "uuid": "041be4da-9cc1-426f-9edc-e0d7a23e4165",
+      "uraian": "Kelompok ini mencakup usaha perdagangan besar hasil pertanian dan hewan hidup lainnya yang belum diklasifikasikan di tempat lain. Termasuk dalam kelompok ini perdagangan besar bahan baku pertanian, sisaan dan sampah pertanian, dan hasil ikutan pertanian yang digunakan untuk makanan hewan, serta tanaman dan bibit tanaman lainnya yang belum disebutkan di atas."
+    },
+    "46311": {
+      "uuid": "f4e3c76f-60c5-4e9e-913b-4606a3c6c895",
+      "uraian": "Kelompok ini mencakup usaha perdagangan besar beras untuk digunakan sebagai konsumsi akhir."
+    },
+    "46315": {
+      "uuid": "83fb2183-ec8e-4680-86c8-8bb0640eb0b9",
+      "uraian": "Kelompok ini mencakup usaha perdagangan besar minyak dan lemak nabati, termasuk margarin serta produk berbahan dasar lemak nabati seperti non-dairy cream, dan produk sejenis lainnya."
+    },
+    "46319": {
+      "uuid": "2eb2187b-ec23-4618-8c3d-31e6b8060fb3",
+      "uraian": "Kelompok ini mencakup usaha perdagangan besar bahan makanan dan minuman hasil pertanian lainnya, seperti tanaman bumbu-bumbuan dan rempah-rempah."
+    },
+    "46321": {
+      "uuid": "8b43a0c0-f6b9-42a1-9646-0d9b0d7842d9",
+      "uraian": "Kelompok ini mencakup usaha perdagangan besar daging sapi dan daging sapi olahan, termasuk daging sapi yang diawetkan."
+    },
+    "46322": {
+      "uuid": "4f433e8f-8e27-43fa-8020-ee5542756b84",
+      "uraian": "Kelompok ini mencakup usaha perdagangan besar daging ayam dan daging ayam olahan, termasuk daging ayam yang diawetkan."
+    },
+    "46325": {
+      "uuid": "1d2420fe-dd32-4a77-a93a-d990c37e8ed6",
+      "uraian": "Kelompok ini mencakup usaha perdagangan besar telur dan hasil olahan telur."
+    },
+    "46331": {
+      "uuid": "c0dcda19-633c-4239-b46f-d695d949e452",
+      "uraian": "Kelompok ini mencakup usaha perdagangan besar gula, coklat, kembang gula dan sediaan pemanis."
+    },
+    "46339": {
+      "uuid": "4b1b9cf5-ba07-4a2c-9a8f-2d9c2f58e806",
+      "uraian": "Kelompok ini mencakup usaha perdagangan besar makanan dan minuman lainnya, seperti tepung beras, tepung tapioka, premiks bakeri, karamel, madu olahan, kerupuk udang dan lain-lain. Termasuk pangan untuk keperluan gizi khusus (untuk bayi, anak, dan dewasa), bahan tambahan pangan (food additive), bahan penolong (processing aid), makanan ringan lainnya, serealia dan produk berbasis serealia yang belum diolah maupun telah diolah, minuman produk kedelai, makanan siap saji, serta perdagangan besar makanan untuk hewan piaraan dan makanan ternak."
+    },
+    "46631": {
+      "uuid": "316cddc7-f51a-403a-af20-5ddd9e011683",
+      "uraian": "Kelompok ini mencakup usaha perdagangan besar berbagai macam baja/besi untuk bahan konstruksi seperti baja tulangan, baja profil, pelat baja, dan baja lembaran, pipa besi/baja, kawat tali, kawat nyamuk, paku, mur/baut, engsel, gerendel, kunci, anak kunci, tangki air, menara air, rolling door, awning dan seng lembaran."
+    },
+    "46633": {
+      "uuid": "693a4cfd-24c4-45d2-b096-93875cb29136",
+      "uraian": "Kelompok ini mencakup usaha perdagangan besar genteng, batu bata dan ubin yang terbuat dari tanah liat, kapur, semen atau kaca untuk bahan konstruksi, seperti genteng pres, genteng kodok, batu bata pres, batu bata berongga, bata tahan api, ubin lantai, ubin dinding, ubin batako, termasuk juga lubang angin, bak mandi, kloset, eternit, pipa irigasi dan buis."
+    },
+    "46636": {
+      "uuid": "1537a5e5-1a95-4384-bf03-bcb1aaadfe3e",
+      "uraian": "Kelompok ini mencakup usaha perdagangan besar bahan konstruksi dari kayu, seperti papan, galar, papan reng, papan lis, tiang telepon, tiang listrik, balok bantalan, kusen pintu/jendela, daun pintu/jendela, ubin kayu, atap kayu (sirap), kayu lapis tripleks, kayu lapis interior, teak wood, particle board, chip board, kayu pelapis dan kayu lapis untuk cetak beton."
+    },
+    "46638": {
+      "uuid": "0df05b61-1acc-4ea3-b9a0-1d6bb8f52f10",
+      "uraian": "Kelompok ini mencakup usaha perdagangan besar macam-macam material bangunan, seperti semen, pasir, paku, cat dan lain-lain."
+    },
+    "46639": {
+      "uuid": "9f71cd3a-9e08-46ab-8b29-dadde776ba15",
+      "uraian": "Kelompok ini mencakup usaha perdagangan besar bahan konstruksi lainnya yang belum tercakup dalam kelompok 46631 s.d. 46638, seperti wallpaper, pipa dan selang dari plastik, formika, plastik lembaran bergelombang, asbes semen rata, asbes semen berlapis dan pipa saluran asbes semen. Termasuk perdagangan besar pemanas air (water heater)."
+    },
+    "46652": {
+      "uuid": "4761e77c-5e8e-498a-bcf6-5d118960664c",
+      "uraian": "Kelompok ini mencakup usaha perdagangan besar pupuk dan produk agrokimia atau kimia pertanian."
+    },
+    "47783": {
+      "uuid": "4e0926a9-51fc-4d9c-9008-88a2f09c15d0",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran khusus barang kerajinan dari logam, seperti vas bunga, patung, tempat lilin, piala, medali dan gantungan kunci. Termasuk kegiatan galeri kesenian yang menjual barang kerajinan tersebut."
+    },
+    "47784": {
+      "uuid": "fedec70e-2622-4794-a075-0dddcc8ca8ce",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran khusus barang kerajinan dari keramik, seperti patung, vas bunga, asbak, tempat sirih, celengan dan pot bunga. Termasuk kegiatan galeri kesenian yang menjual barang kerajinan tersebut."
+    },
+    "47785": {
+      "uuid": "88320d58-95b6-4ae7-bb87-e3c5c74b69f0",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran khusus lukisan, seperti lukisan orang, lukisan binatang dan lukisan pemandangan. Termasuk kegiatan galeri kesenian yang menjual lukisan."
+    },
+    "47789": {
+      "uuid": "07c71951-cd5c-4bdb-946a-cde328bd911a",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran khusus barang-barang kerajinan dan lukisan lainnya yang belum tercakup dalam kelompok 47781 s.d. 47785. Termasuk kegiatan galeri kesenian yang menjual barang kerajinan tersebut."
+    },
+    "47791": {
+      "uuid": "979b3ae0-55fd-4daf-a1cf-0d84be0ed609",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran khusus mesin pertanian dan perlengkapannya, seperti traktor, mesin bajak, mesin pemupuk, mesin semai, mesin penanam, mesin penugal, mesin potong rumput, mesin penyemprot, mesin pengupas, mesin perontok, rice milling unit, mesin perah susu, serta komponen dan suku cadang mesin pertanian."
+    },
+    "47792": {
+      "uuid": "d3e5e9fd-cc22-4be9-9d59-e403c689c2f3",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran khusus mesin jahit dan perlengkapannya, seperti mesin jahit tangan/kaki, mesin jahit listrik, mesin obras, mesin bordir, mesin oversum, serta komponen dan suku cadang mesin jahit."
+    },
+    "47793": {
+      "uuid": "58f5fee4-ef2f-48dc-8f66-81e3d8ca9d02",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran khusus mesin lainnya yang belum terliput dalam kelompok 47791 dan 47792, seperti mesin pembangkit tenaga listrik/generator, mesin las, mesin giling kopi, mesin giling tepung, mesin gergaji, mesin bubut, turbin, kincir, mesin tenun, mesin rajut, dan mesin cetak."
+    },
+    "47794": {
+      "uuid": "ea12a0d7-be74-4240-a909-045db12944d2",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran khusus alat transportasi darat tidak bermotor, seperti sepeda khusus untuk orang cacat, becak, pedati, gerobak, sado, kereta dorong, serta komponen dan perlengkapannya."
+    },
+    "47795": {
+      "uuid": "4aa5817b-b337-4535-9467-c83eed5ecbf0",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran alat transportasi air (bermotor atau tidak), seperti perahu dan sampan, beserta komponen dan perlengkapannya."
+    },
+    "47796": {
+      "uuid": "e0032860-4660-451a-b0ee-76d0fe7ee42a",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran khusus alat-alat pertanian, seperti cangkul, bajak, sabit, linggis, alat perontok padi bukan mesin."
+    },
+    "47797": {
+      "uuid": "e88e2d8f-72d8-4659-ba7c-e79f26c41452",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran alat-alat pertukangan, seperti pahat, gergaji, obeng, tang, palu, ketam, kampak."
+    },
+    "47811": {
+      "uuid": "4faad392-cc95-4059-bf36-4eec926e195f",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran padi dan palawija, yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar), seperti gabah, jagung, ubi jalar, ubi kayu, talas, kacang kedelai, kacang tanah, kacang hitam dan kacang polong."
+    },
+    "47812": {
+      "uuid": "7ab5045e-e5e4-4ed0-87e3-ba6b12049fab",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran buah-buahan yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar), seperti apel, anggur, alpokat, belimbing, duku, durian, mangga dan lain-lain."
+    },
+    "47813": {
+      "uuid": "f2632564-d441-48cd-b640-d9090abf7b6f",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran sayur-sayuran yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar), seperti bawang merah, bawang putih, kentang, wortel, terong, buncis, mentimun, labu siam, kacang panjang dan kacang merah."
+    },
+    "47814": {
+      "uuid": "3680b731-5567-4b30-8c21-e29da1e5a4a8",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran hasil peternakan yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar), seperti susu dan telur, daging ternak dan unggas."
+    },
+    "47816": {
+      "uuid": "d63fccae-1f2e-491e-8064-9e46becab6c8",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran komoditi hasil kehutanan dan perburuan yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar), seperti kayu bakar, bambu, kayu cendana, getah damar dan sejenisnya."
+    },
+    "47819": {
+      "uuid": "e5781e6b-83c1-4e24-af67-bf1242826052",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran tanaman hias dan hasil pertanian lainnya yang belum tercakup dalam kelompok 47811 s.d. 47816 yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar), seperti anggrek, mawar, melati sedap malam, tanaman hias lainnya dan bibit tanaman hias, bibit buah-buahan dan obat-obatan."
+    },
+    "47821": {
+      "uuid": "bf5c59ce-b0a3-4bc9-9192-8d0668f054bf",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran berbagai jenis beras yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar), seperti beras cianjur, beras cisadane, beras saigon, beras ketan dan lain-lain."
+    },
+    "47822": {
+      "uuid": "5233e15e-3e5e-4564-bb54-0f3f8113cd0d",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran berbagai jenis roti, kue kering dan kue basah yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar), seperti roti manis, roti tawar, bolu, cake/tart, biskuit, wafer, kue semprong dan cookies."
+    },
+    "47823": {
+      "uuid": "f3736bac-c818-4fd2-87da-3bb5d32f45c9",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran kopi, gula pasir, gula merah dan teh yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar)."
+    },
+    "47824": {
+      "uuid": "d8979230-44fd-4b30-842e-c2851ecca180",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran tahu, tempe, tauco dan oncom yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar)."
+    },
+    "47827": {
+      "uuid": "0310c709-d06f-426d-a796-0fbe26ea7d89",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran berbagai jenis rokok dan tembakau yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar), seperti tembakau krosok, tembakau susur dan tembakau pipa (papier), rokok (putih atau kretek)."
+    },
+    "47829": {
+      "uuid": "f17bc6be-efe5-454b-b5ce-de0c014ae6b4",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran berbagai jenis makanan dan minuman lainnya yang belum tercakup pada kelompok 47821 s.d. 47828 yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar), seperti asinan buah-buahan dan sayuran, kerupuk dan emping/ceriping."
+    },
+    "47831": {
+      "uuid": "3a795161-2e3e-4c2a-8146-e69805b7687e",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran macam-macam tekstil atau kain baik terbuat dari serat alam, sintetis, maupun campuran yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar), seperti kain tenun (kain sarung katun, kain sarung polister, kain suiting sutera, kain suiting serat campuran), kain cetak (kain cetak kapas, kain cetak polyamida, kain kedap air), kain batik (kain batik tulis, kain batik cap, kain batik kombinasi tulis dan cap) dan kain rajut (kain rajut wol, kain rajut rayon, kain rajut wol/kapas)."
+    },
+    "47832": {
+      "uuid": "340d7464-6514-4413-8603-1973168bc6e8",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran macam-macam pakaian baik terbuat dari tekstil, kulit, maupun kulit buatan yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar), seperti kemeja, celana, jas, mantel, jaket, piyama, kebaya, blus, rok, daster, singlet, kutang/BH, gaun, rok dalam, baju bayi, pakaian tari, pakaian adat, mukena dan jubah."
+    },
+    "47833": {
+      "uuid": "3414f400-79b5-44c2-8500-88c18f219a72",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran berbagai macam sepatu, sandal, selop dan alas kaki lainnya baik terbuat dari kulit, kulit buatan, plastik, karet, kain ataupun kayu yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar), seperti sepatu laki-laki dewasa, sepatu perempuan dewasa, sepatu anak, sepatu olahraga, sepatu sandal, sandal, selop dan sepatu kesehatan."
+    },
+    "47834": {
+      "uuid": "0aa4d005-01c8-40c7-9239-5c144700f3d6",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran pelengkap pakaian dan benang yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar), seperti selendang, kerudung, sapu tangan, ikat kepala, blangkon, peci, topi, dasi, ikat pinggang, cadar, sarung tangan, handuk, dan selimut. Termasuk juga perdagangan eceran kancing baju, risleting dan benang jahit."
+    },
+    "47841": {
+      "uuid": "6cd5bc15-fcd4-43db-b429-d646b06515a7",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran bahan kimia yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar), seperti soda kostik, soda abu, kalium hidroksida, amoniak, argon, bahan pewarna, bahan pengawet, bahan untuk pestisida, pelarut dan eter."
+    },
+    "47845": {
+      "uuid": "7c3869ba-e514-4b80-b1cc-c066ee3043cc",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran berbagai macam pupuk dan pemberantas hama yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar), seperti pupuk buatan tunggal (urea, ZA, TSP, DSP), pupuk buatan majemuk dan campuran (mono amonium fosfat, diamonium fosfat, nitrogen fosfat kalium), pupuk alam (pupuk kompos, pupuk dolomit, pupuk kapur), insektisida, fungisida, rodentisida, herbisida, nematisida dan akarisida."
+    },
+    "47846": {
+      "uuid": "b230e700-3f16-4782-806a-fa4ba79bd446",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran aromatik/penyegar (minyak atsiri) yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar), seperti minyak kenanga, minyak sereh, minyak kayu putih, minyak cendana, minyak lawang, minyak tengkawang, minyak gandapura, minyak jarak, minyak kapulaga, minyak pala, minyak delas dan minyak akar wangi."
+    },
+    "47851": {
+      "uuid": "fd66f546-a17d-4aef-ae22-a3fa9fc47ac2",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran berbagai macam kaca mata yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar), seperti kaca mata pembantu penglihatan, kaca mata peredam sinar matahari/cahaya, lensa kontak (contact lens, soft lens) dan frame kaca mata."
+    },
+    "47852": {
+      "uuid": "dfe6eb78-e212-4c34-91ad-6c905147debe",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran barang perhiasan baik terbuat dari batu mulia, batu permata, batu permata tiruan, berlian, intan, batu aji, serbuk dan bubuk intan, logam mulia ataupun bukan logam mulia yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar), seperti cincin, kalung, gelang, giwang (anting-anting), tusuk konde peniti, bross, ikat pinggang dan kancing dari logam mulia (platina, emas dan perak)."
+    },
+    "47853": {
+      "uuid": "79f24219-98de-4a84-83db-995c6c69d4db",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran berbagai macam jam yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar), seperti arloji tangan, arloji saku, jam dinding, jam beker, lonceng dan alat ukur waktu lainnya, termasuk juga bagian dari arloji dan jam."
+    },
+    "47854": {
+      "uuid": "2b366445-d157-48a9-bcac-d74dea12af9e",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran tas, dompet, koper, ransel dan sejenisnya baik terbuat dari kulit, kulit buatan, tekstil, plastik ataupun karet yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar), seperti tas tangan, tas belanja, tas sekolah, tas surat, tas olahraga, dompet, kotak rias, sarung pedang/pisau, tempat kamera, tempat kaca mata dan kotak pen."
+    },
+    "47855": {
+      "uuid": "b216a769-64fb-429a-8b60-e6e45782a003",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran kaki lima dan los pasar perlengkapan pengendara sepeda motor yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar), seperti helm, jaket, jas hujan, sarung tangan, masker dan lain-lainnya."
+    },
+    "47859": {
+      "uuid": "83ffdee2-855e-4bd4-a8e6-d2f96fa3f387",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran barang keperluan pribadi lainnya yang belum tercakup dalam kelompok 47851 s.d. 47855 yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar)."
+    },
+    "47861": {
+      "uuid": "c5ae0fbd-4a9b-4bf3-8e10-e2bb2bed0845",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran barang elektronik yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar), seperti radio, televisi, video, tape recorder, audio amplifier dan cassete recorder."
+    },
+    "47862": {
+      "uuid": "1e400ef2-51a6-460f-8d41-f0da9b02f5d6",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran alat dan perlengkapan listrik yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar), seperti mesin cuci, lemari es, kipas angin, alat pengisap debu, alat penggosok lantai, mixer, seterika listrik, blender, lampu pijar, lampu neon, starter, ballast, reflektor, kabel, sakelar, stop kontak, fitting dan sekering."
+    },
+    "47863": {
+      "uuid": "e9126d39-22c3-42f8-ab0c-351fae33317b",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran barang pecah belah dan perlengkapan dapur yang terbuat dari plastik atau melamin yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar), seperti piring, pisin, mangkok, cangkir, teko, sendok, garpu, rantang, stoples, botol susu bayi, panci, baki, ember, termos dan jerigen."
+    },
+    "47864": {
+      "uuid": "2508c278-d422-463c-8376-60b4eafd0c9b",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran barang pecah belah dan perlengkapan dapur yang terbuat dari batu atau tanah liat yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar), seperti piring, mangkok, cangkir, teko, kendi, periuk, cobek, tempayan, lumpang, asbak dan uleg-uleg."
+    },
+    "47865": {
+      "uuid": "d2904042-aeee-49e5-bcb3-75b2f9eb4641",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran barang dan perlengkapan dapur yang terbuat dari kayu, bambu atau rotan yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar), seperti rak bambu, alu, lesung, parutan kelapa, talenan, papan gilesan, centong, bakul, tampah, kukusan, kipas, tudung saji, tusukan sate, gilingan daging."
+    },
+    "47866": {
+      "uuid": "9c484356-53eb-4fa3-9ebd-70ad7e9724cf",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran barang pecah belah dan perlengkapan dapur yang terbuat bukan dari plastik, batu, tanah liat, kayu, bambu atau rotan yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar), seperti piring, pisau, mangkok, cangkir, teko, sendok, garpu, rantang, stoples, botol susu bayi, panci, baki, termos, kompor gas dan kompor minyak tanah."
+    },
+    "47867": {
+      "uuid": "1ac6db97-bc8c-4c13-9da8-6002052aaec8",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran alat kebersihan yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar), seperti sapu lidi, sapu ijuk, sikat, keset, alat/kain pel dan sejenisnya."
+    },
+    "47869": {
+      "uuid": "6cadf2f2-8082-4a4e-8a50-bc4bdaa711a4",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran perlengkapan rumah tangga dan perlengkapan dapur lainnya yang belum tercakup dalam kelompok 47861 s.d. 47867 yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar), seperti linen rumah tangga, taplak meja, seprei, kelambu, kain kasur, kain bantal, gordin, kain pel, keset kamar mandi, sajadah, permadani, karpet dan tenda."
+    },
+    "47871": {
+      "uuid": "3f43eb13-0815-41f5-bcd2-9a2e7f8175c2",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran kertas, karton dan barang dari kertas/karton yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar), seperti kertas HVS, kertas doorslag, kertas kraft, kertas tipis, kertas kalkir, kertas berwarna, karton manila, karton buffalo skin, karton serat (fiber board), kertas pembungkus (wrapping), karton kemasan untuk makanan/minuman, kantong kertas, kertas/karton berlapis, kertas surat (stationary), kertas stensil, kertas karbon dan kertas duplikator."
+    },
+    "47872": {
+      "uuid": "eb804a3b-d0ca-4af4-8c2b-08df794ad1a5",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran alat tulis-menulis dan gambar yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar), seperti pensil, pulpen, spidol, balpoin, sign pen, pensil mekanik, jangka, kuas gambar, rapido, crayon dan pastel, papan tulis, meja gambar, white board, alat-alat sablon, pita mesin tulis, cat air, cat minyak, karet penghapus, kayu penghapus, tip-ex, tinta, pengasah pensil, penggaris dan kapur tulis."
+    },
+    "47873": {
+      "uuid": "56d34716-7a00-4c50-9d12-859a968a63a3",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran hasil pencetakan dan penerbitan yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar), seperti faktur, nota, kuitansi, kartu nama, etiket, amplop, agenda, buku alamat, kartu ucapan, kartu pos, perangko, materai, album, buku tulis, buku gambar, kertas bergaris, kertas grafik, atlas, huruf braile, surat kabar, majalah, buletin, kamus, buku ilmu pengetahuan, buku bergambar."
+    },
+    "47874": {
+      "uuid": "8703a725-cdd2-423d-98c7-8434d73dbdce",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran alat-alat olahraga dan alat musik, baik alat musik tradisional maupun alat musik modern yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar), seperti berbagai macam bola, raket, jaring/net, stik, bat, peralatan panahan, peralatan pancing, peralatan anggar, peralatan terjun payung, sepatu roda (skate board), sarung tinju, halter, sepeda olahraga termasuk sepeda standar dan sepeda mini, perlengkapan catur, meja biliar, meja pingpong, perlengkapan golf, alat pengaman olahraga, matras, spring board, scoring board, dan ring tinju, kecapi, seruling bambu, calung, angklung, kulintang, gamelan, set, rebab, rebana, tifa, sasando, flute, saksofon, harmonika, trombone, gitar, mandolin, ukulele, harpa, bass, gambus, biola, cello, piano/organ, drum set dan garpu tala."
+    },
+    "47875": {
+      "uuid": "3acf734c-5fe0-42f8-9663-5c2af994c371",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran alat fotografi, alat optik dan perlengkapannya yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar), seperti kamera foto, kamera sinematografi, proyektor sinematografi, pesawat rekam suara, pesawat reproduksi suara proyektor gambar, over head projector, aparat cahaya kilat fotografi, frame kamera, camera bodies, perlengkapan proyektor gambar, dan cassete film transfer, kaca mata pengelas, teropong monokuler, teropong binokuler, kaca pembesar, kaca pengintip, strereoskop dan mikroskop."
+    },
+    "47876": {
+      "uuid": "cba96c05-827e-42b3-bd45-e0e2ad74c6da",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran berbagai macam mesin kantor, seperti komputer, mesin tik, mesin hitung, cash register dan sejenisnya yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar)."
+    },
+    "47877": {
+      "uuid": "9567ee52-7d2a-47d7-b37e-f7b17e5f9e7a",
+      "uraian": "Kelompok ini mencakup usaha perdagangan alat telekomunikasi, seperti handphone, pesawat telepon dan perlengkapannya yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar)."
+    },
+    "47879": {
+      "uuid": "6b1edec0-0ade-468b-b5af-f32e3cb39446",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran berbagai macam/campuran dari kertas, karton, alat tulis-menulis, alat gambar, hasil pencetakan, penerbitan dan lainnya yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar)."
+    },
+    "47881": {
+      "uuid": "edd03ebb-7acc-453d-bedb-1c9ddef0edf1",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran kaki lima barang kerajinan dari kayu, bambu, rotan, pandan, rumput dan sejenisnya, kulit, tulang, tanduk, gading, bulu dan hewan yang diawetkan, logam, keramik yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar), seperti patung, topeng, relief, ukiran nama, wayang, keranjang, tikar, topi/tudung, kerai, keset, pajangan dari tanduk, pipa rokok dari tulang, vas bunga, tempat lilin piala dari logam, asbak, celengan pot bunga dari keramik dan lain-lain."
+    },
+    "47882": {
+      "uuid": "1822acf6-3a7f-4ac1-be8d-bcc3a178e928",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran berbagai macam mainan anak-anak yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar), seperti boneka, kelereng, bekel, congklak, scrable, karambol, mainan yang berupa alat musik, mobil-mobilan, mainan berupa senjata, mainan berupa alat memasak, dan mainan berupa perabotan rumah tangga."
+    },
+    "47883": {
+      "uuid": "e7e665b5-a0f6-4159-9dac-8f6e20b4e6c9",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran lukisan yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar), seperti lukisan orang, lukisan binatang dan lukisan pemandangan."
+    },
+    "47891": {
+      "uuid": "5cdc8b24-938b-4299-a1dd-77304447ba26",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran hewan hidup, termasuk hewan peliharaan yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar)."
+    },
+    "47893": {
+      "uuid": "6d418227-4841-4ced-ae58-f5757e0160db",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran barang antik yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar), seperti guci antik, bokor antik, lampu gantung antik dan meja/kursi marmer antik."
+    },
+    "47894": {
+      "uuid": "f8912b8a-9682-4678-9a35-e44b430bbf42",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran barang bekas perlengkapan rumah tangga yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar), seperti meja bekas, kursi bekas, lemari bekas, tempat tidur bekas, bufet bekas dan perangkat untuk makan dan minum bekas. Termasuk linen rumah tangga, kelambu, kain kasur, kain bantal, gordin, kain pel, keset kamar mandi, sajadah, permadani, karpet dan tenda."
+    },
+    "47895": {
+      "uuid": "a6fd220f-db60-4faf-9677-2bdb3623221f",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran pakaian, alas kaki, pelengkap pakaian dan barang perlengkapan pribadi bekas yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar), seperti baju bekas, celana bekas, mantel bekas, sepatu bekas, selendang dan topi bekas, jam tangan bekas, barang perhiasan bekas."
+    },
+    "47896": {
+      "uuid": "7465ef96-931a-4532-a2fa-a1d29934aeae",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran barang listrik dan elektronik bekas yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar), seperti radio bekas, tape recorder bekas, televisi bekas, mesin cuci bekas, seterika listrik bekas dan pengering/pengeriting rambut bekas."
+    },
+    "47897": {
+      "uuid": "bb919cea-a8f6-49ab-a345-16d95b870437",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran berbagai macam barang bekas campuran yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar)."
+    },
+    "47899": {
+      "uuid": "69f08a5d-a69b-4793-8665-9425dbe58f11",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran barang lainnya yang dilakukan di pinggir jalan umum (kaki lima), serambi muka (emper) toko atau tempat tetap di pasar yang dapat dipindah-pindah atau didorong (los pasar) yang belum diklasifikasikan dalam kelompok 47891 s.d. 47897."
+    },
+    "47911": {
+      "uuid": "e7a9a01e-4cd7-4ac6-bb0a-2103b155d373",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran berbagai jenis barang makanan, minuman, tembakau, kimia, farmasi, kosmetik dan alat laboratorium melalui pesanan (surat, telepon atau internet) dan barang akan dikirim kepada pembeli sesuai dengan barang yang diinginkan berdasarkan katalog, iklan, model, telepon, radio, televisi, internet, media massa dan sejenisnya."
+    },
+    "47912": {
+      "uuid": "6de5e280-3d4c-4cbe-bbfb-063b0a7d7ada",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran berbagai jenis barang tekstil, pakaian, alas kaki dan barang keperluan pribadi melalui pesanan (surat, telepon atau internet) dan barang akan dikirim kepada pembeli sesuai dengan barang yang diinginkan berdasarkan katalog, iklan, model, telepon, radio, televisi, internet, media massa dan sejenisnya."
+    },
+    "47913": {
+      "uuid": "500479c8-59a1-4ee9-ac07-9bae479bf32d",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran berbagai jenis barang keperluan rumah tangga dan perlengkapan dapur melalui pesanan (surat, telepon atau internet) dan barang akan dikirim kepada pembeli sesuai dengan barang yang diinginkan berdasarkan katalog, iklan, model, telepon, radio, televisi, internet, media massa dan sejenisnya."
+    },
+    "47914": {
+      "uuid": "1f717798-ec7f-4e1d-8c79-6ffd18487239",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran berbagai jenis barang campuran sebagaimana tersebut dalam 47911 s.d. 47913 melalui pesanan (surat, telepon atau internet) dan barang akan dikirim kepada pembeli sesuai dengan barang yang diinginkan berdasarkan katalog, iklan, model, telepon, radio, televisi, internet, media massa dan sejenisnya."
+    },
+    "47919": {
+      "uuid": "ffeffbf4-2df1-46d5-b1a7-d1c69aa96b5c",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran berbagai barang lainnya melalui pesanan dan barang akan dikirim kepada pembeli sesuai dengan barang yang diinginkan berdasarkan katalog, model, telepon, tv, internet, media massa, dan sejenisnya."
+    },
+    "47920": {
+      "uuid": "10577a2a-b702-407f-bd45-cdfba59b34f4",
+      "uraian": "Kelompok ini mencakup usaha pedagang perantara (makelar), seperti agen komisi perdagangan eceran yang menerima komisi dari pedagang eceran lainnya yang memperdagangkan barang-barang di dalam negeri atas nama pihak lain."
+    },
+    "47991": {
+      "uuid": "c98220fd-ac6d-421d-92ab-1b623dd2d8d7",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran komoditi makanan dari hasil pertanian yang dilakukan dengan cara menjajakannya berkeliling dan tidak mempunyai tempat yang tetap atau menjualnya mendatangi rumah ke rumah masyarakat/langganan."
+    },
+    "47992": {
+      "uuid": "c7e578c5-480d-4f03-bbd7-e3ab1ef19ba3",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran komoditi makanan, minuman atau tembakau dari hasil industri pengolahan yang dilakukan dengan cara menjajakannya berkeliling dan tidak mempunyai tempat yang tetap atau menjualnya mendatangi rumah ke rumah masyarakat/langganan."
+    },
+    "47994": {
+      "uuid": "6151d492-dd54-4c20-b3f8-4901b86a5bf7",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran tekstil, pakaian, alas kaki dan barang keperluan pribadi yang dilakukan dengan cara menjajakannya berkeliling dan tidak mempunyai tempat yang tetap atau menjualnya mendatangi rumah ke rumah masyarakat/langganan."
+    },
+    "47995": {
+      "uuid": "ff095865-4c5c-4b82-a56d-b2b800d9958f",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran perlengkapan rumah tangga dan perlengkapan dapur yang dilakukan dengan cara menjajakannya berkeliling dan tidak mempunyai tempat yang tetap atau menjualnya mendatangi rumah ke rumah masyarakat/langganan."
+    },
+    "47997": {
+      "uuid": "31cc208a-6af2-48ea-94d5-ba06d7b900d7",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran kertas, barang dari kertas, alat tulis, barang cetakan, alat olahraga, alat musik, alat fotografi dan komputer yang dilakukan dengan cara menjajakannya berkeliling dan tidak mempunyai tempat yang tetap atau menjualnya mendatangi rumah ke rumah masyarakat/langganan."
+    },
+    "47998": {
+      "uuid": "20457a88-1389-4e0b-b9f3-b2b47f7cc3d1",
+      "uraian": "Kelompok ini mencakup usaha perdagangan eceran barang kerajinan, mainan anak-anak dan lukisan yang dilakukan dengan cara menjajakannya berkeliling dan tidak mempunyai tempat yang tetap atau menjualnya mendatangi rumah ke rumah masyarakat/langganan."
+    },
+    "52101": {
+      "uuid": "ba42b3be-a5b4-40d7-bb13-f350194fad94",
+      "uraian": "Kelompok ini mencakup usaha yang melakukan kegiatan penyimpanan barang sementara sebelum barang tersebut di kirim ke tujuan akhir, dengan tujuan komersil."
+    },
+    "52102": {
+      "uuid": "472ef97b-fe1f-4767-82f7-5df8c972fec8",
+      "uraian": "Kelompok ini mencakup usaha penyimpanan barang yang memerlukan pendinginan dalam jangka waktu pengawetan tertentu atas dasar balas jasa (fee) atau kontrak, sebelum barang tersebut dikirim ke tujuan akhir. Termasuk juga di kelompok ini gudang pembekuan cepat (blast freezing)."
+    },
+    "59112": {
+      "uuid": "d6001ac5-ac0a-4bd2-85fd-168c4e10d38e",
+      "uraian": "Kelompok ini mencakup usaha pembuatan dan produksi gambar bergerak, film, video, animasi, program televisi atau iklan bergerak televisi yang dikelola oleh swasta atas dasar balas jasa juga usaha pembuatan film untuk televisi dan jasa pengiriman film dan agen pembukuan film. Kelompok ini tidak mecakup aktivitas duplikasi film dan reproduksi audio/video dari master copies (18202) dan animasi pascaproduksi (5912)."
+    },
+    "59122": {
+      "uuid": "104f4aa9-c5ee-459e-86d6-2ef0375f36a7",
+      "uraian": "Kelompok ini mencakup kegiata usaha pascaproduksi, seperti editing, cutting, dubbing, titling dan credit film, closed captioning, pembuatan grafis komputer, animasi dan special effects dan transfer film atau tape termasuk kegiatan studio perfilman dan studio khusus film animasi yang melakukan pengembangan dan pemrosesan film dan reproduksi film untuk distribusi ke bioskop serta kegiatan dokumentasi potongan film atau gambar bergerak yang dikelola oleh swasta atas dasar balas jasa."
+    },
+    "61999": {
+      "uuid": "be8dcc67-84ef-4aa9-a79b-4cbeef15131e",
+      "uraian": "Kelompok ini mencakup usaha penyelenggaraan telekomunikasi lainnya yang belum dicakup di tempat lain. Termasuk dalam kelompok ini adalah kegiatan penjualan pulsa, baik voucher pulsa maupun elektronik dan penjualan kartu perdana telepon seluler."
+    },
+    "63990": {
+      "uuid": "20d98e34-84e8-4777-8827-9108010c6660",
+      "uraian": "Kelompok ini mencakup usaha jasa informasi lainnya yang tidak dapat diklasifikasikan di tempat lain, seperti jasa informasi berbasis telepon, jasa pencarian informasi atas dasar balas jasa atau kontrak dan jasa kliping berita, jasa kliping pers dan lain-lain. Termasuk dalam kelompok ini kegiatan jasa penyedia konten."
+    },
+    "73100": {
+      "uuid": "31ed304d-a3e6-4087-83aa-9c8e37d02fc7",
+      "uraian": "Kelompok ini mencakup usaha berbagai jasa periklanan (baik dengan kemampuan sendiri atau disubkontrakkan), meliputi jasa bantuan penasihat, kreatif, produksi bahan periklanan, perencanaan dan pembelian media. Kegiatan yang termasuk seperti penciptaan dan penempatan iklan di surat kabar, majalah dan tabloid, radio, televisi, internet dan media lainnya; penciptaan dan penempatan iklan lapangan, misalnya papan pengumuman, panel-panel, jenis poster dan gambar, selebaran, pamflet, edaran, brosur dan frames, iklan jendela, desain ruang pamer, iklan mobil dan bus dan lain-lain; media penggambaran, yaitu penjualan ruang dan waktu untuk berbagai macam media iklan permohonan; iklan udara (aerial advertising), distribusi atau pengiriman materi atau contoh iklan; penyediaan ruang iklan di dalam papan pengumuman atau billboard dan lain-lain; penciptaan stan serta struktur dan tempat pamer lainnya; dan memimpin kampanye pemasaran dan jasa iklan lain yang ditujukan pada penarikan dan pempertahankan pelanggan, seperti promosi produk, pemasaran titik penjualan (point of sale), iklan surat (direct mail), konsultasi pemasaran."
+    },
+    "73201": {
+      "uuid": "1a4cca53-84a2-497c-b09d-f70f331ffbe0",
+      "uraian": "Kelompok ini mencakup usaha penelitian potensi pasar, penerimaan produk di pasar, kebiasaan dan tingkah laku konsumen, dalam kaitannya dengan promosi penjualan dan pengembangan produk baru."
+    },
+    "73202": {
+      "uuid": "3c19593c-73f8-4d5f-9644-917c719da437",
+      "uraian": "Kelompok ini mencakup usaha penelitian mengenai opini masyarakat mengenai permasalahan politik, ekonomi, dan sosial."
+    },
+    "74202": {
+      "uuid": "d6d91e27-aeca-4d07-b6e4-2021edf462d3",
+      "uraian": "Kelompok ini mencakup kegiatan angkutan udara untuk kegiatan pemotretan, survei dan pemetaan khusus dengan pesawat udara berdasarkan maksud dan tujuan tertentu dengan tujuan kota-kota atau provinsi di dalam negeri."
+    },
+    "74902": {
+      "uuid": "7ae97dc4-c0be-4d74-875d-3e21dbd76723",
+      "uraian": "Kelompok ini mencakup usaha pemberian saran dan bantuan operasional pada dunia bisnis, seperti kegiatan broker bisnis yang mengatur pembelian dan penjualan bisnis berskala kecil dan menengah, termasuk praktik profesional, kegiatan broker hak paten (pengaturan pembelian dan penjualan hak paten), kegiatan penilaian selain real estat dan asuransi (untuk barang antik, perhiasan dan lain-lain), audit rekening dan informasi tarif barang atau muatan, kegiatan pengukuran kuantitas dan kegiatan peramalan cuaca. Tidak termasuk makelar real estat."
+    },
+    "77100": {
+      "uuid": "591317cb-f007-4762-9e28-18833e553a36",
+      "uraian": "Kelompok ini mencakup kegiatan penyewaan dan sewa guna usaha tanpa hak opsi (operational leasing) semua jenis alat transportasi darat tanpa operatornya seperti mobil, truk dan mobil derek. Penyewaan atau sewa guna usaha tanpa hak opsi alat transportasi darat dengan operatornya dicakup dalam golongan 492 dan 494. Penyewaan sepeda dicakup dalam kelompok 77210."
+    },
+    "77210": {
+      "uuid": "a3a387f4-d73a-4bd8-b8f8-7b905ae9d9d6",
+      "uraian": "Kelompok ini mencakup kegiatan penyewaan dan sewa guna usaha tanpa hak opsi (operational leasing) semua jenis barang untuk keperluan rekreasi dan olahraga, seperti peralatan olahraga air, perahu kano dan perahu layar, kurdi dan payung pantai, sepeda dan peralatan olahraga lainnya. Termasuk peralatan ski dan kapal pesiar. Sewa guna usaha dengan hak opsi (financial leasing) dicakup dalam 6491."
+    },
+    "77291": {
+      "uuid": "8eee181c-10ed-4abe-ab3c-73c1514c6b13",
+      "uraian": "Kelompok ini mencakup kegiatan penyewaan dan sewa guna usaha tanpa hak opsi semua jenis barang untuk keperluan pesta, seperti tenda, kursi tamu, kursi pelamin dan dekor serta kostum, peralatan makan dan saji, peralatan musik dan perlengkapan pesta lainnya."
+    },
+    "77292": {
+      "uuid": "4ac3c815-0692-4994-a8c7-14132228129f",
+      "uraian": "Kelompok ini mencakup kegiatan penyewaan dan sewa guna usaha tanpa hak opsi (operational leasing) semua jenis barang untuk keperluan rumah tangga dan pribadi termasuk furnitur, peralatan dapur dan alat rumah tangga dari listrik, seperti tekstil, pakaian jadi, alas kaki, perhiasan, tempat tidur, lemari, panci, kompor, pisau, mesin cuci, kulkas, dispenser, dan lain-lain. Sewa guna usaha dengan hak opsi (financial leasing) dicakup pada 6491."
+    },
+    "77293": {
+      "uuid": "6e0b2f71-2df8-433f-aede-b65e4f248f55",
+      "uraian": "Kelompok ini mencakup kegiatan penyewaan dan sewa guna usaha tanpa hak opsi (operational leasing) barang-barang hasil pencetakan dan penerbitan, seperti buku, majalah, komik, kliping koran dan lain-lain."
+    },
+    "77294": {
+      "uuid": "b415ac8b-cd98-41b7-82c8-b78b48bcc285",
+      "uraian": "Kelompok ini mencakup kegiatan penyewaan dan sewa guna usaha tanpa hak opsi (opeartional leasing) semua jenis bunga dan tanaman hias, seperti tanaman untuk pesta, dan lain-lain."
+    },
+    "77295": {
+      "uuid": "1240b6ec-3d68-495f-8c46-bc1e2b9cac90",
+      "uraian": "Kelompok ini mencakup kegiatan penyewaan dan sewa guna usaha tanpa hak opsi (operational leasing) peralatan musik, seperti gitar, drum, organ dan alat musik lainnya."
+    },
+    "77299": {
+      "uuid": "4d44f563-18cf-4dcb-a962-22cbfc7d44c9",
+      "uraian": "Kelompok ini mencakup kegiatan penyewaan dan sewa guna usaha tanpa hak opsi (operational leasing) semua jenis barang untuk keperluan rumah tangga dan pribadi yang belum diklasifikan dalam kelompok 77291 s.d. 77295, seperti peralatan elektronik rumah tangga, televisi, radio, mesin dan perkakas rumah tangga yang biasanya merupakan peralatan hobi untuk memperbaiki peralatan rumah tangga, dan lain-lain. Termasuk kegiatan penyewaan ikan hias dengan akuarium, dapat dilengkapi dengan usaha jasa perawatan dan pembersihannya."
+    },
+    "77311": {
+      "uuid": "50c3657b-144c-4d30-8f13-b24fbbca0e5b",
+      "uraian": "Kelompok ini mencakup kegiatan penyewaan dan sewa guna usaha tanpa hak opsi (operational leasing) semua jenis alat transportasi darat bukan kendaraan bermotor roda empat atau lebih (mobil, bis, truk dan sejenisnya) tanpa operatornya, seperti sepeda motor, caravan, camper, railroad vehicle dan sejenisnya. Kelompok ini juga mencakup usaha persewaan peti kemas (container). Persewaan alat transportasi darat dengan operatornya dicakup dalam subgolongan 4922, 4942 dan 4943. Penyewaan alat transportasi darat kendaraan bermotor roda empat atau lebih (mobil, bus, truk dan sejenisnya) tanpa operatornya masuk dalam 77100. Penyewaan sepeda dicakup dalam 77210."
+    },
+    "77312": {
+      "uuid": "1cb1afee-8eb4-4e85-b58d-681c4f0665a0",
+      "uraian": "Kelompok ini mencakup kegiatan penyewaan dan sewa guna usaha tanpa hak opsi (operational leasing) alat transportasi air tanpa operatornya, seperti motor boat, perahu, kapal dan sejenisnya. Penyewaan alat transportasi air dengan operatornya dicakup dalam golongan pokok 50 pada kelompok yang bersesuaian. Penyewaan kapal pesiar dicakup dalam 77210."
+    },
+    "77313": {
+      "uuid": "762a7e9d-d2cf-4af3-b804-6ab970e232a5",
+      "uraian": "Kelompok ini mencakup kegiatan penyewaan dan sewa guna usaha tanpa hak opsi (operational leasing) alat transportasi udara tanpa operatornya, seperti pesawat terbang, balon udara dan sejenisnya. Penyewaan alat transportasi udara dengan operatornya dicakup dalam golongan pokok 51 pada kelompok yang bersesuaian."
+    },
+    "77319": {
+      "uuid": "bdd25b06-e4ca-44ca-97a7-19ab48a5f7eb",
+      "uraian": "Kelompok ini mencakup kegiatan penyewaan dan sewa guna usaha tanpa hak opsi (operational leasing) alat transportasi lainnya."
+    },
+    "77321": {
+      "uuid": "b8b2e6c1-2599-4757-a576-9bf41ae95b4b",
+      "uraian": "Kelompok ini mencakup kegiatan penyewaan dan sewa guna usaha tanpa hak opsi (operational leasing) mesin, peralatan dan barang kebutuhan shooting yang mencakup sewa alat rekam gambar dan suara berupa kamera, media rekam, pencahayaan, alat editing, alat motion control dan kebutuhan alat penunjang lain yang terkait dengan aktivitas 5911 dan 5912."
+    },
+    "77322": {
+      "uuid": "c4adc276-805d-4549-823a-409ed158ef62",
+      "uraian": "Kelompok ini mencakup kegiatan penyewaan dan sewa guna usaha tanpa hak opsi (operational leasing) mesin, peralatan dan barang kebutuhan teknologi digital yang mencakup sewa render farm, sewa motion capture, sewa 3D scanner, dan kebutuhan penunjang lain yang terkait aktivitas 5911 dan 5912. Sewa lisensi software dicakup dalam 58200."
+    },
+    "77323": {
+      "uuid": "525c8d8e-ca52-45c3-83d7-f1217c93d651",
+      "uraian": "Kelompok ini mencakup kegiatan penyewaan dan sewa guna usaha tanpa hak opsi (operational leasing) mesin, dan peralatan barang dekorasi kebutuhan Meeting, Incentive, Convention, and Exhibition (MICE) dan penunjang lainnya."
+    },
+    "77329": {
+      "uuid": "64ee1b92-1268-4b54-812b-7ec139e26e7e",
+      "uraian": "Kelompok ini mencakup kegiatan penyewaan dan sewa guna usaha tanpa hak opsi (operational leasing) mesin dan peralatan industri kreatif lainnya. Sewa lisensi software termasuk kelompok 58200."
+    },
+    "77392": {
+      "uuid": "aa21ea5d-d4c4-483c-8564-09cb4b910813",
+      "uraian": "Kelompok ini mencakup kegiatan penyewaan dan sewa guna usaha tanpa hak opsi (operational leasing) mesin dan peralatan pertanian dan kehutanan tanpa operator termasuk perlengkapannya, seperti mesin dan peralatan yang dihasilkan oleh subgolongan 2821, sebagai contoh traktor pertanian dan sejenisnya. Penyewaan mesin dan peralatan pertanian dan kehutanan dengan operatornya termasuk perlengkapannya secara berturut-turut dimasukkan dalam subgolongan 0161 dan 0240."
+    },
+    "77393": {
+      "uuid": "1e305738-3779-4793-9ae7-296e6d7980fe",
+      "uraian": "Kelompok ini mencakup kegiatan penyewaan dan sewa guna usaha tanpa hak opsi (operational leasing) mesin dan peralatan konstruksi dan teknik sipil termasuk perlengkapannya tanpa operatornya, seperti lori derek (crane lorries), tangga dan panggung kerja (scaffold dan work platform) tidak termasuk pemasangan dan pemancangannya dan sejenisnya. Penyewaan mesin dan peralatan konstruksi dan teknik sipil termasuk perlengkapannya dengan operatornya dimasukkan dalam 43905."
+    },
+    "77394": {
+      "uuid": "36159f39-6802-4888-8443-414eb8e66f2a",
+      "uraian": "Kelompok ini mencakup kegiatan penyewaan dan sewa guna usaha tanpa hak opsi (operational leasing) semua jenis mesin kantor dan peralatannya tanpa operator, seperti mesin tik, mesin akuntansi, mesin dan peralatan penghitung (cash register, kalkulator elektronik dan lain-lain), mesin pengolah data, mesin fotokopi, furnitur kantor dan sejenisnya. Termasuk penyewaan komputer dan perlengkapannya tanpa operatornya."
+    },
+    "77395": {
+      "uuid": "d6f4e83a-6ea1-4d05-88cc-4dae363b7cbb",
+      "uraian": "Kelompok ini mencakup kegiatan penyewaan dan sewa guna usaha tanpa hak opsi (operational leasing) mesin dan peralatan pertambangan dan penggalian tanpa operator yang secara umum digunakan sebagai barang modal oleh perusahaan, seperti mesin pembangkit listrik. Termasuk mesin penggerak atau uap dan turbin, alat pertambangan dan perminyakan, peralatan radio dan komunikasi profesional."
+    },
+    "77399": {
+      "uuid": "f9b4632d-822c-4f77-b02e-7dd27dab4af3",
+      "uraian": "Kelompok ini mencakup kegiatan penyewaan dan sewa guna usaha tanpa hak opsi (operational leasing) mesin, peralatan dan barang berwujud ytdl dalam subgolongan 7730 yang secara umum digunakan sebagai barang modal, seperti kontainer untuk tempat tinggal atau kantor, palet (alat pengangkat kontainer) dan sejenisnya.Termasuk penyewaan alat pemindaian bagasi dengan sumber radiasi pengion dan penyewaan hewan ternak, kuda pacu dan sejenisnya."
+    },
+    "77400": {
+      "uuid": "4914e143-890e-48fe-ab5b-adcbad22d173",
+      "uraian": "Kelompok ini mencakup usaha yang kegiatan memperbolehkan pihak lain menggunakan aset non finansial di mana pembayaran royalti atau balas jasa lisensi yang dibayar ke pemegang aset. Penggunaan aset tersebut dapat berbagai macam bentuk, seperti izin reproduksi, digunakan dalam proses atau produksi berikut, pengoperasian bisnis di bawah sistem waralaba dan lain-lain. Pemilik intelektual properti dapat sekaligus pembuatnya atau juga bukan. kegiatan yang dicakup meliputi sewa guna usaha tanpa hak opsi (operational leasing) intelektual properti yang tak berwujud (bukan karya/hak cipta seperti buku atau piranti lunak) dan penerimaan royalti atau balas jasa lisensi untuk penggunaan, seperti entitas yang dipatenkan, trade mark dan service mark, brand name, hak eksplorasi barang tambang/mineral, perjanjian franchise/waralaba dan intelektual properti yang tak berwujud lainnya."
+    },
+    "81100": {
+      "uuid": "752194d1-1af7-42fd-97dd-7dbcc9cd3d34",
+      "uraian": "Kelompok ini secara khusus menyediakan sebuah gabungan jasa penunjang, seperti pembersihan interior umum, pemeliharaan, pembuangan sampah, penjagaan dan pengamanan, pengiriman surat, penerimaan tamu, pencucian pakaian dan jasa yang berhubungan untuk menunjang operasional dalam fasilitas klien. Kelompok ini juga menyediakan tenaga operasianal untuk melakukan kegiatan penunjang ini, akan tetapi tidak termasuk dengan atau tanggung jawab atas usaha atau kegiatan utama klien."
+    },
+    "81210": {
+      "uuid": "2197897e-d94a-4217-9872-6274f4873236",
+      "uraian": "Kelompok ini mencakup kegiatan penyedia jasa kebersihan bermacam jenis gedung milik perusahaan/lembaga/badan/instansi pemerintah atau swasta, seperti gedung perkantoran, pabrik, pertokoan, balai pertemuan dan gedung sekolah, termasuk jasa kebersihan interior gedung-gedung tersebut, seperti pembersihan lantai, dinding, furnitur, jendela, ventilasi dan unit exhaust. Pencucian karpet dan permadani serta pembersihan gorden dimasukkan dalam kelompok 96200. Kegiatan jasa kebersihan gedung yang dilakukan oleh pekerja yang melayani rumah tangga dimasukkan dalam kelompok 97000."
+    },
+    "81300": {
+      "uuid": "0debd542-570f-4e74-b8c1-dfab27712014",
+      "uraian": "Kelompok ini mencakup kegiatan pengerjaan, perawatan dan pemelihaan pertamanan untuk lokasi bangunan hunian dan non hunian serta serta bangunan sipil lainnya, seperti taman dan kebun untuk perumahan pribadi dan umum, bangunan publik dan semi-publik (sekolah, rumah sakit, lembaga pemerintah, tempat ibadah dan lain-lain), kawasan perkotaan (taman, kawasan penghijauan, pemakaman atau kuburan dan lain-lain), jalur hijau jalan bebas hambatan (jalan, jalur kereta, jalur angkutan air) dan bangunan industri dan komersial; penghijauan untuk bangunan (kebun di atas atap, penghijauan depan bangunan, tanaman dalam ruangan), taman olahraga, taman bermain dan taman rekreasi lainnya (lapangan olahraga, bermain, berjemur dan golf), dan tempat air tenang dan mengalir (kolam, kolam renang, selokan, anak sungai, sistem saluran pembuangan); dan tanaman untuk perlindungan terhadap suara atau keributan, angin, erosi, jarak pandang dan panas atau silau matahari."
+    },
+    "82110": {
+      "uuid": "b2e38ff5-7399-4841-a233-99c7f6d77667",
+      "uraian": "Kelompok ini mencakup penyediaan gabungan jasa administrasi perkantoran sehari-hari, seperti penerimaan tamu, perencanaan keuangan, pemeliharaan catatan dan tagihan rekening, jasa personalia dan surat menyurat."
+    },
+    "82190": {
+      "uuid": "178556b6-e9b2-41d3-9443-273a7906dd7b",
+      "uraian": "Kelompok ini mencakup aktivitas penyedia jasa khusus penunjang kantor atau perusahaan lainnya yang tidak dapat diklasifikasikan di tempat lain, seperti penyiapan dokumen, editing dan koreksi dokumen, pengetikan, pengolahan kata atau desktop publishing, jasa penunjang sekretariat, perekaman dokumen dan jasa sekretariat lainnya, penulisan surat atau ringkasan, persewaan kotak surat dan jasa postal dan surat menyurat lainnya (kecuali direct mail advertising), jasa fotokopi, penggandaan, blue printing, jasa pengolah kata, jasa penggandaan dokumen lain yang juga menyediakan jasa pencetakan, seperti pencetakan offset, pencetakan cepat, pencetakan digital dan pencetakan prepress."
+    },
+    "95291": {
+      "uuid": "ca5fc420-9309-40d3-a4a9-88459be8f73f",
+      "uraian": "Kelompok ini mencakup usaha vermak pakaian, yang melayani masyarakat umum dengan tujuan komersil."
+    },
+    "96111": {
+      "uuid": "1a001fbb-77da-4b51-9e00-bdc10e579ab5",
+      "uraian": "Kelompok ini mencakup usaha jasa pemangkas dan perawatan rambut yang melayani masyarakat umum, termasuk juga pemangkas kumis, jambang maupun jenggot, yang biasanya dilakukan oleh perorangan. Umumnya untuk kaum pria, seperti barber shop."
+    },
+    "96112": {
+      "uuid": "8659447c-94fd-4ba0-92e2-a06905d83f5a",
+      "uraian": "Kelompok ini mencakup usaha jasa pemeliharaan rambut dan perawatan kecantikan, seperti perawatan muka dan kulit muka, pijat muka, make-up, manikur, pedikur, pencucian, perapian dan pemotongan, penataan, pencelupan, pewarnaan, pengeritingan, pelurusan dan kegiatan serupa untuk rambut pria dan wanita dan jasa salon sejenisnya."
+    },
+    "96200": {
+      "uuid": "7f26c9b4-7c7d-4b52-b606-a115ef7f618d",
+      "uraian": "Kelompok ini mencakup usaha jasa pelayanan pencucian dan dry cleaning, penatu, pencelupan dan tisi barang-barang tekstil jadi (termasuk berbahan kulit bulu binatang) dan tekstil lainnya untuk keperluan rumah tangga maupun industri perorangan, dilakukan dengan peralatan mekanik, baik yang dioperasikan dengan tangan atau dengan koin, seperti taplak meja, seprei, karpet, termasuk juga pakaian dan barang tekstil jadi. Termasuk kegiatan pencucian (shampooing) carpet, dan rug serta curtain gorden; jasa pengumpulan penatu dan pengirimannya; jasa penyediaan linen, seragam kerja dan barang lain yang terkait oleh penatu; reparasi dan alterasi atau pengubahan kecil dari pakaian atau tekstil lain yang terkait dengan pencucian."
+    },
+    "96990": {
+      "uuid": "5fd12071-c823-43e1-8e68-f9151f55099a",
+      "uraian": "Kelompok ini mencakup usaha jasa perorangan lainnya ytdl, seperti tukang semir sepatu, tukang pijat, tukang ramal, penunjuk jalan yang dilakukan atas dasar balas jasa, konsultasi pernikahan. Termasuk kegiatan astrologi dan spiritual; jasa pendamping, layanan kencan, jasa dari biro pernikahan; jasa pemeliharaan hewan peliharaan seperti perawatan, pengasuhan dan pelatihan hewan peliharaan baik dengan akomodasi atau tidak; organisasi keturunan atau kesilsilahan; kuli/buruh angkut barang, juru parkir mobil dan lain-lain; operasional konsensi dari mesin yang dioperasikan dengan koin (kamar foto, mesin timbang, mesin untuk pemeriksaan tekanan darah, loker yang dioperasikan dengan koin); kegiatan pengelolaan WC umum; jasa pengupasan kulit udang, jasa pengupasan kulit kepiting/rajungan, jasa penyiangan paha kodok (yang usahanya berdiri sendiri dan tidak bergantung pada usaha industrinya)."
+    }
+  },
+  "failed": [
+    "46653",
+    "47849",
+    "47993"
+  ]
+}

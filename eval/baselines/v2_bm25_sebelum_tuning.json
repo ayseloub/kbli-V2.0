@@ -1,0 +1,1232 @@
+{
+  "model": null,
+  "results": {
+    "bm25": {
+      "mode": "bm25",
+      "metrics": {
+        "p@1": 0.7969,
+        "recall@5": 0.9062,
+        "mrr@5": 0.8344,
+        "ndcg@5": 0.852
+      },
+      "per_query": [
+        {
+          "query": "usaha pecucian baju dry cleaning dan tekstil lainnya",
+          "expected": [
+            "96200"
+          ],
+          "got": [
+            "96200",
+            "28262",
+            "14111",
+            "13111",
+            "47711"
+          ],
+          "kasus": "Kasus 1 - Variasi Deskripsi",
+          "confidence": "ragu",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "Tolong buatin Kode buat usaha laundry atau dry cleaning yang nyuci, nyetrika, sampe beresin baju dan barang tekstil, baik buat rumahan biasa maupun buat kebutuhan bisnis kayak hotel atau salon.",
+          "expected": [
+            "96200"
+          ],
+          "got": [
+            "96112",
+            "96200",
+            "96111",
+            "45202",
+            "28262"
+          ],
+          "kasus": "Kasus 1 - Variasi Deskripsi",
+          "confidence": "ragu",
+          "p@1": 0.0,
+          "recall@5": 1.0,
+          "mrr@5": 0.5,
+          "ndcg@5": 0.6309297535714575
+        },
+        {
+          "query": "usaha pencucian pakaian dan aktivitas penatu",
+          "expected": [
+            "96200"
+          ],
+          "got": [
+            "96200",
+            "28262",
+            "95291",
+            "81100",
+            "77292"
+          ],
+          "kasus": "Kasus 1 - Variasi Deskripsi",
+          "confidence": "tinggi",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "usaha laundry baju dan karpet kiloan",
+          "expected": [
+            "96200"
+          ],
+          "got": [
+            "96200",
+            "14301",
+            "14111",
+            "47742",
+            "47711"
+          ],
+          "kasus": "Kasus 1 - Variasi Deskripsi",
+          "confidence": "ragu",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "Cari kode KBLI untuk usaha yang menyediakan jasa pencucian, dry cleaning, penatu, serta penyetrikaan dan perawatan berbagai jenis tekstil bagi rumah tangga maupun industri perorangan.",
+          "expected": [
+            "96200"
+          ],
+          "got": [
+            "96200",
+            "28262",
+            "95220",
+            "27520",
+            "46411"
+          ],
+          "kasus": "Kasus 1 - Variasi Deskripsi",
+          "confidence": "tinggi",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "Cari kode KBLI untuk usaha yang menyediakan jasa pencucian (laundry), dry cleaning, dan perawatan sepatu serta pencucian barang tekstil rumah tangga maupun milik perorangan.",
+          "expected": [
+            "96200"
+          ],
+          "got": [
+            "96200",
+            "28262",
+            "95220",
+            "77292",
+            "27510"
+          ],
+          "kasus": "Kasus 1 - Variasi Deskripsi",
+          "confidence": "ragu",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "Kode ini buat usaha yang fokus ke layanan cuci, setrika, dan rawat pakaian atau barang kain, entah buat orang biasa atau kebutuhan usaha",
+          "expected": [
+            "96200"
+          ],
+          "got": [
+            "96200",
+            "96111",
+            "14200",
+            "14131",
+            "79921"
+          ],
+          "kasus": "Kasus 1 - Variasi Deskripsi",
+          "confidence": "ragu",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "Saya mencari kode KBLI untuk usaha yang menyediakan jasa pencucian, dry cleaning, penatu, dan penyetrikaan barang-barang tekstil jadi bagi rumah tangga maupun pelanggan perorangan.",
+          "expected": [
+            "96200"
+          ],
+          "got": [
+            "96200",
+            "28262",
+            "13921",
+            "77292",
+            "46411"
+          ],
+          "kasus": "Kasus 1 - Variasi Deskripsi",
+          "confidence": "tinggi",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "Carikan kode KBLI berkaitan dengan usaha yang menyediakan jasa cuci barang. pakaian",
+          "expected": [
+            "96200"
+          ],
+          "got": [
+            "96200",
+            "81100",
+            "35129",
+            "63112",
+            "95220"
+          ],
+          "kasus": "Kasus 1 - Variasi Deskripsi",
+          "confidence": "tinggi",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "Layanan laundry yang nyediain jasa nyuci, nyetrika, sampe ngerapiin pakaian dan barang berbahan kain, cocok buat kebutuhan pribadi maupun usaha",
+          "expected": [
+            "96200"
+          ],
+          "got": [
+            "96200",
+            "47994",
+            "47912",
+            "14131",
+            "47895"
+          ],
+          "kasus": "Kasus 1 - Variasi Deskripsi",
+          "confidence": "luar_topik",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "Kode KBLI mencakup kegiatan usaha yang bergerak di bidang jasa pencucian pakaian dan tekstil, termasuk layanan dry cleaning, penatu, penyetrikaan, serta perawatan berbagai produk tekstil untuk kebutuhan rumah tangga maupun pelanggan perorangan.",
+          "expected": [
+            "96200"
+          ],
+          "got": [
+            "96200",
+            "28262",
+            "47994",
+            "46411",
+            "47512"
+          ],
+          "kasus": "Kasus 1 - Variasi Deskripsi",
+          "confidence": "tinggi",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "Usaha yang bergerak di bidang layanan laundry, dry cleaning, pencucian sepatu, serta pembersihan berbagai produk tekstil untuk kebutuhan rumah tangga maupun pelanggan individu.",
+          "expected": [
+            "96200"
+          ],
+          "got": [
+            "96200",
+            "28262",
+            "20231",
+            "77292",
+            "95220"
+          ],
+          "kasus": "Kasus 1 - Variasi Deskripsi",
+          "confidence": "ragu",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "Ini masuk ke bisnis laundry dan dry cleaning, yaitu jasa bersihin dan merapikan pakaian maupun tekstil lainnya",
+          "expected": [
+            "96200"
+          ],
+          "got": [
+            "96200",
+            "23957",
+            "14111",
+            "28262",
+            "14131"
+          ],
+          "kasus": "Kasus 1 - Variasi Deskripsi",
+          "confidence": "tinggi",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "Usaha yang bergerak dalam penyediaan layanan laundry, meliputi pencucian, dry cleaning, penatu, serta penyetrikaan berbagai jenis pakaian dan barang tekstil jadi untuk kebutuhan rumah tangga maupun pelanggan perorangan.",
+          "expected": [
+            "96200"
+          ],
+          "got": [
+            "96200",
+            "28262",
+            "77292",
+            "47994",
+            "95220"
+          ],
+          "kasus": "Kasus 1 - Variasi Deskripsi",
+          "confidence": "tinggi",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "Carikan kode KBLI yang berkaitan dengan usaha penyedia jasa pencucian barang, khususnya pakaian.",
+          "expected": [
+            "96200"
+          ],
+          "got": [
+            "96200",
+            "81100",
+            "95220",
+            "35129",
+            "63112"
+          ],
+          "kasus": "Kasus 1 - Variasi Deskripsi",
+          "confidence": "ragu",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "usaha pembuatan perangkat lunak",
+          "expected": [
+            "58200"
+          ],
+          "got": [
+            "58200",
+            "62019",
+            "18201",
+            "62024",
+            "62029"
+          ],
+          "kasus": "Kasus 1 - Variasi Deskripsi",
+          "confidence": "ragu",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "Ada gak kode buat perusahaan yang jual aplikasi atau game siap pakai, gak termasuk yang bikin sesuai pesanan klien",
+          "expected": [
+            "58200"
+          ],
+          "got": [
+            "58200",
+            "62019",
+            "47413",
+            "62029",
+            "14120"
+          ],
+          "kasus": "Kasus 1 - Variasi Deskripsi",
+          "confidence": "ragu",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "Saya mencari kode KBLI untuk perusahaan yang mengembangkan dan menerbitkan perangkat lunak siap digunakan, seperti aplikasi, sistem operasi, atau permainan digital yang dipasarkan kepada pengguna.",
+          "expected": [
+            "58200"
+          ],
+          "got": [
+            "58200",
+            "62019",
+            "62029",
+            "47413",
+            "46512"
+          ],
+          "kasus": "Kasus 1 - Variasi Deskripsi",
+          "confidence": "ragu",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "Cari kode KBLI untuk usaha yang menerbitkan perangkat lunak siap pakai, seperti sistem operasi, aplikasi bisnis, dan video game yang dapat digunakan di berbagai platform tanpa dibuat berdasarkan pesanan khusus.",
+          "expected": [
+            "58200"
+          ],
+          "got": [
+            "58200",
+            "62019",
+            "47413",
+            "62011",
+            "62029"
+          ],
+          "kasus": "Kasus 1 - Variasi Deskripsi",
+          "confidence": "tinggi",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "Kalau usaha yang bikin dan jual software jadi seperti aplikasi atau game yang langsung dipakai, itu biasanya kode ini.",
+          "expected": [
+            "58200"
+          ],
+          "got": [
+            "47413",
+            "58200",
+            "62019",
+            "46512",
+            "62011"
+          ],
+          "kasus": "Kasus 1 - Variasi Deskripsi",
+          "confidence": "ragu",
+          "p@1": 0.0,
+          "recall@5": 1.0,
+          "mrr@5": 0.5,
+          "ndcg@5": 0.6309297535714575
+        },
+        {
+          "query": "Saya mencari kode KBLI untuk usaha yang menerbitkan dan mendistribusikan perangkat lunak siap pakai, seperti sistem operasi, aplikasi bisnis, dan video game yang tidak dibuat berdasarkan pesanan.",
+          "expected": [
+            "58200"
+          ],
+          "got": [
+            "58200",
+            "62019",
+            "47413",
+            "62011",
+            "62029"
+          ],
+          "kasus": "Kasus 1 - Variasi Deskripsi",
+          "confidence": "tinggi",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "carikan kode KBLi untuk usaha yang bergerak dibidang jualan piranti lunak",
+          "expected": [
+            "58200"
+          ],
+          "got": [
+            "47413",
+            "46512",
+            "18201",
+            "58200",
+            "62019"
+          ],
+          "kasus": "Kasus 1 - Variasi Deskripsi",
+          "confidence": "ragu",
+          "p@1": 0.0,
+          "recall@5": 1.0,
+          "mrr@5": 0.25,
+          "ndcg@5": 0.43067655807339306
+        },
+        {
+          "query": "Bantu cari kode yang cocok buat bisnis desain logo, kemasan, sama materi promosi kayak brosur dan banner",
+          "expected": [
+            "74130"
+          ],
+          "got": [
+            "74130",
+            "78245",
+            "73100",
+            "74902",
+            "74142"
+          ],
+          "kasus": "Kasus 1 - Variasi Deskripsi",
+          "confidence": "tinggi",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "Kode KBLI apa yang digunakan untuk usaha yang menyediakan layanan desain grafis, branding, ilustrasi, dan pembuatan materi visual untuk media cetak maupun digital?",
+          "expected": [
+            "74130"
+          ],
+          "got": [
+            "74130",
+            "58190",
+            "62013",
+            "74142",
+            "79911"
+          ],
+          "kasus": "Kasus 1 - Variasi Deskripsi",
+          "confidence": "tinggi",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "Cari kode KBLI untuk usaha yang menyediakan jasa desain komunikasi visual atau desain grafis, seperti pembuatan logo, branding, desain iklan, kemasan, ilustrasi, infografik, materi promosi, desain media digital, serta desain untuk media cetak dan visual lainnya.",
+          "expected": [
+            "74130"
+          ],
+          "got": [
+            "74130",
+            "74142",
+            "74141",
+            "74115",
+            "74119"
+          ],
+          "kasus": "Kasus 1 - Variasi Deskripsi",
+          "confidence": "tinggi",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "Kode ini dipakai buat jasa desain visual, misalnya bikin logo, poster, kemasan produk, atau tampilan promosi",
+          "expected": [
+            "74130"
+          ],
+          "got": [
+            "74130",
+            "74113",
+            "74112",
+            "74119",
+            "74114"
+          ],
+          "kasus": "Kasus 1 - Variasi Deskripsi",
+          "confidence": "ragu",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "Saya mencari kode KBLI untuk usaha yang menyediakan jasa desain komunikasi visual atau desain grafis, termasuk pembuatan logo, identitas merek, materi promosi, desain kemasan, ilustrasi, dan media digital maupun cetak.",
+          "expected": [
+            "74130"
+          ],
+          "got": [
+            "74130",
+            "74142",
+            "74115",
+            "74141",
+            "74120"
+          ],
+          "kasus": "Kasus 1 - Variasi Deskripsi",
+          "confidence": "tinggi",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "Carikan kode KBLI yang berkaitan dengan usaha penyedia jasa desain komunikasi visual atau desain grafis",
+          "expected": [
+            "74130"
+          ],
+          "got": [
+            "74130",
+            "74142",
+            "74115",
+            "74141",
+            "74120"
+          ],
+          "kasus": "Kasus 1 - Variasi Deskripsi",
+          "confidence": "tinggi",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "kode buat desain grafis secara umum, dari branding sampai signage toko",
+          "expected": [
+            "74130"
+          ],
+          "got": [
+            "74130",
+            "47303",
+            "47891",
+            "85497",
+            "47824"
+          ],
+          "kasus": "Kasus 3 - Kode Mirip/Bersaudara",
+          "confidence": "ragu",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "Usaha yang menyediakan layanan perancangan berbagai materi visual, seperti logo, identitas merek, poster, kemasan, ilustrasi, dan media promosi untuk kebutuhan cetak maupun digital.",
+          "expected": [
+            "74130"
+          ],
+          "got": [
+            "74130",
+            "62022",
+            "62013",
+            "58190",
+            "73100"
+          ],
+          "kasus": "Kasus 3 - Kode Mirip/Bersaudara",
+          "confidence": "tinggi",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "Cari kode KBLI untuk usaha yang bergerak di bidang jasa desain komunikasi visual atau desain grafis, meliputi pembuatan logo, branding, materi promosi, ilustrasi, desain media digital, serta desain untuk media cetak dan visual lainnya.",
+          "expected": [
+            "74142"
+          ],
+          "got": [
+            "74130",
+            "74142",
+            "74115",
+            "74141",
+            "62013"
+          ],
+          "kasus": "Kasus 3 - Kode Mirip/Bersaudara",
+          "confidence": "tinggi",
+          "p@1": 0.0,
+          "recall@5": 1.0,
+          "mrr@5": 0.5,
+          "ndcg@5": 0.6309297535714575
+        },
+        {
+          "query": "Ini buat jasa desain grafis umum yang dipakai di banyak kebutuhan, seperti branding, iklan, dan materi cetak.",
+          "expected": [
+            "74141"
+          ],
+          "got": [
+            "74130",
+            "58190",
+            "73100",
+            "18111",
+            "18120"
+          ],
+          "kasus": "Kasus 3 - Kode Mirip/Bersaudara",
+          "confidence": "ragu",
+          "p@1": 0.0,
+          "recall@5": 0.0,
+          "mrr@5": 0.0,
+          "ndcg@5": 0.0
+        },
+        {
+          "query": "Saya mencari kode KBLI untuk usaha yang menyediakan jasa desain grafis dan komunikasi visual, seperti pembuatan logo, identitas merek, poster, kemasan, ilustrasi, serta materi promosi untuk media cetak maupun digital.",
+          "expected": [
+            "74130"
+          ],
+          "got": [
+            "74130",
+            "58190",
+            "62022",
+            "73100",
+            "79911"
+          ],
+          "kasus": "Kasus 3 - Kode Mirip/Bersaudara",
+          "confidence": "tinggi",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "Kode KBLI untuk usaha yang menyediakan jasa pembuatan desain visual",
+          "expected": [
+            "74130"
+          ],
+          "got": [
+            "74130",
+            "74142",
+            "74141",
+            "74120",
+            "74119"
+          ],
+          "kasus": "Kasus 3 - Kode Mirip/Bersaudara",
+          "confidence": "ragu",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "Nah ini beda, khusus buat desain yang dipakai di industri film, TV, sama animasi/komik.",
+          "expected": [
+            "74141"
+          ],
+          "got": [
+            "74141",
+            "59122",
+            "59112",
+            "74113",
+            "74130"
+          ],
+          "kasus": "Kasus 3 - Kode Mirip/Bersaudara",
+          "confidence": "tinggi",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "Usaha yang berfokus pada pembuatan konsep dan desain visual untuk produksi film, video, acara televisi, animasi, serta komik, termasuk pengembangan karakter dan elemen visual pendukung.",
+          "expected": [
+            "74141"
+          ],
+          "got": [
+            "74141",
+            "62011",
+            "59112",
+            "74142",
+            "59122"
+          ],
+          "kasus": "Kasus 3 - Kode Mirip/Bersaudara",
+          "confidence": "tinggi",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "Cari kode KBLI untuk usaha yang menyediakan jasa desain khusus untuk film, video, program televisi, animasi, dan komik, termasuk pembuatan visual, karakter, storyboard, serta elemen grafis pendukung produksi.",
+          "expected": [
+            "74141"
+          ],
+          "got": [
+            "74141",
+            "59112",
+            "59122",
+            "59132",
+            "62011"
+          ],
+          "kasus": "Kasus 3 - Kode Mirip/Bersaudara",
+          "confidence": "ragu",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "Kode ini lebih spesifik ke desain untuk film, video, acara TV, animasi, dan komik",
+          "expected": [
+            "74141"
+          ],
+          "got": [
+            "74141",
+            "59112",
+            "59122",
+            "62011",
+            "18202"
+          ],
+          "kasus": "Kasus 3 - Kode Mirip/Bersaudara",
+          "confidence": "tinggi",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "Saya mencari kode KBLI untuk usaha yang bergerak di bidang desain visual khusus untuk produksi film, video, acara televisi, animasi, dan komik, termasuk pembuatan karakter, latar, aset visual, serta elemen grafis pendukung.",
+          "expected": [
+            "74141"
+          ],
+          "got": [
+            "74141",
+            "59112",
+            "74130",
+            "62011",
+            "59122"
+          ],
+          "kasus": "Kasus 3 - Kode Mirip/Bersaudara",
+          "confidence": "tinggi",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "KBLI untuk usaha yang menyediakan jasa bikin rancangan untuk film, video",
+          "expected": [
+            "74141"
+          ],
+          "got": [
+            "59112",
+            "59132",
+            "18202",
+            "59122",
+            "59140"
+          ],
+          "kasus": "Kasus 3 - Kode Mirip/Bersaudara",
+          "confidence": "ragu",
+          "p@1": 0.0,
+          "recall@5": 0.0,
+          "mrr@5": 0.0,
+          "ndcg@5": 0.0
+        },
+        {
+          "query": "Sedangkan yang satu ini fokusnya ke desain buat game aja.",
+          "expected": [
+            "74142"
+          ],
+          "got": [
+            "74142",
+            "62011",
+            "47412",
+            "74119",
+            "74114"
+          ],
+          "kasus": "Kasus 3 - Kode Mirip/Bersaudara",
+          "confidence": "ragu",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "Usaha yang bergerak dalam perancangan elemen visual dan konten untuk permainan digital, seperti karakter, lingkungan permainan, antarmuka, aset grafis, dan komponen pendukung lainnya.",
+          "expected": [
+            "74142"
+          ],
+          "got": [
+            "74142",
+            "74130",
+            "46495",
+            "61912",
+            "32401"
+          ],
+          "kasus": "Kasus 3 - Kode Mirip/Bersaudara",
+          "confidence": "ragu",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "Cari kode KBLI untuk usaha yang menyediakan jasa desain konten game, seperti perancangan karakter, lingkungan permainan, antarmuka (UI), aset visual, animasi, dan elemen pendukung lainnya dalam pengembangan game.",
+          "expected": [
+            "74142"
+          ],
+          "got": [
+            "74142",
+            "62011",
+            "74141",
+            "61912",
+            "47412"
+          ],
+          "kasus": "Kasus 3 - Kode Mirip/Bersaudara",
+          "confidence": "ragu",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "Kalau yang ini, fokusnya ke desain konten untuk game.",
+          "expected": [
+            "74142"
+          ],
+          "got": [
+            "74142",
+            "74149",
+            "62011",
+            "74141",
+            "62013"
+          ],
+          "kasus": "Kasus 3 - Kode Mirip/Bersaudara",
+          "confidence": "tinggi",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "Saya mencari kode KBLI untuk usaha yang menyediakan jasa desain konten permainan (game), seperti desain karakter, lingkungan, antarmuka pengguna (UI), aset visual, level, dan elemen grafis untuk berbagai platform game.",
+          "expected": [
+            "74142"
+          ],
+          "got": [
+            "74142",
+            "62011",
+            "74130",
+            "74141",
+            "74149"
+          ],
+          "kasus": "Kasus 3 - Kode Mirip/Bersaudara",
+          "confidence": "tinggi",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "KBLI untuk usaha yang menyediakan jasa bikin rancangan game",
+          "expected": [
+            "74142"
+          ],
+          "got": [
+            "62011",
+            "47412",
+            "74120",
+            "74142",
+            "56290"
+          ],
+          "kasus": "Kasus 3 - Kode Mirip/Bersaudara",
+          "confidence": "ragu",
+          "p@1": 0.0,
+          "recall@5": 1.0,
+          "mrr@5": 0.25,
+          "ndcg@5": 0.43067655807339306
+        },
+        {
+          "query": "Tolong carikan kode buat jasa foto-video, dari foto formal kayak paspor sampai foto udara dan dokumentasi acara nikahan",
+          "expected": [
+            "74201"
+          ],
+          "got": [
+            "74201",
+            "58190",
+            "26710",
+            "79912",
+            "96990"
+          ],
+          "kasus": "Kasus 4 - Istilah Sehari-hari",
+          "confidence": "ragu",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "Kode KBLI apa yang cocok untuk usaha jasa foto dan video, seperti foto wisuda, pernikahan, pas foto, produk, atau kebutuhan promosi bisnis?",
+          "expected": [
+            "74201"
+          ],
+          "got": [
+            "58190",
+            "79912",
+            "96990",
+            "26710",
+            "74201"
+          ],
+          "kasus": "Kasus 4 - Istilah Sehari-hari",
+          "confidence": "ragu",
+          "p@1": 0.0,
+          "recall@5": 1.0,
+          "mrr@5": 0.2,
+          "ndcg@5": 0.38685280723454163
+        },
+        {
+          "query": "Cari kode KBLI untuk usaha jasa foto dan video, seperti foto wisuda, pernikahan, pas foto, foto produk, foto properti, foto dari drone, serta dokumentasi berbagai acara.",
+          "expected": [
+            "74201"
+          ],
+          "got": [
+            "58190",
+            "26710",
+            "79912",
+            "96990",
+            "47731"
+          ],
+          "kasus": "Kasus 4 - Istilah Sehari-hari",
+          "confidence": "ragu",
+          "p@1": 0.0,
+          "recall@5": 0.0,
+          "mrr@5": 0.0,
+          "ndcg@5": 0.0
+        },
+        {
+          "query": "Kode ini buat usaha foto, baik foto formal, foto produk, foto acara, sampai foto udara dan video dokumentasi",
+          "expected": [
+            "74201"
+          ],
+          "got": [
+            "58190",
+            "26710",
+            "79912",
+            "47731",
+            "47875"
+          ],
+          "kasus": "Kasus 4 - Istilah Sehari-hari",
+          "confidence": "ragu",
+          "p@1": 0.0,
+          "recall@5": 0.0,
+          "mrr@5": 0.0,
+          "ndcg@5": 0.0
+        },
+        {
+          "query": "Saya mencari kode KBLI untuk usaha jasa foto dan video, seperti foto pas, foto wisuda, foto produk, foto prewedding, foto acara, atau dokumentasi pernikahan",
+          "expected": [
+            "74201"
+          ],
+          "got": [
+            "58190",
+            "26710",
+            "79912",
+            "96990",
+            "47731"
+          ],
+          "kasus": "Kasus 4 - Istilah Sehari-hari",
+          "confidence": "ragu",
+          "p@1": 0.0,
+          "recall@5": 0.0,
+          "mrr@5": 0.0,
+          "ndcg@5": 0.0
+        },
+        {
+          "query": "kode KBLI untuk usaha yang menyediakan jasa foto dan video",
+          "expected": [
+            "74201"
+          ],
+          "got": [
+            "79912",
+            "61923",
+            "59112",
+            "59132",
+            "56290"
+          ],
+          "kasus": "Kasus 4 - Istilah Sehari-hari",
+          "confidence": "tinggi",
+          "p@1": 0.0,
+          "recall@5": 0.0,
+          "mrr@5": 0.0,
+          "ndcg@5": 0.0
+        },
+        {
+          "query": "Kepikiran mau cari kode buat studio rekaman yang bisa bikin master lagu atau rekaman siaran radio.",
+          "expected": [
+            "59201"
+          ],
+          "got": [
+            "59201",
+            "60102",
+            "18202",
+            "18201",
+            "59202"
+          ],
+          "kasus": "Kasus 4 - Istilah Sehari-hari",
+          "confidence": "ragu",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "Saya ingin mencari kode KBLI untuk bisnis jasa rekaman suara di studio, termasuk pembuatan audio untuk musik, podcast, dan konten digital.",
+          "expected": [
+            "59201"
+          ],
+          "got": [
+            "59201",
+            "18201",
+            "61912",
+            "47620",
+            "59202"
+          ],
+          "kasus": "Kasus 4 - Istilah Sehari-hari",
+          "confidence": "ragu",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "Cari kode KBLI untuk usaha jasa rekaman suara di studio, seperti rekaman lagu, podcast, voice over, dubbing, audio untuk film atau video, serta pembuatan master audio.",
+          "expected": [
+            "59201"
+          ],
+          "got": [
+            "59201",
+            "18201",
+            "18202",
+            "26800",
+            "59112"
+          ],
+          "kasus": "Kasus 4 - Istilah Sehari-hari",
+          "confidence": "ragu",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "Ini kode untuk jasa rekaman suara, misalnya rekaman lagu, suara radio, atau produksi audio di studio",
+          "expected": [
+            "59201"
+          ],
+          "got": [
+            "59201",
+            "18201",
+            "26800",
+            "60102",
+            "59202"
+          ],
+          "kasus": "Kasus 4 - Istilah Sehari-hari",
+          "confidence": "tinggi",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "Saya mencari kode KBLI untuk usaha studio rekaman yang melayani rekaman suara, lagu, podcast, voice over, atau audio untuk film dan video.",
+          "expected": [
+            "59201"
+          ],
+          "got": [
+            "59201",
+            "18202",
+            "26800",
+            "47620",
+            "18201"
+          ],
+          "kasus": "Kasus 4 - Istilah Sehari-hari",
+          "confidence": "ragu",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "kode KBLI untuk usaha yang menyediakan jasa rekaman suara",
+          "expected": [
+            "59201"
+          ],
+          "got": [
+            "59201",
+            "18201",
+            "93294",
+            "61922",
+            "77321"
+          ],
+          "kasus": "Kasus 4 - Istilah Sehari-hari",
+          "confidence": "ragu",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "Kepikiran mau cari kode buat studio rekaman yang bisa bikin master lagu atau rekaman siaran radio.",
+          "expected": [
+            "59202"
+          ],
+          "got": [
+            "59201",
+            "60102",
+            "18202",
+            "18201",
+            "59202"
+          ],
+          "kasus": "Kasus 4 - Istilah Sehari-hari",
+          "confidence": "ragu",
+          "p@1": 0.0,
+          "recall@5": 1.0,
+          "mrr@5": 0.2,
+          "ndcg@5": 0.38685280723454163
+        },
+        {
+          "query": "Saya mencari kode KBLI untuk bisnis yang mengelola penerbitan lagu, mengurus lisensi musik, dan menyebarkan karya musik ke berbagai media.",
+          "expected": [
+            "59202"
+          ],
+          "got": [
+            "59202",
+            "90022",
+            "77400",
+            "32202",
+            "58190"
+          ],
+          "kasus": "Kasus 4 - Istilah Sehari-hari",
+          "confidence": "ragu",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "Cari kode KBLI untuk usaha yang menerbitkan dan mengelola karya musik, seperti mengurus hak cipta lagu, mempromosikan karya musik, menerbitkan buku musik, serta mendistribusikan rekaman musik ke berbagai media dan platform.",
+          "expected": [
+            "59202"
+          ],
+          "got": [
+            "59202",
+            "90022",
+            "77295",
+            "58190",
+            "47620"
+          ],
+          "kasus": "Kasus 4 - Istilah Sehari-hari",
+          "confidence": "tinggi",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "Kode ini dipakai buat usaha yang mengurus penerbitan lagu, buku musik, dan distribusi karya musik ke pasar.",
+          "expected": [
+            "59202"
+          ],
+          "got": [
+            "59202",
+            "90022",
+            "58110",
+            "47873",
+            "32202"
+          ],
+          "kasus": "Kasus 4 - Istilah Sehari-hari",
+          "confidence": "tinggi",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "Saya mencari kode KBLI untuk usaha yang mengurus hak cipta lagu, menerbitkan karya musik, mempromosikan lagu, dan mendistribusikan hasil rekaman musik ke berbagai platform atau media.",
+          "expected": [
+            "59202"
+          ],
+          "got": [
+            "59202",
+            "90022",
+            "77295",
+            "47620",
+            "77400"
+          ],
+          "kasus": "Kasus 4 - Istilah Sehari-hari",
+          "confidence": "ragu",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        },
+        {
+          "query": "kode KBLI untuk usaha yang mengurus penerbitan dan hak cipta musik",
+          "expected": [
+            "59202"
+          ],
+          "got": [
+            "59202",
+            "69103",
+            "77295",
+            "77293",
+            "90022"
+          ],
+          "kasus": "Kasus 4 - Istilah Sehari-hari",
+          "confidence": "tinggi",
+          "p@1": 1.0,
+          "recall@5": 1.0,
+          "mrr@5": 1.0,
+          "ndcg@5": 1.0
+        }
+      ]
+    }
+  }
+}

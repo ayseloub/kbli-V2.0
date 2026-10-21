@@ -1,0 +1,123 @@
+{
+  "result": {
+    "10110": {
+      "uuid": "110066cb-fd91-4bd3-af19-f1bb01b4095e",
+      "uraian": "Kelompok ini mencakup kegiatan operasional rumah potong hewan yang berkaitan dengan kegiatan pemotongan, pengulitan, pembersihan dan pengepakan daging, seperti daging sapi, babi, biri-biri, kelinci, domba, unta dan daging segar lainnya bukan unggas, kegiatan pengurusan hasil sampingan, seperti produksi kulit dan jangat dari tempat pemotongan hewan termasuk fellmongery, penjemuran tulang, pengolahan sisaan atau kotoran hewan, penyortiran wol dan bulu dan pembersihan lemak. Termasuk kegiatan pemotongan dan pengolahan paus di darat atau di kapal khusus. Pemotongan yang dilakukan oleh pedagang dimasukkan dalam golongan 462, 472 dan 478."
+    },
+    "10120": {
+      "uuid": "a9fe7827-93c5-4576-b499-9a8e0ee636b5",
+      "uraian": "Kelompok ini mencakup kegiatan operasional rumah potong unggas dan pengepakan daging unggas, termasuk kegiatan pengurusan hasil sampingan, seperti pemrosesan sisa atau kotoran unggas, pementangan kulit, penyortiran bulu dan pembersihan lemak. Pemotongan yang dilakukan oleh pedagang dimasukkan dalam golongan 462, 472 dan 478."
+    },
+    "12091": {
+      "uuid": "3c4ce858-dd14-42e8-afab-f5f92346114b",
+      "uraian": "Kelompok ini mencakup usaha pengeringan daun tembakau dengan pengasapan atau dengan cara lain termasuk juga usaha perajangan daun tembakau."
+    },
+    "22121": {
+      "uuid": "3ff89f91-c6a3-402a-af97-84c20106bd17",
+      "uraian": "Kelompok ini mencakup usaha pengasapan karet yang dilakukan dengan tujuan mengawetkan karet, seperti Ribbed Smoked Sheet (RSS) dan brown crepe dari pengasapan."
+    },
+    "75000": {
+      "uuid": "1078c6bc-5293-41e5-9363-e230412e8d5c",
+      "uraian": "Kelompok ini mencakup kegiatan perawatan dan pemeriksaan kesehatan hewan untuk hewan ternak dan hewan piaraan yang dilakukan oleh dokter hewan, kegiatan asisten dokter hewan atau pembantu pribadi dokter hewan lainnya, kegiatan klinik patologi dan diagnosis lain terhadap hewan, kegiatan ambulans hewan, kegiatan vaksinasi hewan dan laboratorium penelitian kesehatan hewan."
+    },
+    "01192": {
+      "uuid": "b1d5d6ff-e138-4560-8762-fb083cf38b05",
+      "uraian": "Kelompok ini mencakup usaha pertanian mulai dari kegiatan penyiapan dan pengolahan lahan, penyemaian, penanaman, pemeliharaan, pemanenan dan pengolahan pascapanen, perbenihan tanaman pakan ternak dan pembibitan bit (bukan bit gula). Perbenihan tanaman pakan ternak meliputi rumput pakan ternak dan leguminosa/kacang-kacangan tanaman pakan ternak seperti Rumput Gajah, Rumput Raja, Rumput Odot, Rumput Setaria, Alfalfa, Kaliandra, Gamal, Lamtoro, Indigofera Zollingeriana dll."
+    },
+    "01194": {
+      "uuid": "02745331-4210-4abc-84c6-c12ab732082d",
+      "uraian": "Kelompok ini mencakup usaha pertanian pembibitan tanaman bunga."
+    },
+    "01301": {
+      "uuid": "b3a11dc1-6882-41ca-b1b4-744e6493eed0",
+      "uraian": "Kelompok ini mencakup pertanian atau budidaya tanaman hias daun dan tanaman hias bunga hidup, seperti bonsai, suplir, kuping gajah, heliconia (pisang-pisangan), dracaena, phylodendrom, monstera, cordyline, anthurium daun, pakis, aglonema, difenbacia, sansifera (lidah mertua), caladium (keladi), palem dan tanaman hias bunga, seperti  anggrek, mawar, adenium (kaboja jepang, anthurium bunga, euphorbia, ixora (soka) dan tanaman bunga lainnya. Termasuk penanaman tumbuhan untuk tujuan ornamen dan tanah berumput untuk transplantasi."
+    },
+    "01302": {
+      "uuid": "8be17e79-2846-41a8-94bc-639fb282da8a",
+      "uraian": "Kelompok ini mencakup produksi semua bibit tanaman secara vegetatif termasuk batang stek, potongan dan pembibitan untuk kelangsungan pengembangbiakan tanaman atau membuat batang okulasi tanaman pada keturunannya terpilih yang diokulasi yang pada akhirnya ditanam untuk menghasilkan tanaman. Termasuk kegiatan penanaman tumbuhan untuk ditanam kembali, penanaman tumbuhan hidup untuk umbi-umbian, akar-akaran; pemotongan, stek dan cangkokan; spawn jamur dan kebun bibit tanaman, kecuali kebun bibit tanaman hutan."
+    },
+    "01430": {
+      "uuid": "441f39d4-dc72-4cc9-a988-edb36e9c43b9",
+      "uraian": "Kelompok ini mencakup usaha peternakan yang melakukan kegiatan pembibitan unta dan sejenisnya untuk menghasilkan ternak bibit unta dan sejenisnya, semen dan embrio dan melakukan kegiatan budidaya unta berupa pengembangbiakan untuk menghasilkan unta potong, unta perah dan sejenisnya seperti llama, alpacas, vicunas dan guanacos.\nKelompok ini mencakup :\n- Produksi susu unta dan sejenisnya"
+    },
+    "01445": {
+      "uuid": "d89fbb80-f04d-4b6f-b7e5-573aa5e6db15",
+      "uraian": "Kelompok ini mencakup usaha peternakan yang melakukan kegiatan produksi bulu domba (wool) mentah."
+    },
+    "01461": {
+      "uuid": "e85c2246-6e3d-4762-a0c5-c0c5e84b658d",
+      "uraian": "Kelompok ini mencakup usaha peternakan yang melakukan kegiatan budidaya ayam ras untuk menghasilkan ayam pedaging."
+    },
+    "01462": {
+      "uuid": "2f4596c7-a9bd-4e84-8cc0-c3e2e43c8825",
+      "uraian": "Kelompok ini mencakup usaha peternakan yang menyelenggarakan budidaya ayam ras untuk menghasilkan telur konsumsi dan lainnya."
+    },
+    "01463": {
+      "uuid": "6b74044d-9e0e-4fa4-9c7b-71ba0b408da6",
+      "uraian": "Kelompok ini mencakup usaha peternakan yang melakukan kegiatan pembibitan ayam lokal dan persilangannya,untuk menghasilkan ternak bibit ayam dan telur tetas ayam lokal petelur dan pedaging,dan persilangannya."
+    },
+    "01464": {
+      "uuid": "2d408cf6-47ff-4e34-bac4-ecfa65e1b8e1",
+      "uraian": "Kelompok ini mencakup usaha peternakan yang melakukan kegiatan budidaya ayam lokal dan persilangannya, untuk menghasilkan pullet, ayam lokal pedaging siap potong dan telur konsumsi."
+    },
+    "01467": {
+      "uuid": "990510d1-9bdb-427f-a547-49825adae30e",
+      "uraian": "Kelompok ini mencakup usaha peternakan yang melakukan kegiatan pembibitan burung merpati, untuk menghasilkan ternak bibit burung merpati dan atau telur tetas dan peternakan yang menyelenggarakan budidaya burung merpati untuk menghasilkan burung merpati potong atau untuk keperluan lainnya."
+    },
+    "01468": {
+      "uuid": "ace1e5ef-c4d2-4bf4-9559-86cacd2ec9ac",
+      "uraian": "Kelompok ini mencakup usaha peternakan yang menyelenggarakan pembibitan ayam ras pedaging dan ayam ras petelur untuk menghasilkan ayam bibit, telur tetas, bibit niaga (final stock) day old chick (DOC) dari ayam ras pedaging dan ayam ras petelur."
+    },
+    "01469": {
+      "uuid": "89163263-4959-4e3d-808c-f344f5776a92",
+      "uraian": "Kelompok ini mencakup usaha peternakan yang melakukan kegiatan pembibitan ternak unggas lainnya, seperti kalkun, angsa, unggas persilangan dan unggas lainnya untuk menghasilkan bibit dan atau telur tetas dan peternakan yang melakukan kegiatan budidaya unggas tersebut untuk menghasilkan,unggas pedaging, unggas petelur dan telur."
+    },
+    "01491": {
+      "uuid": "49b0d70b-5a45-49cd-abd2-4e7c3a852cda",
+      "uraian": "Kelompok ini mencakup usaha peternakan yang menyelenggarakan pembibitan burung unta, untuk menghasilkan ternak bibit burung unta dan atau telur tetas dan peternakan yang menyelenggarakan budidaya burung unta konsumsi untuk menghasilkan burung unta potong, telur dan atau lainnya."
+    },
+    "01492": {
+      "uuid": "ce2559e4-08fc-4588-a202-cec2a6bb0ace",
+      "uraian": "Kelompok ini mencakup usaha penanaman, pemeliharaan, pemungutan hasil, pengolahan dan pemasaran kokon/kepompong ulat sutera."
+    },
+    "01493": {
+      "uuid": "c5762cf5-2408-4f1d-9830-72143ec6095b",
+      "uraian": "Kelompok ini mencakup usaha peternakan yang menyelenggarakan pembibitan dan budidaya lebah, termasuk pengusahaan madu."
+    },
+    "01494": {
+      "uuid": "0da9e6f9-ad7c-4da6-9a8b-86f65edd4c2f",
+      "uraian": "Kelompok ini mencakup usaha peternakan yang menyelenggarakan pembibitan dan budidaya ternak rusa/kijang, baik untuk menghasilkan bibit dan daging, kulit dan lainnya."
+    },
+    "01496": {
+      "uuid": "aa41a647-21dd-4126-a3b1-061e1883bdeb",
+      "uraian": "Kelompok ini mencakup usaha peternakan yang menyelenggarakan pembibitan dan budidaya ternak cacing, baik untuk menghasilkan bibit dan daging, dan lainnya."
+    },
+    "01499": {
+      "uuid": "11d227f0-b33d-4953-839e-d3d5b7fcdb90",
+      "uraian": "Kelompok ini mencakup usaha peternakan yang menyelenggarakan pembibitan aneka ternak, seperti marmut, anjing, kucing, kera/primata lainnya, ulat, jangkrik dan aneka ternak lainnya, untuk menghasilkan bibit dan peternakan yang menyelenggarakan budidaya aneka ternak untuk menghasilkan daging, kulit dan lainnya."
+    },
+    "01622": {
+      "uuid": "b8b4e986-e667-4951-b880-8bcde924c3f6",
+      "uraian": "Kelompok ini mencakup usaha yang bergerak dalam bidang perkawinan ternak atas dasar balas jasa (fee) atau kontrak, seperti inseminasi buatan, transfer embrio, pemeriksaan kebuntingan, pelayanan kuda biak."
+    },
+    "01623": {
+      "uuid": "4e85475f-a308-4f8b-9cf8-db784d17c6e7",
+      "uraian": "Kelompok ini mencakup usaha yang bergerak dalam bidang penetasan telur atas dasar balas jasa (fee) atau kontrak."
+    },
+    "01629": {
+      "uuid": "961f5724-584a-4514-92f5-ae9d107afbdd",
+      "uraian": "Kelompok ini mencakup usaha yang bergerak dalam jasa penunjang peternakan lainnya atas dasar balas jasa (fee) atau kontrak, seperti pencukuran bulu ternak, pemasangan dan pemberian identitas ternak, pembersihan kandang ternak, termasuk juga usaha pelayanan pencari rumput, pemeliharaan dan perawatan hewan dan penggembalaan ternak. Termasuk juga kegiatan farrier (tukang tapal kuda) dan pengebirian hewan."
+    },
+    "01630": {
+      "uuid": "48a68fa3-fa79-4551-a258-ca828adcbdeb",
+      "uraian": "Kelompok ini mencakup usaha pasca panen meliputi usaha penyiapan hasil panen pertanian untuk dijual, seperti pembersihan, sortasi, pengupasan, pengeringan dengan sinar matahari dan pengepakan dari macam-macam hasil pertanian atas dasar balas jasa (fee) atau kontrak. Termasuk usaha  disinfektan hasil panen, pemisahan biji kapas, penyiapan daun tembakau, penyiapan biji cokelat dan pemberian lilin pada buah-buahan."
+    }
+  },
+  "failed": {
+    "46653": "timeout render /id/kbli/konversi/46653",
+    "47849": "timeout render /id/kbli/konversi/47849",
+    "47993": "timeout render /id/kbli/konversi/47993",
+    "01621": "timeout render /id/kbli/konversi/01621"
+  },
+  "debug": {}
+}

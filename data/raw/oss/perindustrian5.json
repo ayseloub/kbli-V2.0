@@ -1,0 +1,472 @@
+{
+  "result": {
+    "28264": {
+      "uuid": "2dc5d16f-7e74-4bd1-a1be-f76d4651927c",
+      "uraian": "Kelompok ini mencakup pembuatan jarum untuk mesin jahit, rajut, bordir dan sejenisnya."
+    },
+    "28265": {
+      "uuid": "c3ca6b06-71e3-4e19-9eb4-dc32ccad1bd6",
+      "uraian": "Kelompok ini mencakup pembuatan mesin produk kulit, seperti mesin untuk penyiapan, penyamakan, atau pengerjaan kulit atau kulit jangat dan mesin untuk membuat atau memperbaiki alas kaki atau produk lainnya dari kulit, kulit jangat dan kulit berbulu."
+    },
+    "28291": {
+      "uuid": "7fe51186-0c58-476f-95f1-6a3de057ab45",
+      "uraian": "Kelompok ini mencakup pembuatan mesin-mesin percetakan, seperti mesin press sederhana, mesin press silinder, mesin press putar dan mesin cetak lainnya. Termasuk mesin-mesin perlengkapan percetakan dan mesin penjilid, seperti mesin jahit buku, mesin penjilid dengan menggunakan spiral dan mesin penomor halaman."
+    },
+    "28292": {
+      "uuid": "a09ac4a3-85d3-4d54-a640-7c2f90953699",
+      "uraian": "Kelompok ini mencakup pembuatan mesin pabrik kertas,seperti mesin untuk pengolahan pulp, kertas dan karton misalnya mesin pembuatan bubur kertas, mesin pembuatan kertas dan papan kertas, mesin pengeringan kayu, bubur kertas, kertas atau papan kertas, dan mesin untuk pembuatan barang-barang dari kertas atau papan kertas, seperti mesin pemotong kertas, pembuat amplop, kantong kertas dan sejenisnya dan mesin-mesin lainnya"
+    },
+    "28299": {
+      "uuid": "8fc95284-22df-46c3-a97b-289c64206155",
+      "uraian": "Kelompok ini mencakup industri berbagai mesin-mesin industri khusus lainnya yang belum termasuk kelompok sebelumnya, seperti mesin untuk pengerjaan karet atau plastik lunak atau untuk pembuatan produk dari bahan tersebut, seperti mesin extrude, pencetak, mesin pembuatan ban angin (pneumatik) atau ban vulkanisir, mesin lainnya untuk pembuatan produk dari plastik atau karet khusus, mesin cetak dan penjilidan buku dan mesin untuk pendukung pencetakan pada berbagai macam bahan, mesin cetak 3 dimensi (3d printing), mesin untuk memproduksi ubin, batu bata, perekat keramik potongan, pipa, grafit elektroda, kapur tulis, cetakan besi tuang dan lain-lain, mesin pabrik semi konduktor, robot industri yang menjalankan berbagai tugas untuk keperluan khusus, mesin untuk merakit lampu listrik dan lampu elektronik, tabung atau bola lampu, mesin untuk memproduksi atau pekerjaan panas dari kaca atau barang-barang dari kaca, serat kaca atau benang dan mesin atau peralatan untuk pemisahan isotopik, peralatan meluruskan dan menyeimbangkan ban (kecuali penyeimbang roda), mesin untuk memasang dan melepas ban (termasuk ban untuk alat berat  dan alat pertahanan), sistem pelumasan pusat, persneling pesawat terbang (launching gear), pelontar pembawa pesawat terbang (carrier catapult) dan peralatan yang terkait, peralatan arena bowling otomatis (pin-setter), peralatan jalan berputar (roundabouts), ayunan, galeri menembak, gelanggang hiburan atau permainan lainnya, mesin pembuat briket dari produk pertanian dan mesin-mesin khusus lainnya."
+    },
+    "29101": {
+      "uuid": "e73034ee-6b3d-4350-8271-cafe5ca7ddb3",
+      "uraian": "Kelompok ini mencakup usaha pembuatan atau perakitan kendaraan bermotor untuk penumpang atau barang, seperti sedan, jeep, truck, pick up, bus dan stasion wagon dan sejenisnya dengan menggunakan mesin piston pembakaran dalam bolak-balik cetus api atau berputar, mesin piston bolak balik nyala kompresi (diesel atau semi diesel), atau motor listrik untuk penggerak. Termasuk pembuatan kendaraan untuk keperluan khusus, seperti mobil pemadam kebakaran, mobil toko, mobil penyapu jalan, ambulans, mobil salju, mobil golf, kendaraan amfibi, perpustakaan mobil (travelling libraries), mobil berlapis baja, lori pencampur beton dan ATV, go cart, mobil balap dan sejenisnya. Kelompok ini juga mencakup usaha pembuatan mesin kendaraan bermotor, chasis mesin dan industri pembangunan kembali mesin kendaraan bermotor."
+    },
+    "29102": {
+      "uuid": "73d43981-8687-45a3-8bfb-0f1f7d16aba2",
+      "uraian": "Kelompok ini mencakup usaha pembuatan atau perakitan kendaraan multiguna pedesaan atau dikenal sebagai AMMDES (Alat Mekanis Multiguna Pedesaan) yang dilengkapi dengan komponen seperti Power Take off (PTO), differential lock dan lain-lain yang menjadikannya multifungsi, antara lain sebagai alat transportasi, alat produksi maupun menggerakkan alat bantu lainnya sehingga mampu menjalankan berbagai fungsi sebagai mesin pegolahan seperti mesin-mesin untuk pengolahan hasil pertanian (mesin perontok, mesin pengupas, mesin penyosoh dan mesin penggilingan gabah), mesin perjernih dan pengolahan air minum, dan fungsi lainnya untuk keperluan tanaman pangan, peternakan, perikanan, perkebunan, kehutanan dan lain-lain. Termasuk untuk alat bantu penunjang kebutuhan medis seperti pengumpan ambulan (ambulance feeder)."
+    },
+    "29200": {
+      "uuid": "d1d7ebe2-3a67-4128-a51a-f865597e022a",
+      "uraian": "Kelompok ini mencakup usaha pembuatan bagian-bagian mobil atau karoseri kendaraan bermotor, seperti bak truk, bodi bus, bodi pick up, bodi untuk kendaraan penumpang, dan kendaraan bermotor untuk penggunaan khusus, seperti kontainer, caravan dan mobil tangki. Termasuk pembuatan trailer, semi trailer dan bagian-bagiannya."
+    },
+    "29300": {
+      "uuid": "0451a911-ec90-4400-b151-6a24d2009725",
+      "uraian": "Kelompok ini mencakup usaha pembuatan komponen dan suku cadang kendaraan bermotor roda empat atau lebih, seperti leaf sporing, radiator, fuel tank, muffle, rem, gearboxes/persnelling, AS roda, road wheel, suspension shock absorber, silencer, pipa pembuangan, kataliser pengubah, kopling, roda kemudi, sistem kolom kemudi dan kotak kemudi;  suku cadang dan aksesori untuk bodi karoseri kendaraan bermotor, seperti sabuk pengaman, pintu, bamper, airbag; tempat duduk mobil;  peralatan listrik kendaraan bermotor, seperti generator, alternator, busi, ignition wiring harnesses/starter, sistem buka tutup pintu dan jendela otomatis, pemasangan argometer ke dalam panel instrumen, pengatur voltawse; inverter untuk kendaraan bermotor roda empat atau lebih; dan lain-lain."
+    },
+    "30111": {
+      "uuid": "408959c4-1531-477e-a7de-55dad7d4aa46",
+      "uraian": "Kelompok ini mencakup usaha pembuatan atau perakitan macam-macam kapal dan perahu komersil, yang terbuat dari baja, fibre glass, kayu atau ferro cement, baik yang bermotor maupun yang tidak bermotor, seperti kapal penumpang, kapal ferry, kapal kargo, kapal tanker, kapal penyeret, kapal layar untuk komersil, kapal perang, kapal untuk penelitian, kapal penangkap ikan dan kapal untuk pabrik pengolahan ikan."
+    },
+    "30112": {
+      "uuid": "8b626852-8fcc-4fd2-8dd1-dcd5b9934fd7",
+      "uraian": "Kelompok ini mencakup usaha pembuatan konstruksi atau bangunan lepas pantai dan bangunan terapung, termasuk peralatan dan perlengkapannya, seperti konstruksi platform, bangunan terapung atau penyelaman untuk kegiatan pengeboran; konstruksi bangunan terapung, seperti dok terapung, sekoci dan kran apung, jembatan apung, ponton, coffer-dam, bangunan tempat pendaratan terapung, living quarter, jacket, platform dan morring buoy, pelampung/buoys, tangki terapung, kapal barkas, tongkang, kapal derek,  rakit yang dapat diisi udara bukan untuk rekreasi dan lain-lain. Termasuk pembuatan hovercraft,  kecuali hovercraft jenis rekreasi."
+    },
+    "30113": {
+      "uuid": "3aa22fcc-e3b1-4bc9-8f7c-3b93a8ae867e",
+      "uraian": "Kelompok ini mencakup usaha pembuatan perlengkapan, peralatan dan bagian kapal, seperti perlengkapan lambung, akomodasi kerja mesin geladak, alat kemudi dan alat bongkar muat."
+    },
+    "30120": {
+      "uuid": "e47c163e-15c4-4b80-bdfe-fbd95594025f",
+      "uraian": "Kelompok ini mencakup usaha pembuatan kapal pesiar dan perahu untuk santai dan olahraga, seperti perahu dan rakit karet  yang dapat diisi udara, kapal atau perahu layar (yatch) dengan atau tanpa motor penggerak, motor boats, hovercraft untuk rekreasi, kendaraan air pribadi, perahu untuk olahraga dan kapal pesiar yang lain, seperti kano, kayak, perahu dayung, sampan dan lain-lain."
+    },
+    "30200": {
+      "uuid": "8c312476-0768-4d60-976c-bb411f5fdc19",
+      "uraian": "Kelompok ini mencakup usaha pembuatan atau perakitan lokomotif kereta api listrik, diesel, uap dan lainnya; gerbong kereta api self propelled (pendorong sendiri) atau gerbong kereta api listrik atau trem, vans dan truk, termasuk perawatan atau perbaikannya; gerbong keretra api atau kereta api listrik, tidak self-propelled (pendorong sendiri), seperti gerbong penumpang, gerbong barang, gerbong tangki, gerbong bengkel, gerbong mobil derek, gerbong dan kereta pembongkar, gerobak dan lain-lain; suku cadang khusus kereta api atau kereta api listrik atau gerbong, seperti bogies, as dan roda, rem dan suku cadang rem, peralatan kopling dan hook, buffer dan suku cadang buffer, sok breker, kerangka lokomotif dan gerbong; bodi karoseri, penghubung antarkoridor dan lain-lain; peralatan signal mekanik dan elektromagnetik, peralatan pengaman dan pengontrol rambu-rambu kereta api, kereta api listrik, lalu lintas air, jalan raya, fasilitas parkir, lapangan udara dan lain-lain; lokomotif tambang dan kendaraan rel tambang; dan tempat duduk kereta api."
+    },
+    "30300": {
+      "uuid": "7eba3990-1bae-44d4-b814-ce36810015a3",
+      "uraian": "Kelompok ini mencakup usaha pembuatan atau perakitan dan modifikasi pesawat terbang untuk penumpang atau barang, seperti pesawat terbang bermesin jet, pesawat terbang propeller, helikopter, balon udara dan pesawat layang. Kelompok ini juga mencakup usaha pembuatan pesawat terbang untuk angkatan bersenjata, olahraga atau tujuan lain, pesawat peluncur dan pesawat peluncur gantung, wahana terbang tanpa awak (drone), kapal seplin/balon berkemudi dan balon udara panas, suku cadang dan aksesori pesawat terbang, seperti rakitan utama seperti badan pesawat terbang, sayap, pintu, pengontrol permukaan, roda gigi untuk mendarat, tanki bahan bakar, nacelles dan lain-lain; baling-baling, pisau rotor helikopter dan rotor pendorong; berbagai macam motor dan mesin yang terdapat di pesawat terbang; dan suku cadang jet turbo dan pendorong turbo untuk pesawat terbang, pesawat terbang latih darat, pesawat ruang angkasa dan pesawat peluncuran, satelit, satelit yang berhubungan dengan planet, stasiun orbit, shuttles dan intercontinental ballistic missiles (ICBM)/roket antarbenua. Termasuk pemeriksaan dan konversi pesawat atau mesin pesawat dan pembuatan tempat duduk pesawat terbang."
+    },
+    "30400": {
+      "uuid": "9e7b3f9d-9192-46b4-839c-9db34f71c9ae",
+      "uraian": "Kelompok ini mencakup pembuatan tank dan kendaraan lapis baja.  Termasuk  pembuatan kendaraan militer amfibi lapis baja dan kendaraan perang militer lainnya."
+    },
+    "30911": {
+      "uuid": "d45a11f9-cba8-43d7-9a8e-c285fd2821fa",
+      "uraian": "Kelompok ini mencakup usaha pembuatan dan perakitan secara lengkap dari macam-macam kendaraan bermotor roda dua dan tiga, seperti sepeda motor, moped, skuter, bemo, a side-cars dan sejenisnya dengan menggunakan mesin piston pembakaran dalam bolak-balik cetus api atau berputar, atau motor listrik untuk penggerak. Termasuk sepeda yang dilengkapi motor."
+    },
+    "30912": {
+      "uuid": "9d206c7a-9cab-42d5-8e8c-d19fac164d40",
+      "uraian": "Kelompok ini mencakup usaha pembuatan komponen dan suku cadang kendaraan bermotor roda dua dan tiga, seperti motor pembakaran dalam, suspensi dan knalpot. Termasuk inverter untuk kendaraan bermotor roda dua dan tiga"
+    },
+    "30921": {
+      "uuid": "eef14ab1-63fa-480d-ae59-151143305805",
+      "uraian": "Kelompok ini mencakup usaha pembuatan dan perakitan macam-macam sepeda dan becak, seperti sepeda tanpa motor, sepeda roda tiga (pengantar), tandem (sepeda gandeng),  dan sepeda anak-anak baik roda dua maupun roda tiga, termasuk pula pembuatan kereta bayi dan kendaraan difabel atau kursi roda baik bermotor maupun tidak."
+    },
+    "30922": {
+      "uuid": "eb7ffebb-1246-4ec2-8c42-7f662c9d3db0",
+      "uraian": "Kelompok ini mencakup usaha pembuatan suku cadang atau komponen dan aksesori sepeda, kereta bayi, kursi roda dan becak, seperti sadel, pedal, velg, rem, jari-jari, roda dan tire ventil. Usaha pembuatan ban sepeda (luar dan dalam) dimasukkan dalam kelompok 22111 dan 22112."
+    },
+    "30990": {
+      "uuid": "03cd29ab-5d8f-4b9c-a422-e548661e820b",
+      "uraian": "Kelompok ini mencakup usaha pembuatan alat angkut yang belum termasuk kelompok lainnya, baik  kendaran yang didorong oleh tangan maupun kendaraan yang ditarik binatang, seperti truk barang, handcart, sledge, troli, gerobak, delman, lori, kereta dorong, wheel barrows, kereta balap (sulkies), pedati yang ditarik keledai, kereta jenazah (keranda) dan alat pengangkutan lainnya."
+    },
+    "31001": {
+      "uuid": "40ec63b5-38e5-4b11-ade7-383d70c9aa9d",
+      "uraian": "Kelompok ini mencakup usaha pembuatan furnitur dari kayu untuk rumah tangga dan kantor, seperti meja, kursi, bangku, tempat tidur, lemari, rak, kabinet, penyekat ruangan dan sejenisnya."
+    },
+    "31002": {
+      "uuid": "53e9f7d2-352e-4369-891d-df9d7bed2030",
+      "uraian": "Kelompok ini mencakup pembuatan furnitur dengan bahan utamanya dari rotan dan atau bambu, seperti meja, kursi, bangku, tempat tidur, lemari, rak, penyekat ruangan dan sejenisnya."
+    },
+    "31003": {
+      "uuid": "7d2e4f40-e2b4-4bf7-bbc3-a8b6867a8d30",
+      "uraian": "Kelompok ini mencakup pembuatan furnitur yang bahan utamanya dari plastik, seperti meja, kursi, rak dan sejenisnya."
+    },
+    "31004": {
+      "uuid": "09961d76-2e35-49d7-9bb5-5d28837a1da9",
+      "uraian": "Kelompok ini mencakup pembuatan furnitur untuk rumah tangga dan kantor yang bahan utamanya dari logam, seperti meja, kursi, rak, spring bed dan sejenisnya."
+    },
+    "31009": {
+      "uuid": "b8e376ee-5573-4041-9c35-58f0e4c9e0b8",
+      "uraian": "Kelompok ini mencakup usaha pembuatan furnitur yang bahan utamanya bukan kayu, rotan, bambu, logam, plastik dan bukan barang imitasi, seperti bahan pelengkap matras atau kasur, matras atau kasur dengan per atau pegas atau yang yang diisi atau disumpal atau dilengkapi dengan bahan pelengkap lainnya (kapok, dakron) dan matras atau kasur plastik atau karet yang tidak dilapisi dan matras atau kasur sejenisnya. Termasuk kereta restoran dekorasi, seperti kereta desert, kereta makanan."
+    },
+    "32111": {
+      "uuid": "428dfb1b-b308-498e-8553-a94820778a34",
+      "uraian": "Kelompok ini mencakup usaha pemotongan, pengasahan dan penghalusan batu berharga atau permata dan sejenisnya, seperti berlian perhiasan, intan perhiasan, batu aji/ batu akik dan intan tiruan."
+    },
+    "32112": {
+      "uuid": "2400d4a0-d057-4d61-ad6f-ff1bf17a4250",
+      "uraian": "Kelompok ini mencakup usaha pembuatan barang-barang perhiasan yang bahan utamanya dari logam mulia (emas, platina dan perak) untuk keperluan pribadi, seperti cincin, kalung, gelang, giwang, bross, ikat pinggang dan kancing, termasuk bagian dan perlengkapannya. Pembuatan perhiasan imitasi dimasukkan dalam kelompok 32120."
+    },
+    "32113": {
+      "uuid": "2bf16c7f-b09b-45ca-a818-f15c3343208a",
+      "uraian": "Kelompok ini mencakup usaha pembuatan perhiasan yang bahan utamanya dari logam mulia selain untuk keperluan pribadi, seperti peralatan makan dan minum, piring-piring ceper, wadah-wadah berongga, barang-barang toilet, barang hiasan untuk rumah tangga, barang-barang kantor atau meja, piala, medali dan noveltis atau barang-barang yang berhubungan dengan keagamaan, termasuk bagian dan perlengkapannya."
+    },
+    "32114": {
+      "uuid": "27756d7c-c87a-4d22-be74-552dbb4bdea2",
+      "uraian": "Kelompok ini mencakup usaha pembuatan barang-barang untuk keperluan teknik dan atau laboratorium dari logam mulia (tidak termasuk instrument dan bagian-bagiannya), seperti spatula, crucibles, cuples, platinum grill yang digunakan sebagai katalisator dan electro-plating anodes."
+    },
+    "32115": {
+      "uuid": "1ce848be-3ffc-4a58-a285-6484ae316ef4",
+      "uraian": "Kelompok ini mencakup usaha pengerjaan mutiara dan pembuatan perhiasan dari mutiara atau perhiasan berbahan dasar utamanya adalah mutiara."
+    },
+    "32119": {
+      "uuid": "753e9e26-ef9f-47ff-905b-20409722b8ad",
+      "uraian": "Kelompok ini mencakup usaha pembuatan barang lainnya dari logam mulia, seperti tali jam tangan dari logam mulia, manset, ikat jam tangan dan kotak rokok. Termasuk pembuatan koin baik yang legal sebagai alat tukar maupun tidak dan jasa engraving baik pada perhiasan dari logam mulia atau bukan. Pembuatan case (badan) jam dan perhiasan jam dimasukkan dalam kelompok 26520."
+    },
+    "32120": {
+      "uuid": "6cdc15d5-0830-49b2-9439-ca3a4c4ae97e",
+      "uraian": "Kelompok ini mencakup usaha pembuatan perhiasan imitasi dan sejenisnya, seperti cincin, gelang, kalung dan barang-barang sejenisnya yang dibuat dari logam dasar yang dilapisi logam mulia, perhiasan dengan batu imitasi seperti batu permata imitasi, berlian imitasi dan sejenisnya. Termasuk pembuatan tali jam tangan dari logam (kecuali logam mulia)."
+    },
+    "32201": {
+      "uuid": "986ea6f1-8b63-4e95-a697-e93d1969e9ed",
+      "uraian": "Kelompok ini mencakup usaha pembuatan alat-alat musik tradisional baik alat musik senar, tiup, pukul dan lainnya, seperti kecapi, seruling bambu, angklung, calung, kulintang, gong, gambang, gendang, terompet tradisional, rebab dan tifa. Termasuk pembuatan peluit, call horn (semacam terompet) dan alat sinyal suara yang ditiup lainnya."
+    },
+    "32202": {
+      "uuid": "82860939-aa9e-44ac-94b8-c0857371bd2c",
+      "uraian": "Kelompok ini mencakup usaha pembuatan alat-alat musik non tradisional, seperti alat musik petik (gitar, bass dan sejenisnya), alat musik tiup (terompet, saxophone, clarinet, harmonika dan sejenisnya), alat musik gesek (biola, cello dan sejenisnya), alat musik perkusi (drum set, selofon, metalofon dan sejenisnya). Termasuk usaha pembuatan piano/organ, pianika gamitan, akordeon dan garpu tala. Usaha pembuatan mikrofon, loudspeaker, headphone dan komponen yang sejenisnya dimasukkan dalam kelompok 26420. Sedangkan alat-alat musik untuk mainan dimasukkan dalam kelompok 32402."
+    },
+    "32300": {
+      "uuid": "f0417fbe-5f45-4704-beaf-2fecb4787c2a",
+      "uraian": "Kelompok ini mencakup usaha pembuatan alat-alat olahraga, seperti bola sepak, bola basket, bola volley, raket tenis, raket bulu tangkis, net volley, net pingpong, stik golf, stik hockey, meja pingpong, ski bindings dan poles (galah), sepatu ski, papan layar dan papan selancar, peralatan untuk olahraga memancing termasuk jaring penyerok, peralatan untuk berburu, panjat gunung, sarung tangan dan tutup kepala olahraga dari kulit, ice skate, roller skate, busur dan panah, peralatan untuk olahraga ketangkasan, peralatan gimnastik (senam), peralatan pusat kebugaran (fitness centre) atau peralatan atletik dan matras. Kelompok ini tidak termasuk usaha pembuatan layar perahu (13929), pakaian olahraga (14111), pakaian kuda (15123), sepatu olahraga (15202), senjata untuk olahraga (25200), sepeda olahraga (30921), kapal/sampan olahraga (30120), meja billiard/perlengkapan bowling (32401), cambuk dan pecut (15123)."
+    },
+    "32401": {
+      "uuid": "78a0d7f1-b4d3-4094-b20b-4f3b88349ddf",
+      "uraian": "Kelompok ini mencakup usaha pembuatan alat/perlengkapan seperti kartu domino, remi dan sejenisnya, kelereng, bekel, papan permainan dan permainan sejenisnya (halma, ular tangga), permainan elektronik, permainan catur, permainan yang dioperasikan dengan koin, bilyard, meja khusus untuk permainan judi dan sebagainya, fun fair, table and parlour games, meja billiard, meja casino, meja bowling dan perlengkapannya, puzzle dan mainan edukatif dan alat-alat permainan lainnya."
+    },
+    "32402": {
+      "uuid": "4cb5f4fb-fe66-4cef-a1c2-948c9e4e69ec",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam mainan, seperti boneka dari kayu, kain, karet, dan sejenisnya termasuk pakaian boneka dan aksesorinya, mainan berupa senjata, toys set, tokoh super hero seperti superman, batman dan lain-lain, binatang mainan, alat musik mainan, kartu permainan, scale model dan model rekreasional sejenisnya, kereta api listrik, permainan konstruksi, mainan beroda yang dirancang untuk dikendarai (mainan jenis kendaraan) termasuk sepeda roda dua dan sepeda roda tiga yang terbuat dari plastik. Sepeda anak-anak dimasukkan dalam kelompok 30921."
+    },
+    "32501": {
+      "uuid": "f04af79e-8605-4f3b-9e9d-4b67148be687",
+      "uraian": "Kelompok ini mencakup pembuatan perabot atau furnitur untuk kegiatan operasi, perawatan, kedokteran gigi dan kedokteran hewan, seperti meja operasi, tiang infus, tempat tidur rumah sakit dengan peralatan mekanik dan kursi untuk pemeriksaan dan perawatan gigi."
+    },
+    "32502": {
+      "uuid": "dcea7811-b38f-4a51-a32a-ab6070cfb5e8",
+      "uraian": "Kelompok ini mencakup pembuatan peralatan dan perlengkapan untuk pemeriksaan kesehatan, operasi, kedokteran gigi dan kedokteran hewan, seperti electrocardiograph, alat-alat bor gigi, peralatan test mata (termasuk reflektor, endoscope, dan lain-lain), jarum suntik, peralatan sterilisasi, peralatan pijat, ozone therapy, oxygen therapy, peralatan pernapasan buatan, perlengkapan orthopaedic dan prosthetic (crutches, surgical belts and trussers, orthopaedic corsets and shoes dan lain-lain), thermometer kedokteran, tungku pembakar laboratorium kedokteran gigi, mesin pembersihan ultrasonik laboratorium, peralatan destilasi laboratorium, alat sentrifugal laboratorium, pelat dan baut tulang (bone plates and screws), alat suntik, jarum suntik, kateter, cannulae dan sebagaiya, peralatan kedokteran gigi (termasuk kursi periksa dokter gigi yang tergabung dengan perlengkapan dokter gigi lainnya), gigi buatan dan sebagainya yang dibuat di laboratorium kedokteran gigi, mata buatan dari gelas dan peralatan tubuh palsu lainnya, seperti mata palsu, tengkorak palsu dan bagian-bagian dalam tubuh palsu. Kelompok ini juga mencakup pembuatan berbagai peralatan dan perlengkapan dalam bentuk instrumen bedah, antara lain seperti gunting, pinset, tang."
+    },
+    "32503": {
+      "uuid": "40af0c27-a646-4d4f-89d4-c137e9b911fa",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam barang-barang opthalmik dan kaca mata berikut frame, seperti kaca mata pembantu penglihatan, kaca mata peredam sinar matahari/cahaya (sunglasses) dan safety googles (kaca mata untuk penahan debu, renang, selam, las). Termasuk juga pembuatan lensa kaca mata dan lensa kontak."
+    },
+    "32509": {
+      "uuid": "097cd875-c268-4765-9a2d-bbc15c2319d5",
+      "uraian": "Kelompok ini mencakup usaha pembuatan peralatan kedokteran dan kedokteran gigi serta perlengkapan lainnya yang belum tercakup dalam kelompok 32501 sampai dengan 32503, seperti kain dan benang steril/benang bedah dan kertas tisue untuk operasi, semen dan penambal gigi (kecuali perekat gigi palsu 20234), lilin gigi dan preparat plester gigi lainnya, semen rekonstruksi tulang, masker medis seperti surgical mask."
+    },
+    "32901": {
+      "uuid": "8facaf65-7da3-4c5b-b88a-48ee64f1071c",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam alat tulis dan gambar termasuk perlengkapannya, seperti pensil hitam, pensil berwarna, pulpen, pena boll point, tangkai pena, pena sablon, jangka, kuas gambar, batu tulis, meja gambar, rapido, sablon, letraset dan crayon. Termasuk pembuatan cat air dan cat minyak."
+    },
+    "32902": {
+      "uuid": "e082c2d6-7c98-4d01-af5e-9a00a2cac2cb",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam pita mesin tulis/gambar, seperti pita mesin tik, pita pencetak komputer dan pita mesin tulis lainnya."
+    },
+    "32903": {
+      "uuid": "30974fa4-59d2-4586-af45-3dc6fde5a584",
+      "uraian": "Kelompok ini mencakup usaha pembuatan barang-barang kerajinan dari bahan tumbuh-tumbuhan dan hewan, seperti kerajinan pohon kelapa, tempurung, serabut, akar-akaran, kulit, gading, tanduk, tulang, bulu, rambut, binatang yang diawetkan, kegiatan taxidermy (mengisi kulit binatang dengan kapas dan lain-lain sehingga nampak seperti binatang hidup), karangan bunga, rangkaian bunga berbentuk lingkaran dan keranjang bunga; bunga, buah-buahan dan daun-daunan buatan dan barang-barang lukisan.  Termasuk usaha pembuatan barang-barang kerajinan dari kulit ikan dan kekerangan, baik dari kulit kerang mutiara seperti kerang Pinctada maxima, kerang mabe (mutiara setengah bulat), maupun kerang lainnya."
+    },
+    "32904": {
+      "uuid": "f2fd694d-4220-4270-b323-8851de2fef46",
+      "uraian": "Kelompok ini mencakup usaha pembuatan peralatan untuk pelindung keselamatan, seperti pakaian pelindung dan pakaian anti api, sabuk pengaman tukang kawat dan sabuk lain untuk keperluan pekerjaan, pelampung, topi plastik yang keras (helm bangunan) dan perlengkapan keamanan  lainnya yang terbuat dari plastik (helm olahraga dan segala macam helm sejenisnya), pakaian pelindung kebakaran, tutup kepala pengaman dari logam dan peralatan pengaman pribadi lain yang terbuat dari logam, penyumbat telinga dan hidung (misalnya untuk renang dan pengaman hidung) dan masker gas, masker non medis dan APD termasuk face shield."
+    },
+    "32905": {
+      "uuid": "25431d24-c4ca-4c16-ba34-55f828374446",
+      "uraian": "Kelompok ini mencakup usaha pengolahan sabut kelapa menjadi bahan baku, seperti cocofiber (serat sabut kelapa), cocopeat (serbuk sabut kelapa), Rubberized Curl Coir (RCC)/ serat sabut kelapa berkaret (sebutret), dan lainnya.   Contoh: cocofiber digunakan untuk pembuatan jok mobil, spring bed, dan lainnya  serta cocopeat biasanya digunakan untuk media tanaman, dan lainnya."
+    },
+    "32907": {
+      "uuid": "b3580a67-1410-42a4-b844-70389c2767b9",
+      "uraian": "Kelompok ini mencakup usaha yang melakukan kegiatan fabrikasi elemen bakar uranium."
+    },
+    "32909": {
+      "uuid": "e4cb401f-638b-4f9a-a044-71e0e55468af",
+      "uraian": "Kelompok ini mencakup usaha pembuatan barang-barang yang tidak diklasifikasikan di tempat lain, seperti papan nama, papan reklame (papan atau lampu display), segala macam payung, pipa rokok, lencana, piala, medali, stempel, tongkat, kap lampu, lilin, segala macam kancing, sapu, sikat ijuk, tempat cerutu dan sirih, pipa rokok, sisir, penyemprot wangi-wangian, botol vakum dan bejana vakum untuk keperluan pribadi atau rumah tangga, wig (rambut palsu), janggut palsu, bulu mata palsu dan lainnya yang belum tercakup dalam golongan lainnya, termasuk pembuatan korek api dari logam dan pembuatan perhiasan imitasi, boneka yang digunakan oleh penjahit  untuk mengenakan baju, peti jenazah. Pembuatan sumbu lampu dimasukan dalam kelompok 13942."
+    },
+    "33111": {
+      "uuid": "53c726ad-4363-4905-b42b-613b077e3415",
+      "uraian": "Kelompok ini mencakup reparasi dan perawatan produk logam pabrikasi di golongan 251, seperti reparasi tangki, reservoir dan kontainer atau wadah logam, drum pengapalan baja, generator uap atau uap air lainnya, mesin tambahan yang digunakan dalam generator uap (Kondensator, pemanas, pengumpul/kolektor dan akumulator uap), reactor nuklir kecuali separator isotop, suku cadang mesin kapal laut atau ketel uap tenaga dan peralatan kerja dari radiator dan pemanas pusat dan sejenisnya."
+    },
+    "33112": {
+      "uuid": "1d4139d8-8f2b-4434-bb7e-7c72cc866bbf",
+      "uraian": "Kelompok ini mencakup reparasi dan perawatan produk logam di golongan 252, yaitu  reparasi dan perawatan senjata api dan meriam/artileri (termasuk reparasi senjata untuk kegiatan olahraga atau rekreasional)."
+    },
+    "33119": {
+      "uuid": "ddb6d148-d84a-4437-9395-bfdfe6e27598",
+      "uraian": "Kelompok ini mencakup reparasi dan perawatan produk logam pabrikasi di golongan 259, seperti  reparasi dan perawatan alat potong, perkakas tangan dan peralatan umum (biasa digunakan umtuk pertanian, pertukangan dan rumah tangga), wadah dari logam, barang dari kawat, brankas, filling kabinet dan barang logam lainnya.  Termasuk las (keliling) yang berpindah-pindah,"
+    },
+    "33121": {
+      "uuid": "31186023-2b1d-4df2-b069-fbceaca00705",
+      "uraian": "Kelompok  ini mencakup reparasi mesin untuk keperluan umum yang tercakup dalam golongan 281, seperti reparasi dan perawatan mesin kapal laut atau kereta api, pompa dan peralatan yang terkait, peralatan tenaga uap atau zat cair, katup atau klep, roda gigi (persneling) dan peralatan kemudi, tungku pembakar pada proses industri, alat pengangkat dan pemindah, mesin dan peralatan kantor kecuali komputer dan perlengkapannya (cash register, mesin fotokopi, kalkulator, mesin ketik), perkakas tangan yang digerakkan tenaga, peralatan pendingin dan pembersih udara, timbangan, mesin penjual otomatis dan keperluan umum lainnya."
+    },
+    "33122": {
+      "uuid": "19817cd6-2982-49b1-ae41-36a06eea444b",
+      "uraian": "Kelompok  ini mencakup reparasi dan perawatan mesin untuk keperluan khusus yang tercakup dalam golongan 282, seperti reparasi dan perawatan traktor pertanian, mesin pertanian dan mesin kehutanan dan penebangan, perkakas mesin pemotong logam dan pembentuk logam dan aksesorinya, perkakas mesin lainnya, mesin metalurgi, mesin pertambangan dan penggalian termasuk  mesin pada ladang minyak dan gas, mesin konstruksi, mesin pengolahan makanan dan minuman, mesin pengolahan tembakau, mesin tekstil, mesin pembuatan pakaian dan pakaian dari kulit, mesin pembuatan kertas dan mesin keperluan khusus lainnya."
+    },
+    "33131": {
+      "uuid": "c3f206d8-4613-4697-bbf2-35cf0225cdce",
+      "uraian": "Kelompok ini mencakup reparasi dan perawatan peralatan yang diproduksi dalam golongan 265, seperti reparasi dan perawatan peralatan mesin pesawat terbang, peralatan pengujian emisi mobil, peralatan meteorologi, peralatan pengujian dan pemeriksaan perlengkapan secara fisik, listrik dan kimia, peralatan penelitian atau survei, peralatan pendeteksi dan pemantauan radiasi dan sejenisnya."
+    },
+    "33132": {
+      "uuid": "3174bfb6-ceff-43f5-a6ce-516be240d819",
+      "uraian": "Kelompok ini mencakup reparasi dan perawatan peralatan iradiasi, elektromedis dan elektroterapi dalam golongan 266, seperti reparasi dan perawatan peralatan penggambaran resonansi magnetik (magnetic resonance imaging/MRI), peralatan kesehatan ultrasound, peralatan pembuka jalan (pacemaker), peralatan bantu pendengaran (hearing aids), peralatan elektrokardiografi, peralatan endoskopis elektromedis, peralatan iradiasi dan sejenisnya."
+    },
+    "33133": {
+      "uuid": "64b9daa8-e151-4a34-8d16-e91557aa79dd",
+      "uraian": "Kelompok ini mencakup reparasi dan perawatan peralatan fotografi dan optik dalam golongan 267, jika utamanya digunakan secara komersial, seperti reparasi dan perawatan teropong, mikroskop (kecuali mikroskop elektron, proton), teleskop, prisma dan lensa (kecuali ophtalmik), peralatan fotografi dan sejenisnya."
+    },
+    "33141": {
+      "uuid": "8b358a42-528b-4e93-82b8-3c8283eaaeed",
+      "uraian": "Kelompok ini mencakup reparasi dan perawatan mesin dan peralatan yang diproduksi dalam golongan 271, seperti reparasi dan perawatan mesin tenaga, distribusi dan khususnya transformator, motor listrik, generator dan perangkat motor generator, peralatan saklar dan papan hubung, peralatan relay dan pengontrol industri."
+    },
+    "33142": {
+      "uuid": "44b38bf0-beb0-40b3-bace-3aaad22034ba",
+      "uraian": "Kelompok ini mencakup reparasi dan perawatan baterai dan akumulator motor listrik dan lainnya yang termasuk dalam golongan 272."
+    },
+    "33149": {
+      "uuid": "64f6451b-9c9a-4b44-927f-813ed4d143b8",
+      "uraian": "Kelompok ini mencakup reparasi dan perawatan peralatan listrik lainnya dalam golongan 273, 274 dan 279, seperti reparasi dan perawatan peralatan penerangan listrik, peralatan kawat pembawa arus dan bukan pembawa arus untuk sirkuit kabel listrik dan peralatan listrik sejenis lainnya."
+    },
+    "33151": {
+      "uuid": "eb3be7bc-f6eb-4fb6-bb95-0a87dd97a42a",
+      "uraian": "Kelompok ini mencakup jasa reparasi dan perawatan alat angkutan dalam golongan 301, seperti jasa reparasi dan perawatan kapal, perahu, kapal pesiar, kapal atau perahu untuk kepeluan rekreasi dan olahraga dan sejenisnya. Termasuk usaha jasa reparasi dan perawatan dan modifikasi bangunan lepas pantai."
+    },
+    "33152": {
+      "uuid": "b91c0974-58f0-41d1-b6ba-ece0ae152d84",
+      "uraian": "Kelompok ini mencakup jasa reparasi dan perawatan lokomotif dan gerbong kereta api dan kendaraan jalan rel lainnya (kecuali industri  pembangunan kembali dan pengubahan) dalam golongan 302."
+    },
+    "33159": {
+      "uuid": "a804fc74-d212-4e8f-b775-9c1a1053c0d5",
+      "uraian": "Kelompok ini mencakup reparasi dan perawatan alat angkut lainnya bukan sepeda motor dan sepeda, seperti reparasi dan perawatan kendaraan perang, andong dan kereta yang ditarik binatang dan alat angkut sejenis lainnya."
+    },
+    "33190": {
+      "uuid": "21081635-5619-4894-83ef-61bca99e3569",
+      "uraian": "Kelompok ini mencakup reparasi peralatan lainnya, seperti reparasi jaring untuk menangkap ikan, tali jerat, tali temali, canvas dan terpal (tarp), kantong penyimpan pupuk dan bahan kimia, pallet kayu, drum pengapalan dan tong sejenisnya, mesin pinball dan mesin permainan yang dioperasikan dengan koin, orgel dan peralatan musik bersejarah lainnya."
+    },
+    "33200": {
+      "uuid": "ca957106-330b-416e-93bf-20f4ef91f7f4",
+      "uraian": "Kelompok ini mencakup instalasi/pemasangan mesin dan peralatan industri, seperti instalsi/pemasangan mesin industri dalam pabrik, peralatan kendali/kontrol proses industri dan peralatan industri lainnya (peralatan komunikasi, mainframe dan komputer sejenis, peralatan iradiasi, peralatan gas medis dan elektromedis dan lain-lain), pembongkaran mesin dan peralatan berskala besar, kegiatan millwright, machine rigging dan integrasi/perakitan mesin seperti jasa perakitan peralatan arena bowling."
+    },
+    "35301": {
+      "uuid": "b132ff50-d37b-4cc0-aaca-361cf73831f6",
+      "uraian": "Kelompok ini mencakup kegiatan memproduksi dan mendistribusikan uap dan air panas untuk pemanasan, pembangkit tenaga dan penggunaan lainnya. Kegiatannya seperti produksi, pengumpulan dan distribusi uap dan air panas untuk pemanas, energi dan kegunaan lain dan kegiatan produksi dan distribusi udara dingin."
+    },
+    "35302": {
+      "uuid": "a1759a93-312c-4d1f-a2be-e6c509c4e919",
+      "uraian": "Kelompok  ini mencakup kegiatan produksi dan distribusi air dingin/air es untuk kebutuhan pendinginan, dan produksi es, termasuk es untuk kebutuhan makanan atau minuman dan kegunaan lain (misal pendinginan)."
+    },
+    "38212": {
+      "uuid": "a03816d2-6c3f-4017-afa1-89e61f3731b4",
+      "uraian": "Kelompok ini mencakup usaha produksi kompos dari sampah organik dan abu tanaman (pupuk alam organik)."
+    },
+    "38301": {
+      "uuid": "665fd38b-b7c0-40f0-993c-8a55455073a2",
+      "uraian": "Kelompok ini mencakup usaha pengolahan barang bekas dari logam dan sisa-sisa barang logam menjadi bahan baku sekunder. Hasil dari daur ulang/pemulihan material barang logam adalah bahan baku sekunder berbagai bentuk seperti potongan-potongan atau serpihan logam dan lainnya. Kegiatan pada kelompok ini mencakup pemisahan dan pemilihan sampah logam, penghancuran secara mekanik sampah logam, reduksi mekanik sampah logam, pembongkaran, pemotongan dan pengirisan sampah logam,  pemotongan kapal dan alat apung lainnya (ship breaking) dan lainnya. Pembuatan barang logam baru yang menggunakan bahan baku sekunder, barang logam bekas dan sisa-sisa barang logam dimasukkan dalam kelompok industri yang sesuai."
+    },
+    "38302": {
+      "uuid": "392dea2d-81b9-4217-a890-5badb3790250",
+      "uraian": "Kelompok ini mencakup usaha pengolahan barang bekas dari bukan logam dan sisa-sisa barang bukan logam menjadi bahan baku sekunder.  Hasil dari daur ulang/pemulihan material barang bukan logam adalah bahan baku sekunder berbagai bentuk seperti potongan-potongan atau serpihan bukan logam dan lainnya. Kegiatan pada kelompok ini mencakup pemisahan dan pemilihan sampah bukan logam, reklamasi karet dan ban bekas, pemilihan plastik, pengolahan sampah plastik atau karet menjadi butiran, penghancuran, pembersihan dan pemilihan kaca, pengolahan minyak dan lemak bekas pakai menjadi bahan sekunder, pengolahan sampah makanan, minuman dan tembakau dan sampah bukan logam lainnya. Pembuatan barang bukan logam yang baru dari bahan baku sekunder, barang bekas bukan logam dan sisa-sisa barang bukan logam dimasukkan dalam kelompok industri yang sesuai."
+    },
+    "45201": {
+      "uuid": "afd2bbcb-f44f-4759-b5b3-3d43dfbff8b1",
+      "uraian": "Kelompok ini mencakup usaha reparasi dan perawatan mobil, seperti reparasi mekanik, reparasi elektrik, reparasi sistem injeksi elektronik, servis regular, reparasi badan mobil, reparasi bagian kendaraan bermotor, penyemprotan dan pengecatan, reparasi kaca dan jendela dan reparasi tempat duduk kendaraan bermotor. Termasuk reparasi, pemasangan atau penggantian ban dan pipa, perawatan anti karat, pemasangan bagian dan aksesori yang bukan bagian dari proses pembuatan dan usaha perawatan lainnya."
+    },
+    "45407": {
+      "uuid": "6cb707c4-466d-41dc-bf83-a357acab5f83",
+      "uraian": "Kelompok ini mencakup usaha pemeliharaan dan reparasi sepeda motor, termasuk pencucian sepeda motor dan usaha perawatan lainnya."
+    },
+    "58120": {
+      "uuid": "0f606648-20d7-4499-829d-c61bb3457c44",
+      "uraian": "Kelompok ini mencakup penerbitan daftar informasi (database). Penerbitan ini dapat dipublikasikan baik dalam bentuk elektronik atau cetak.  Kegiatan usahanya meliputi penerbitan daftar alamat (mailing list), penerbitan buku telepon dan penerbitan direktori dan kompilasi lainnya, seperti perkara hukum, kompendium farmasi dan lain-lain."
+    },
+    "58130": {
+      "uuid": "6a735abc-397d-4556-9407-3f9fca786249",
+      "uraian": "Kelompok ini mencakup usaha penerbitan surat kabar dan surat kabar iklan, jurnal, buletin, majalah umum dan teknis, komik, termasuk penerbitan jadwal siaran radio dan televisi dan sebagainya. Informasi ini dapat dipublikasikan dalam bentuk elektronik maupun cetak, termasuk di internet."
+    },
+    "58190": {
+      "uuid": "4786dd66-6bbd-4de0-bde6-5464624897ff",
+      "uraian": "Kelompok ini mencakup usaha penerbitan foto-foto, seni grafis dan kartu pos, formulir, poster, reproduksi karya seni (lukisan) dan material periklanan dan materi cetakan lainnya. Termasuk penerbitan statistik dan informasi lainnya secara online dan rekaman mikro film."
+    },
+    "58200": {
+      "uuid": "1e4b7f4c-482d-46dd-a67f-954ca1e249cc",
+      "uraian": "Kelompok ini mencakup kegiatan usaha penerbitan perangkat lunak yang siap pakai (bukan atas dasar pesanan), seperti sistem operasi, aplikasi bisnis dan lainnya dan video game untuk semua platform sistem operasi."
+    },
+    "59112": {
+      "uuid": "d6001ac5-ac0a-4bd2-85fd-168c4e10d38e",
+      "uraian": "Kelompok ini mencakup usaha pembuatan dan produksi gambar bergerak, film, video, animasi, program televisi atau iklan bergerak televisi yang dikelola oleh swasta atas dasar balas jasa juga usaha pembuatan film untuk televisi dan jasa pengiriman film dan agen pembukuan film. Kelompok ini tidak mecakup aktivitas duplikasi film dan reproduksi audio/video dari master copies (18202) dan animasi pascaproduksi (5912)."
+    },
+    "59122": {
+      "uuid": "104f4aa9-c5ee-459e-86d6-2ef0375f36a7",
+      "uraian": "Kelompok ini mencakup kegiata usaha pascaproduksi, seperti editing, cutting, dubbing, titling dan credit film, closed captioning, pembuatan grafis komputer, animasi dan special effects dan transfer film atau tape termasuk kegiatan studio perfilman dan studio khusus film animasi yang melakukan pengembangan dan pemrosesan film dan reproduksi film untuk distribusi ke bioskop serta kegiatan dokumentasi potongan film atau gambar bergerak yang dikelola oleh swasta atas dasar balas jasa."
+    },
+    "62011": {
+      "uuid": "cd18475e-b2f7-4e64-bd94-bafffa0a4d84",
+      "uraian": "Kelompok ini mencakup kegiatan pengembangan video game, seperi kegiatan desain konsep game, pengembangan piranti lunak video game, pembuatan aset grafis, pembuatan animasi yang berkaitan dengan video game, pembuatan suara dan musik, pengujian video game, dan dukungan lainnya untuk video game."
+    },
+    "62012": {
+      "uuid": "31effcf9-d780-4464-a8df-b920932b8ad1",
+      "uraian": "Kelompok ini mencakup kegiatan pengembangan aplikasi perdagangan melalui internet (e-commerce). Kegiatan meliputi konsultasi, analisi dan pemograman aplikasi untuk kegiatan perdagangan melalui internet."
+    },
+    "62013": {
+      "uuid": "377cf5b6-0252-4f57-80ec-25b87c68a430",
+      "uraian": "Kelompok ini mencakup konsultasi dan produksi yang berkaitan dengan analisis, desain dan pemrograman dari sistem media imersif  seperti VR (Virtual Reality)/AR (Augmented Reality)/MR (Mixed Reality). Kegiatan ini biasanya menyangkut analisis kebutuhan pengguna sistem media imersif dan permasalahannya termasuk pula penulisan program sesuai kebutuhan pengguna media imersif. Pembuatan 3D visual dan video 360 serta modifikasinya khusus untuk media imersif."
+    },
+    "62019": {
+      "uuid": "5e8659f8-01e8-48d9-bceb-4af4015caa73",
+      "uraian": "Kelompok ini mencakup konsultasi yang berkaitan dengan analisis, desain dan pemrograman dari sistem yang siap pakai lainnya (selain yang sudah dicakup di kelompok 62011 dan 62015). Kegiatan ini biasanya menyangkut analisis kebutuhan pengguna komputer dan permasalahannya, pemecahan permasalahan, dan membuat perangkat lunak berkaitan dengan pemecahan masalah tersebut. Termasuk pula penulisan program sederhana sesuai kebutuhan pengguna komputer.   Perancangan  struktur dan isi dari, dan/atau penulisan kode komputer yang diperlukan untuk membuat dan mengimplementasikan, seperti piranti lunak sistem (pemutakhiran dan perbaikan), piranti lunak aplikasi (pemutakhiran dan perbaikan), basis data dan laman web. Termasuk penyesuaian perangkat lunak, misalnya modifikasi dan penyesuaian konfigurasi aplikasi yang sudah ada sehingga berfungsi dalam lingkungan sistem informasi klien. Kegiatan penyesuaian perangkat lunak sejenis yang dilaksanakan sebagai bagian yang tak terpisahkan dari penjualan perangkat lunak dimasukkan dalam subgolongan 47413."
+    },
+    "62021": {
+      "uuid": "e30ff313-9224-4b8c-98f2-5225f9c716f9",
+      "uraian": "Kelompok ini mencakup kegiatan layanan konsultasi perencanaan dan pengawasan keamanan informasi, pemeriksaan atau penjaminan (assurance) keamanan informasi, dan pembangunan dan penerapan keamanan informasi."
+    },
+    "62029": {
+      "uuid": "b21af6cc-e9f2-4ea9-a40f-35f2425820dc",
+      "uraian": "Kelompok ini mencakup usaha konsultasi tentang tipe dan konfigurasi dari perangkat keras komputer dengan atau tanpa dikaitkan dengan aplikasi piranti lunak. Perencanaan dan perancangan sistem komputer yang mengintegrasikan perangkat keras, piranti lunak dan teknologi komunikasi komputer. Konsultasi biasanya menyangkut analisis kebutuhan pengguna komputer dan permasalahannya, serta memberikan jalan keluar yang terbaik. Unit yang diklasifikasikan dalam subgolongan ini dapat menyediakan komponen sistem perangkat keras dan piranti lunak sebagai bagian dari jasa yang terintegrasi atau komponen ini dapat disediakan oleh pihak ketiga atau vendor. Unit yang diklasifikasikan dalam subgolongan ini pada umumnya menginstal sistem dan melatih serta mendukung pengguna sistem. Termasuk penyediaan manajemen dan pengoperasian sistem komputer klien dan/atau fasilitas pengolahan data di tempat klien, demikian juga jasa pendukung terkait."
+    },
+    "62090": {
+      "uuid": "c61a4aa6-6999-42a5-8bd6-1ba22bf59113",
+      "uraian": "Kelompok ini mencakup kegiatan teknologi informasi dan jasa komputer lainnya yang terkait dengan kegiatan yang belum diklasifikasikan di tempat lain, seperti pemulihan kerusakan komputer, instalasi (setting up) personal komputer dan instalasi perangkat lunak. Termasuk juga kegiatan manajemen insiden dan digital forensik. Kelompok ini mencakup berbagai usaha yang berkaitan dengan komputer yang belum tercakup dalam golongan 6201-6202."
+    },
+    "63111": {
+      "uuid": "cb1de852-fa0f-4ef2-adce-a001ad258d0d",
+      "uraian": "Kelompok ini mencakup kegiatan pengolahan dan tabulasi semua jenis data. Kegiatan ini bisa meliputi keseluruhan tahap pengolahan dan penulisan laporan dari data yang disediakan pelanggan, atau hanya sebagian dari tahapan pengolahan. Termasuk pembagian fasilitas mainframe ke klien dan penyediaan entri data dan kegiatan pengelolaan data besar (big data)."
+    },
+    "63112": {
+      "uuid": "f553eb33-a505-4ff3-bc05-a235da53ceab",
+      "uraian": "Kelompok ini mencakup usaha jasa pelayanan yang berkaitan dengan penyediaan infrastruktur hosting, layanan pemrosesan data dan kegiatan ybdi dan spesialisasi dari hosting, seperti web-hosting, jasa streaming dan aplikasi hosting.  Termasuk di sini penyimpanan komputasi awan (cloud computing)."
+    },
+    "63122": {
+      "uuid": "e38dd92a-ffac-4eac-87f1-2ee856a6cccc",
+      "uraian": "Kelompok ini mencakup pengoperasian situs web dengan tujuan komersial yang menggunakan mesin pencari untuk menghasilkan dan memelihara basis data (database) besar dari alamat dan isi internet dalam format yang mudah dicari; pengoperasian situs web yang bertindak sebagai portal ke internet, seperti situs media yang menyediakan isi yang diperbarui secara berkala, baik secara langsung ataupun tidak langsung dengan tujuan komersial; pengoperasian platform digital dan/atau situs/portal web yang melakukan transaksi elektronik berupa kegiatan usaha fasilitasi dan/atau mediasi pemindahan kepemilikan barang dan/atau jasa dan/atau layanan lainnya melalui internet dan/atau perangkat elektronik dan/atau cara sistem elektronik lainnya yang dilakukan dengan tujuan komersial (profit) yang mencakup aktivitas baik salah satu, sebagian ataupun keseluruhan transaksi elektronik, yaitu pemesanan, pembayaran, pengiriman atas kegiatan tersebut. Termasuk dalam kelompok ini adalah situs/portal web dan/atau platform digital yang bertujuan komersial (profit) merupakan aplikasi yang digunakan untuk fasilitasi dan/atau mediasi layanan-layanan transaksi elektronik, seperti pengumpul pedagang (marketplace), digital advertising, dan on demand online services. Kelompok ini tidak mencakup financial technology (Fintech). Fintech Peer to Peer (P2P) Lending (6495) dan Fintech jasa pembayaran (6641)."
+    },
+    "68130": {
+      "uuid": "c6f7e3e5-01ab-4588-b2f5-49be1f846c9f",
+      "uraian": "Kelompok ini mencakup pengusahaan lahan dengan luas sekurang-kurangnya 50 hektar dalam satu hamparan yang dijadikan kawasan  tempat  pemusatan kegiatan industri yang dilengkapi dengan sarana dan prasarana penunjang yang  dikembangkan dan dikelola  oleh perusahaan kawasan industri yang telah memiliki izin usaha kawasan industri. Termasuk pengusahaan lahan kawasan industri tertentu untuk usaha mikro, kecil, dan menengah paling rendah 5 (lima) hektar dalam satu hamparan."
+    },
+    "70204": {
+      "uuid": "12e1e49b-e392-4368-b9ab-caa11a2a11b0",
+      "uraian": "Kelompok ini mencakup kegiatan bantuan nasihat, bimbingan dan operasional usaha dan permasalahan organisasi dan manajemen perusahaan industri, seperti perencanaan strategi dan organisasi; keputusan berkaitan dengan keuangan; tujuan dan kebijakan pemasaran; perencanaan, praktik dan kebijakan sumber daya manusia; perencanaan penjadwalan dan pengontrolan produksi."
+    },
+    "71102": {
+      "uuid": "4b755203-717d-418a-8e7e-b5f254aecb73",
+      "uraian": "Kelompok ini mencakup kegiatan perancangan teknik, dan konsultansi, seperti permesinan, pabrik dan proses industri; proyek yang melibatkan teknik sipil, teknik hidrolik, teknik lalu lintas; jasa nasihat dan konsultansi rekayasa teknik,  jasa rekayasa konstruksi bangunan gedung hunian dan nonhunian, jasa rekayasa pekerjaan teknik sipil sumber daya air, jasa rekayasa untuk pekerjaan mekanikal dalam bangunan, jasa rekayasa bangunan fasilitas olahraga, jasa konsultansi teknik lingkungan, jasa konsultansi terkait konstruksi pekerjaan sistem kendali lalu lintas, jasa rekayasa konstruksi pembangkit jaringan transmisi, gardu induk, dan distribusi tenaga listrik serta jasa rekayasa untuk proses industrial, produksi dan fasilitas produksi, jasa rekayasa lainnya,  perluasan dan realisasi proyek yang berhubungan dengan teknik listrik dan elektro, teknik pertambangan, teknik kimia, mekanik, teknik industri dan teknik sistem dan teknik keamanan; proyek manajemen air; dan kegiatan manajemen proyek dan jasa penyelidikan lapangan yang berkaitan dengan konstruksi; kegiatan perluasan proyek yang menggunakan AC, pendingin, kebersihan dan teknik pengontrolan polusi, teknik akustik dan lain-lain; kegiatan survei geofisika, geologi dan survei seismik atau gempa bumi termasuk jasa pembuatan prospektus dan jasa interpretasi geologi dan geofisika sektor konstruksi; kegiatan survei geodetik meliputi kegiatan survei batas dan tanah, survei hidrologi, survei keadaan di atas dan di bawah permukaan tanah dan kegiatan informasi spasial dan kartografi termasuk kegiatan pemetaan dan jasa pembuatan peta. Termasuk jasa rekayasa pekerjaan teknik sipil transportasi, jasa fasilitasi teknis prasarana dan sarana umum sektor konstruksi."
+    },
+    "71201": {
+      "uuid": "5105dbd5-57b4-4555-b736-dc79adcc1ec4",
+      "uraian": "Kelompok ini mencakup kegiatan lembaga sertifikasi produk, sistem manajemen mutu, HACCP (Hazard Analysis and Critical Control Points), sistem management lingkungan, sistem manajemen keamanan pangan, ekolabel, sistem manajemen keamanan informasi, sistem manajemen keselamatan dan kesehatan kerja (SMK3), sistem sertifikasi pangan organik, sistem pengolahan hutan produksi lestari, sistem validasi dan verifikasi termasuk verifikasi legalitas kayu, dan lain-lain. Termasuk kegiatan penilaian kesesuaian sistem manajemen mutu sistem resi gudang, dan sertifikasi industri hijau."
+    },
+    "71206": {
+      "uuid": "895800d5-cdc6-4d6e-9a61-5ee7ae4719e4",
+      "uraian": "Kelompok ini mencakup kegiatan memastikan semua komponen sesuai dengan standar dan spesifikasi owner; dilakukan oleh pihak ketiga penyedia jasa comissioning; layanan analisis serta commissioning  proses industrial dan produksi pada fasilitas produksi minyak, gas, petrokimia, dan panas bumi. Kelompok ini juga mencakup kegiatan Quality Assurance (QA) dan Quality Control (QC) yang dilakukan untuk memeriksa kandungan suatu zat secara kuantitatif dalam cuplikan yang menggunakan zat radioaktif dan pembangkit radiasi pengion, seperti X-Ray Fluorosence (XRF), X-Ray Diffraction (XRD), Spectrometer."
+    },
+    "71209": {
+      "uuid": "583df320-fc1e-4b2a-aefa-bf1e8b083fff",
+      "uraian": "Kelompok ini mencakup kegiatan jasa analisis dan uji teknis lainnya yang belum diklasifikasikan pada 71201 s.d. 71208 misalnya operasional dari keamanan dan ketertiban laboratorium. Termasuk dalam kelompok ini mencakup uji teknis dengan menggunakan sumber radiasi pengion (zat radioaktif dan pembangkit radiasi pengion) serta penyelenggara uji profisiensi dan produsen bahan acuan."
+    },
+    "72102": {
+      "uuid": "b92e825d-b251-4771-a5b5-4286e4f8815d",
+      "uraian": "Kelompok ini mencakup usaha penelitian dan pengembangan yang dilakukan secara teratur (sistematik), yang diselenggarakan oleh swasta, berkaitan dengan teknologi dan rekayasa (engineering). Kegiatan yang tercakup dalam kelompok ini seperti penelitian dan pengembangan ilmu teknik dan teknologi, serta antar cabang ilmu pengetahuan terutama ilmu pengetahuan alam dan teknik."
+    },
+    "72104": {
+      "uuid": "1b327b44-9b5b-469e-865a-ec834ee6fe13",
+      "uraian": "Kelompok ini mencakup usaha penelitian dan pengembangan yang dilakukan secara teratur (sistematik), yang diselenggarakan oleh swasta, berkaitan dengan bioteknologi."
+    },
+    "72109": {
+      "uuid": "9bfedc49-18ff-432c-94f5-ee42ea9b8280",
+      "uraian": "Kelompok ini mencakup usaha penelitian dan pengembangan yang dilakukan secara teratur (sistematik), yang diselenggarakan oleh swasta, berkaitan dengan teknologi dan rekayasa (engineering) lainnya."
+    },
+    "74111": {
+      "uuid": "1ddb59c8-2cf3-43c0-b836-7558388e6231",
+      "uraian": "Kelompok ini mencakup kegiatan aktivitas desain industri untuk menghasilkan produk, alat pendukung produksi dan komponen dalam industri alat transportasi dan permesinan Kelompok ini mencakup: desain untuk produk sepeda dan kendaraan yang ditarik binatang; desain untuk produk kereta tangan, kereta dorong, kereta bayi, kursi roda, dan tandu; desain untuk produk kendaraan di atas rel; desain untuk produk pengangkat kursi dan ski; desain untuk produk elevator dan alat angkat; desain untuk produk kendaraan bermotor, kapal dan pesawat terbang serta pesawat luar angkasa; desain untuk produk ban dan rantai anti-slip dan komponen maupun aksesoris kendaraan; desain untuk produk mesin, pompa dan kompresor; desain untuk produk mesin pertanian dan konstruksi maupun mesin tekstil"
+    },
+    "74112": {
+      "uuid": "103cb086-7a0b-4971-b074-ed11ca4d852b",
+      "uraian": "Kelompok ini mencakup kegiatan aktivitas desain industri untuk menghasilkan produk dalam industri peraltan rumah tangga dan furniture. Kelompok ini mencakup : desain untuk produk pecah belah, peralatan makan, memasak dan menyajikan serta mennyimpan makanan; desain untuk produk perlengkapan perapian; desain untuk produk peralatan tidur, meja dan kursi; desain untuk produk perabot (alat-alat) penyimpanan; desain untuk produk cermin dan bingkai; desain untuk produk gantunagan pakaian; desain untuk produk gorden dan tirai; desain untuk produk ornamen dinding/meja, vas, pot; desain untuk produk medali dan sabuk; desain untuk produk bendera dan dekorasi festival; desain untuk produk bunga, buah dan tanaman buatan"
+    },
+    "74114": {
+      "uuid": "56c914bd-bc53-4ab0-9fda-9672071605e9",
+      "uraian": "Kelompok ini mencakup kegiatan usaha kreasi aktivitas desain industri untuk menghasilkan produk dalam industri strategis dan pertahanan. Kelompok ini juga mencakup: desain untuk produk pertahanan negara; desain untuk produk militer; desain untuk produk senjata; desain untuk produk pengamanan dan kepolisian; dan desain untuk produk tanggap darurat bencana."
+    },
+    "74115": {
+      "uuid": "8335f186-f368-4724-91ab-fc70f5f7a626",
+      "uraian": "Kelompok ini mencakup kegiatan aktivitas desain industri untuk menghasilkan produk dalam  industri alat komunikasi dan elektronika  Kelompok ini mencakup: desain untuk produk teknologi informasi, alat komunikasi dan kendali; desain untuk produk perekam suara atau gambar; desain untuk produk penyimpan data; desain untuk produk pembangkit daya dan penggerak motor; desain untuk produk penyimpan daya dan penguat daya; desain untuk produk distribusi dan kontrol listrik; desain untuk produk mesin pendingin, mesin cuci, mesin pengering dan pembersih."
+    },
+    "74116": {
+      "uuid": "22538f83-0866-4e56-91d5-e01c017c5642",
+      "uraian": "Kelompok ini mencakup kegiatan usaha kreasi aktivitas desain industri untuk menghasilkan produk dalam  industri Peralatan Olahraga dan Permainan  Kelompok ini mencakup: desain untuk produk mainan dan hiburan; desain untuk produk peralatan olahraga; desain untuk produk tenda dan peralatan luar ruang (outdoor)."
+    },
+    "74117": {
+      "uuid": "842e4671-a774-49fa-a665-75e32af63981",
+      "uraian": "Kelompok ini mencakup kegiatan aktivitas desain industri untuk menghasilkan produk dalam  industri Kesehatan, Kosmestik dan Perlengkapan Laboratorium  Kelompok ini mencakup: desain untuk produk peralatan dan bahan medis, laboratorium, rumah sakit; desain untuk produk prosthetik; desain untuk produk obat-obatan dan kosmetik; desain untuk produkperlengkapan salon kecantikan dan toilet; desain untuk produk rambut palsu dan sejenisnya."
+    },
+    "74118": {
+      "uuid": "3f03adc9-fd6c-420f-bc82-de4a050db8d4",
+      "uraian": "Kelompok ini mencakup kegiatan aktivitas desain industri untuk menghasilkan produk dalam  industri pengemasan  Kelompok ini mencakup: desain untuk produk botol, tabung, kontainer, tempat sampah/rongsokan; desain untuk produk kaleng, drum, tong penyimpan, kotak; desain untuk produk penutup, keranjang, peti kayu, pallet, kantong, kapsul."
+    },
+    "74119": {
+      "uuid": "7e10549b-0fd5-4f67-8291-596c9ac29aac",
+      "uraian": "Kelompok ini mencakup kegiatan aktivitas desain industri untuk menghasilkan produk dalam  industri yang belum tercakup dalam kelompok 74111 s.d 74118, seperti: desain untuk produk Desain Peralatan Penunjuk Waktu, Peralatan Ukur dan Peralatan Kantor; desain untuk produk untuk menyikat; desain untuk produk peralatan dan perangkat keras; desain untuk produk peralatan fotografi, sinematografi dan optikal; desain untuk produk peralatan musik; desain untuk produk peralatan dan perangkat keras; desain untuk produk peralatan fotografi, sinematografi dan optikal; desain untuk produk alat tulis kantor; desain untuk produk peralatan sales dan iklan; desain untuk produk peralatan berburu dan memancing; desain untuk produk distribusi fluida, ventilasi dan alat pendingin ruangan dan alat pemanas; desain untuk produk bahan bakar padat; desain untuk produk pencahayaan; desain untuk produk elemen konstruksi; desain untuk produk peraltan pemadam kebakaran; desain untuk produk perawatan binatang; desain untuk produk industri makanan; desain untuk produk industri tembakau dan rokok; desain untuk produk kriya."
+    },
+    "74909": {
+      "uuid": "c4cb6a36-f7ca-448c-8281-a805f2a52515",
+      "uraian": "Kelompok ini mencakup kegiatan profesional, ilmiah dan teknik lainnnya yang tidak diklasifikasikan di tempat lain, seperti  jasa konsultasi ilmu pertanian (agronomist), konsultasi lingkungan, konsultasi teknik lain dan kegiatan konsultan selain konsultan arsitek, teknik dan manajemen. Termasuk juga jasa penyelaman dan pengangkatan benda muatan kapal tenggelam di kapal tenggelam.   Kelompok ini juga mencakup kegiatan yang dilakukan oleh agen atau perwakilan atas nama perorangan yang biasa terlibatkan dalam pembuatan gambar bergerak, produksi teater atau hiburan lainnya atau atraksi olahraga dan penempatan buku, permainan (sandiwara, musik dan lain-lain), hasil seni, fotografi dan lain-lain, dengan publiser, produser dan lain-lain."
+    },
+    "77391": {
+      "uuid": "535b6831-daf9-47d1-a254-f9dbf324ec98",
+      "uraian": "Kelompok ini mencakup kegiatan penyewaan dan sewa guna usaha tanpa hak opsi (operational leasing) mesin dan peralatan industri tanpa operator yang secara umum digunakan sebagai barang modal oleh perusahaan, seperti mesin tekstil, mesin pengolahan atau pengerjaan logam dan kayu, mesin percetakan dan mesin las listrik. Termasuk perkakas mesin, alat untuk produksi alat pengukur dan pemeriksa dan mesin ilmiah, komersil dan industri lainnya."
+    },
+    "82920": {
+      "uuid": "fc039be0-c821-44e9-824e-df8610d03bb1",
+      "uraian": "Kelompok ini mencakup usaha jasa pengepakan/pengemasan atas dasar balas jasa (fee) atau kontrak, baik menggunakan atau tidak suatu proses otomatis. Termasuk pembotolan minuman dan makanan, pengemasan benda padat (blister packaging, pembungkusan dengan alumunium foil dan lain-lain), pengemasan obat dan bahan obat-obatan, pelabelan, pembubuhan perangko dan pemberian cap, pengemasan parsel atau bingkisan dan pembungkusan hadiah. Termasuk pengalengan dan sejenisnya. Jasa pengepakan untuk kegiatan pengangkutan dimasukkan dalam kelompok 52291 s.d. 52299 yang bersesuaian."
+    },
+    "95110": {
+      "uuid": "fe2daede-bf09-4e27-aa2b-376c764a8823",
+      "uraian": "Kelompok ini mencakup usaha jasa reparasi dan perawatan komputer dan peralatannya, seperti komputer desktop, laptop, disk drive magnetik, flash drives dan media penyimpanan lain, disk drive optik (CD-RW, CD-ROM, DVD-ROM, DVD-RW), printer, monitor, keyboard,  mouse, joysticks dan trackball, modem komputer internal dan eksternal, terminal komputer, server komputer, scanner termasuk scanner bar code, pembaca smart card, virtual reality helmet dan proyektor komputer. Termasuk jasa reparasi dan perawatan terminal komputer seperti automatic teller machine (ATM), terminal point of sale (POS), yang tidak dioperasikan secara mekanik dan komputer genggam (PDA)."
+    },
+    "95120": {
+      "uuid": "29c8f598-2dba-4084-b8b2-b9ba03c88d9f",
+      "uraian": "Kelompok ini mencakup usaha khusus reparasi dan perawatan peralatan komunikasi, seperti reparasi perangkat telekomunikasi tanpa kabel (telepon seluler, RFID, komputer tablet, komputer genggam, modem nirkabel, alat pelacak kendaraan); reparasi perangkat telekomunikasi kabel (mesin FAX, pesawat telepon analog, ADSL/HDSL, PABX, modem, router, bridges); reparasi peralatan transmisi berbasis kabel (sentral telepon analog); reparasi perangkat transmisi radio (microwave link, Studio To Transmitter Link/STL, Trans Horizon Link/Troposcatter); reparasi radio dua arah (komunikasi radio trunking, komunikasi radio konvensional, walky talky); dan reparasi perangkat pengirim dan/atau penerima radio/transceiver (perangkat pemancar TV siaran, pesawat TV/smart TV, radio siaran, perangkat pemancar dan penerima jaringan bergerak seluler, dan kamera video)."
+    },
+    "95210": {
+      "uuid": "20f9adb6-955b-4feb-b1f0-28b4c9d080cb",
+      "uraian": "Kelompok ini mencakup usaha khusus jasa reparasi dan perawatan alat elektronik konsumen, seperti televisi dan radio penerima (termasuk pemasangan antena),, perekam kaset video (VCR), CD player dan kamera video jenis untuk pengguna rumah tangga."
+    },
+    "95220": {
+      "uuid": "12e12f43-f0ab-4c14-b83a-fe0ad491be4d",
+      "uraian": "Kelompok ini mencakup usaha khusus jasa reparasi dan perawatan peralatan rumah tangga, seperti kulkas, kompor, mesin cuci, pengering pakaian, pendingin ruangan (AC), seterika listrik, alat penghisap debu  dan berbagai barang/perabot listrik lainnya untuk keperluan rumah tangga. Termasuk jasa reparasi dan perawatan peralatan rumah dan kebun, seperti mesin pemotong rumput, edger, penyapu salju dan daun, trimmer dan sebagainya."
+    },
+    "95230": {
+      "uuid": "89c2c490-3757-430e-a6ec-c9f9f3b0e930",
+      "uraian": "Kelompok ini mencakup usaha khusus jasa reparasi alas kaki dan barang dari kulit, seperti sepatu, sepatu boot,  sandal, koper, tas dan sebagainya. Termasuk jasa pemasangan tumit sepatu."
+    },
+    "95240": {
+      "uuid": "25d32f53-750b-40ba-90c2-06e99ada86c9",
+      "uraian": "Kelompok ini mencakup usaha khusus jasa reparasi furnitur dan perlengkapan rumah, seperti pelapisan, penyelesaian, reparasi dan pemulihan kembali perabot dan perlengkapan rumah termasuk perabot kantor dan perakitan perabotan self-standing."
+    },
+    "95299": {
+      "uuid": "381ae022-c131-4bde-9b5e-30baddfa5325",
+      "uraian": "Kelompok ini mencakup usaha khusus jasa reparasi barang rumah tangga dan pribadi lainnya tidak diklasifikasikan di tempat lain, seperti sepeda, perhiasan, jam tangan, jam dinding dan bagian-bagiannya, alat olahraga (kecuali senapan untuk olahraga), buku, alat musik, mainan dan barang sejenisnya, barang pribadi dan rumah tangga lainnya. Termasuk setem piano dan duplikasi kunci."
+    }
+  },
+  "failed": {
+    "33153": "timeout render /id/kbli/konversi/33153",
+    "61929": "timeout render /id/kbli/konversi/61929",
+    "63121": "timeout render /id/kbli/konversi/63121",
+    "71205": "timeout render /id/kbli/konversi/71205",
+    "74113": "timeout render /id/kbli/konversi/74113"
+  },
+  "debug": {}
+}

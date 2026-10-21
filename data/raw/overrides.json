@@ -1,0 +1,33 @@
+{
+  "_keterangan": "Koreksi manual. 'uraian' = teks resmi (prioritas di atas OSS). 'kata_kunci' = istilah awam tambahan untuk pencarian.",
+  "01468": {
+    "uraian": "Kelompok ini mencakup kegiatan pembibitan ayam ras pedaging dan ayam ras petelur yang menghasilkan telur tetas, ayam bibit (kuri), dan hasil lainnya."
+  },
+  "01194": {
+    "uraian": "Kelompok ini mencakup kegiatan pertanian pembenihan tanaman bunga untuk menghasilkan benih berupa biji. Produksi semua jenis bahan tanam vegetatif termasuk batang stek, tunas, dan bibit untuk perbanyakan tanaman bunga masuk di subgolongan 0130."
+  },
+  "74909": {
+    "uraian": "Kelompok ini mencakup berbagai macam layanan yang umumnya diberikan kepada klien komersil. Kelompok ini meliputi kegiatan-kegiatan yang memerlukan keterampilan profesional, ilmiah dan keterampilan teknis diperlukan, tetapi tidak mencakup bisnis rutin yang berkelanjutan yang umumnya berdurasi pendek.\nKelompok ini mencakup\n- aktivitas broker bisnis yaitu mengatur pembelian dan penjualan bisnis skala kecil dan menengah, termasuk praktik profesional, tetapi tidak termasuk broker real estat;\n- penilaian selain untuk real estat dan asuransi (untuk barang antik, perhiasan, dll.);\n- audit tagihan dan informasi tarif angkutan;\n- konsultasi keamanan;\n- konsultasi pada bidang keselamatan kerja di tempat kerja;\n- layanan konsultansi agronomi;\n- layanan konsultansi lingkungan;\n- layanan penasihat penghematan daya;\n- konsultansi teknis lainnya;\n- layanan konsultan selain konsultan arsitektur, teknik dan manajemen;\n- aktivitas ekonom konstruksi.\nKelompok ini juga mencakup\n- aktivitas yang dilakukan oleh agen dan agensi atas nama individu biasanya melibatkan keterlibatan dalam film atau gambar bergerak, pembuatan teater atau atraksi hiburan atau olahraga lainnya dan penempatan buku, permainan, karya seni, fotografi dll, dengan penerbit, produser dll.;\n- layanan ekonom untuk proyek konstruksi yaitu konstruksi ekonom;\n- aktivitas dewan pengawas;\n- aktivitas penyusunan dan pengembangan standar teknis untuk acuan pengujian dan analisis teknis.\nKelompok ini tidak mencakup\n- aktivitas agen komisi, broker komoditas dan pedagang grosir ainnya yang melakukan perdagangan atas nama orang lain tanpa memiliki barang yang diperantarai tersebut pada waktu apa pun, lihat subgolongan 4610;\n- aktivitas layanan perantara (untuk perdagang eceran), lihat subgolongan 4790;\n- aktivitas brokter real estat, lihat subgolongan 6821;\n- aktivitas pembukuan, lihat subgolongan 6920;\n- aktivitas manajemen dan konsultasi, lihat subgolongan 7020;\n- aktivitas konsultan arsitektur dan teknik, lihat subgolongan 7110;\n- aktivitas surveyor kuantitas, lihat subgolongan 7110;\n- desain industri dan pemesinan, lihat subgolongan 7110 dan golongan 741;\n- pengujian dan pengontrolan hewan yang berhubungan dengan produksi makanan, lihat subgolongan 7120;\n- aktivitas layanan promosi penjualan, lihat subgolongan 7330;\n- tampilan iklan dan desain iklan lainnya, lihat subgolongan 7310;\n- pembuatan stan dan struktur serta tempat pajangan lainnya, lihat subgolongan 7310;\n- aktivitas konvensi dan pameran dagang, lihat subgolongan 8230;\n- aktivitas juru lelang independen, lihat subgolongan 8299;\n- administrasi program loyalitas, lihat subgolongan 8299;\n- bimbingan kredit konsumen dan utang, lihat subgolongan 8299;\n- aktivitas teknik lingkungan, lihat subgolongan 7110;\n- aktivitas broker paten, lihat subgolongan 7491;\n- manajemen hak kekayaan industri, seperti paten, lisensi, merek dagang, dan waralaba, lihat subgolongan 7491;\n- manajemen hak kekayaan intelektual seperti hak cipta dan pendapatannya, lihat subgolongan 7491;\n- konsultansi dokter medis, lihat subgolongan 8620."
+  },
+  "01622": {
+    "uraian": "Kelompok ini mencakup usaha yang bergerak dalam bidang perkawinan ternak atas dasar balas jasa (fee) atau kontrak, seperti inseminasi buatan, transfer embrio, pemeriksaan kebuntingan, pelayanan kuda biak."
+  },
+  "96200": {
+    "uraian": "Kelompok ini mencakup usaha jasa pelayanan pencucian dan dry cleaning, penatu, pencelupan dan tisi barang-barang tekstil jadi (termasuk berbahan kulit bulu binatang) dan tekstil lainnya untuk keperluan rumah tangga maupun industri perorangan, dilakukan dengan peralatan mekanik, baik yang dioperasikan dengan tangan atau dengan koin, seperti taplak meja, seprei, karpet, termasuk juga pakaian dan barang tekstil jadi. Termasuk kegiatan pencucian (shampooing) carpet, dan rug serta curtain gorden; jasa pengumpulan penatu dan pengirimannya; jasa penyediaan linen, seragam kerja dan barang lain yang terkait oleh penatu; reparasi dan alterasi atau pengubahan kecil dari pakaian atau tekstil lain yang terkait dengan pencucian.",
+    "kata_kunci": [
+      "laundry",
+      "laundry kiloan",
+      "laundry satuan",
+      "londri",
+      "binatu",
+      "cuci baju",
+      "cuci setrika",
+      "dry cleaning",
+      "cuci karpet",
+      "cuci sepatu"
+    ]
+  },
+  "47999": {
+    "uraian": "Kelompok ini mencakup usaha perdagangan eceran barang lainnya yang selain kelompok 47991 s.d. 47998 yang dilakukan dengan cara menjajakannya berkeliling dan tidak mempunyai tempat yang tetap atau menjualnya mendatangi rumah ke rumah masyarakat/langganan. Termasuk kegiatan perdagangan melalui sistem penjualan langsung atau pendistribusian khusus seperti single level marketing dan multi level marketing, serta agen komisi perdagangan eceran."
+  }
+}

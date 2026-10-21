@@ -1,0 +1,6 @@
+{
+  "model": "denaya/indoSBERT-large",
+  "dim": 256,
+  "n_chunks": 3929,
+  "n_docs": 1402
+}

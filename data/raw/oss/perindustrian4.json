@@ -1,0 +1,402 @@
+{
+  "result": {
+    "24201": {
+      "uuid": "cb64c5f0-ed4c-4853-90a8-1a8d0f0e53cf",
+      "uraian": "Kelompok ini mencakup usaha pemurnian, peleburan, pemaduan dan penuangan logam mulia dalam bentuk dasar (ingot, billet, slab, batang, pellet, block, sheet, pig, paduan dan bubuk) seperti ingot perak, ingot emas, pellet platina dan sebagainya."
+    },
+    "24202": {
+      "uuid": "a452b346-9a7e-43d7-804e-758353bb2626",
+      "uraian": "Kelompok ini mencakup usaha pemurnian, peleburan, pemaduan dan penuangan logam-logam bukan besi dalam bentuk dasar (ingot, billet, slab, batang, pellet, block, sheet, pig, paduan dan bubuk) seperti ingot kuningan, ingot aluminium, ingot seng, ingot tembaga, ingot timah, billet kuningan, billet aluminium, slab kuningan, slab aluminium, batang (rod) kuningan, batang aluminium, pellet kuningan, pellet aluminium, paduan perunggu, paduan nikel dan logam anti gesekan (bearing metal) serta logam tanah jarang dan paduan logam tanah jarang (15 unsur lantanida ditambah unsur scandium dan yttrium)."
+    },
+    "24203": {
+      "uuid": "e68ce2c9-115f-48cb-88cd-3cdfe85a9a9a",
+      "uraian": "Kelompok ini mencakup usaha penggilingan logam bukan besi, baik penggilingan panas maupun penggilingan dingin, seperti pelat tembaga, pelat aluminium, sheet (lembaran) tembaga, sheet aluminium, strip (jalur) perak, strip seng, strip aluminium, sheet tembaga, sheet magnesium, tin foil dan strip platina. Termasuk pembuatan kawat logam."
+    },
+    "24204": {
+      "uuid": "446e26ee-d08a-4382-a8e4-86adeda6c758",
+      "uraian": "Kelompok ini mencakup usaha ekstrusi logam bukan besi, seperti ekstrusi tembaga dan paduannya, ekstrusi aluminium dan ekstrusi tungsten."
+    },
+    "24205": {
+      "uuid": "b0e802ca-965e-44d5-bc54-88404c6fc316",
+      "uraian": "Kelompok ini mencakup usaha pembuatan tabung, pipa dan sambungan pipa dari logam bukan besi dan baja."
+    },
+    "24310": {
+      "uuid": "d2ca21a4-d27b-4bfa-be0b-6aa0298626ff",
+      "uraian": "Kelompok ini mencakup usaha peleburan, pencampuran dan pengecoran atau penuangan logam besi dan baja yang menghasilkan produk-produk tuangan dalam bentuk kasar, seperti besi tuang, baja tuang dan baja tuang paduan.  Termasuk pengecoran produk besi setengah jadi, pengecoran besi tuang abu-abu, pengecoran besi tuang grafit spheroid, pengecoran besi tuang yang dapat ditempa, pengecoran produk baja setengah jadi, pengecoran baja tuang, industri tabung, pipa dan profile berongga serta fittings tabung dan pipa yang terbuat dari besi tuang, industri tabung dan pipa baja tanpa kelim dari proses pengecoran sentrifugal dan industri tabung dan pipa fittings yang terbuat dari baja tuang."
+    },
+    "24320": {
+      "uuid": "9176384d-1889-41d5-abcb-227f629ce4c9",
+      "uraian": "Kelompok ini mencakup usaha peleburan, pemaduan dan pengecoran atau penuangan logam-logam bukan besi dalam bentuk dasar, seperti tuangan tembaga dan paduannya, tuangan aluminium dan paduannya, tuangan nikel dan paduannya.  Termasuk Pengecoran produk setengah jadi dari aluminium, magnesium, titanium, seng dan lain-lain, pengecoran logam ringan tuang, pengecoran logam berat tuang, pengecoran logam mulia tuang dan die-casting logam bukan besi."
+    },
+    "25111": {
+      "uuid": "9a4841ff-f793-4b5b-9b95-2ef91d193911",
+      "uraian": "Kelompok ini mencakup usaha pembuatan bahan bangunan siap pasang dari logam bukan aluminium, seperti pagar besi, teralis, pintu/jendela, lubang  angin,  tangga dan produk-produk konstruksi ringan lainnya. Industri pembuatan bahan konstruksi berat siap pasang dari baja, seperti untuk jembatan, menara listrik tegangan tinggi, pintu air dan sejenisnya dimasukkan dalam kelompok 25113, sedangkan industri pembuatan ketel uap, bejana tekan dan sejenisnya dimasukkan dalam kelompok 25120."
+    },
+    "25112": {
+      "uuid": "9dea206a-58d5-4982-9195-e4903ac66695",
+      "uraian": "Kelompok ini mencakup usaha pembuatan bahan bangunan siap pasang dari logam aluminium, seperti kusen jendela, kusen pintu, teralis aluminium, atap aluminium (awning), rolling door, krei aluminium dan produk-produk konstruksi ringan lainnya."
+    },
+    "25113": {
+      "uuid": "6f5d3183-bd5c-495a-81eb-d425d04303d6",
+      "uraian": "Kelompok ini mencakup usaha pembuatan bahan bangunan konstruksi berat siap pasang dari baja untuk jembatan, bangunan hanggar, menara listrik tegangan tinggi, pintu air dan sejenisnya."
+    },
+    "25119": {
+      "uuid": "05a05667-faad-4ed8-a8d2-e51b40cedc70",
+      "uraian": "Kelompok ini mencakup usaha pembuatan barang-barang dari logam siap pasang untuk konstruksi yang belum tercakup dalam kelompok 25111 s.d. 25113."
+    },
+    "25120": {
+      "uuid": "f5c17871-2e2f-49ac-9e92-a8e990941dd9",
+      "uraian": "Kelompok ini mencakup usaha pembuatan ketel uap untuk proses pengolahan (industri boiler), ketel untuk keperluan pembangkit tenaga (utility boiler), bejana tekan (presure vessel), scrubber dan sejenisnya. Termasuk pula usaha pembuatan tangki-tangki lainnya yang bertekanan seperti autoclave, tabung gas bertekanan (tabung gas LPG), tangki-tangki silo, alat penukar panas (heat exchanger) dan berbagai jenis alat penghasil uap gas lainnya. Termasuk  tandon, tangki dan wadah dari logam yang secara umum dibuat untuk perlengkapan/tempat penyimpanan atau untuk keperluan industri dan ketel pemanas dan radiator."
+    },
+    "25130": {
+      "uuid": "277e6b13-841f-434e-92f4-fac33097779e",
+      "uraian": "Kelompok ini mencakup usaha pembuatan generator uap, termasuk komponen dan perlengkapannya, seperti steam accumulatator, economizer dan sejenisnya. Termasuk industri mesin uap lainnya, mesin tambahan yang digunakan dengan generator uap (kondenser, economizer, superheater, steam collectors dan accumulators), suku cadang ketel kapal laut atau ketel tenaga, reaktor nuklir beserta komponen dan perlengkapannya kecuali pemisah isotop."
+    },
+    "25200": {
+      "uuid": "6a123ed5-45fb-434b-b52a-0cfecd24d51d",
+      "uraian": "Kelompok ini mencakup pembuatan senjata berat (meriam, mobile guns, peluncur roket, tabung torpedo, senjata mesin berat), pembuatan senjata ringan/kecil (revolver, senapan, senapan mesin ringan) baik untuk militer atau polisi, pembuatan senjata gas dan amunisinya, senapan angin atau pistol dan amunisi perang. Termasuk pembuatan senjata api untuk berburu, olahraga atau perlindungan dan amunisinya, alat peledak seperti bom, granat, torpedo, ranjau, roket dan sebagainya."
+    },
+    "25910": {
+      "uuid": "6b1ee91e-19e0-438d-97e8-8d947590f842",
+      "uraian": "Kelompok ini mencakup pembuatan berbagai barang jadi dan setengah jadi dari logam baik baja, besi maupun logam bukan besi menjadi logam dalam bentuk logam tempaan, pres-an dan atau logam gulungan."
+    },
+    "25920": {
+      "uuid": "cf0500fb-5ef7-4e1a-a611-32f3bb88bfae",
+      "uraian": "Kelompok ini mencakup kegiatan jasa industri untuk pelapisan, pemolesan, pewarnaan, pengukiran, pengerasan, pengkilapan, pengelasan, pemotongan dan berbagai pekerjaan khusus terhadap logam atau barang-barang dari logam. Kegiatannya termasuk industri penyepuhan logam, anodizing dan lain-lain; industri pengolahan panas logam; deburring, penyemprotan pasir (sandbalasting), perobohan (tumbling) dan pembersihan logam; industri pewarnaan dan pengukiran atau pemahatan logam; industri pelapisan bukan metalik logam, seperti pelapisan dengan plastik, email atau porselain, lak/pernis dan lain-lain; industri pengerasan dan pengkilapan logam; industri pengeboran, pengolahan, penggilingan, pengikisan, pembentukan, pemutaran, broaching, leveling, penggergajian, penghalusan, penajaman,  penyemiran, pengelasan, penyambungan dan lain-lain bagian pekerjaan logam; dan industri pemotongan atau penulisan pada logam dengan sinar laser."
+    },
+    "25931": {
+      "uuid": "79851058-9fd0-4ef0-b6b5-519e1f734ac9",
+      "uraian": "Kelompok ini mencakup usaha pembuatan alat-alat/perkakas tangan pertanian yang tidak digerakkan dengan tenaga dari logam, seperti cangkul, sekop, bajak, garu, sabit, ani-ani, alat perontok padi, alat pemipil jagung dan hand sprayer."
+    },
+    "25932": {
+      "uuid": "48ce9370-fc21-4918-92ce-127aac748113",
+      "uraian": "Kelompok ini mencakup usaha pembuatan alat-alat pertukangan dari logam, seperti water pass, siku-siku, beliung, pahat, obeng, martil, serut/ketam, gergaji dan mata gergaji, mata gergaji bundar dan mata gergaji rantai, mata bor dan sejenisnya, kampak dan pisau pemotong kaca. Termasuk industri pisau dan mata pisau untuk mesin atau untuk peralatan mekanik, perkakas tangan (tang, obeng dan lain-lain), perkakas tangan pertanian yang tidak digerakkan dengan tenaga, alat yang dapat dipertukarkan untuk perkakas tangan, baik yang tidak digerakkan dengan tenaga atau mesin perkakas (seperti bor, pemukul, pisau penggiling dan lain-lain), perkakas pengepres, perkakas pandai besi (seperti alat tempa, landasan tempa dan lain-lain), kotak cetakan dan cetakan (kecuali cetakan ingot) dan perkakas kelim."
+    },
+    "25933": {
+      "uuid": "6645da55-8293-4d5b-8a1f-75912c3c07e1",
+      "uraian": "Kelompok ini mencakup usaha pembuatan bermacam-macam pisau, parang/golok, pisau bergerigi, pisau cukur, silet, gunting, hair clipper, gunting rambut, gunting kuku, sendok, garpu dan peralatan sejenisnya yang digunakan di dapur dan meja makan.  Industri alat-alat dapur (misalnya periuk, panci, dandang dan kompor) dimasukkan dalam kelompok 25992."
+    },
+    "25934": {
+      "uuid": "113e4707-52ee-454c-913d-101a885d91e3",
+      "uraian": "Kelompok ini mencakup usaha pembuatan peralatan lainnya dari logam yang belum termasuk dalam kelompok 25931 s.d. 25933, misalnya kunci, gembok, kunci pintu, engsel, gerendel dan peralatan sejenisnya untuk bangunan, furnitur dan lainnya. Termasuk industri pisau pendek atau belati, pedang, bayonet, dan lain-lain."
+    },
+    "25940": {
+      "uuid": "b01c3a1f-b5c7-41f4-9502-9dd0433a3aef",
+      "uraian": "Kelompok ini mencakup usaha pembuatan wadah dari logam/kaleng, seperti kaleng makanan/minuman, kaleng cat/bahan kimia lainnya, tong, drum, ember, kotak, jerrycan dan sejenisnya. Termasuk industri metallic closure."
+    },
+    "25951": {
+      "uuid": "25a766e1-ac14-4afd-b5da-1dd65f54fe31",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam barang dari kawat logam, termasuk tali kawat logam, seperti kawat berduri, pagar kawat, kasa kawat, jaring kawat dan alat pemanggang (grill). Industri kabel listrik dan komunikasi dimasukkan dalam kelompok 27310 dan 27320. Termasuk industri pegas (selain pegas jam), seperti leaf springs, helical springs, torsion bar springs dan lembaran untuk pegas dan industri rantai (kecuali power transmission chain)."
+    },
+    "25952": {
+      "uuid": "c64789d1-498e-4e51-8bd8-99b0cbb457be",
+      "uraian": "Kelompok ini mencakup usaha pembuatan paku, mur, baut dan barang berulir sejenis yang terbuat dari besi, baja, tembaga, alumunium dan logam lainnya."
+    },
+    "25991": {
+      "uuid": "9368f41d-4425-4d6b-8550-9d91469c6c57",
+      "uraian": "Kelompok ini mencakup pembuatan alat-alat kantor dari logam, seperti brankas, filling cabinet, tidak termasuk furnitur dari logam. Termasuk industri peti besi, lemari besi, pintu lapis baja dan lain-lain."
+    },
+    "25992": {
+      "uuid": "58f05244-20cf-4f24-be5e-0e55bbd5a441",
+      "uraian": "Kelompok ini mencakup usaha pembuatan alat-alat dapur baik dari alumunium maupun dari logam bukan alumunium seperti peralatan makan, piring, piring ceper, mangkok, teko, panci, wajan ketel, periuk, dandang, ketel masak, rantang, baskom, baki, pot dan sejenisnya.  Termasuk  peralatan bukan listrik lainnya yang digunakan di meja atau di dapur, peralatan kecil dapur lainnya yang digerakkan dengan tangan dan aksesorinya dan alat penggosok dari logam."
+    },
+    "25993": {
+      "uuid": "aa8b01d7-c074-4218-ade8-9187715735ed",
+      "uraian": "Kelompok ini mencakup usaha pembuatan alat-alat untuk keperluan rumah tangga lainnya baik dari alumunium maupun dari logam bukan alumunium seperti jemuran, tangga, lemari dapur dan lain-lain.  Termasuk industri bak mandi, bak cuci (piring), wastafel dan peralatan sejenis."
+    },
+    "25994": {
+      "uuid": "400ecc43-2c1b-45c2-8407-d58c0191e457",
+      "uraian": "Kelompok ini mencakup usaha pembuatan baja profil dengan cara las, seperti profil H (H-Beam), profil I (I-Beam) dan sejenisnya."
+    },
+    "25995": {
+      "uuid": "a95d860e-87c5-4934-ba41-5a84b95414ea",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam lampu yang bahan utamanya dari logam, seperti lampu mercu suar, lampu tekan dan lampu gantung termasuk komponennya."
+    },
+    "25999": {
+      "uuid": "6f6a37a4-e3b9-49e2-8b33-8a73e900e18a",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam barang dari logam, yang belum tercakup di subgolongan manapun seperti jepitan rambut, peniti, stapless, paper clips, jarum, jarum jahit, jarum bordir dan jarum sejenisnya, kepala gesper, rantai logam, bel, bingkai (lis) gambar, papan nama logam dan berbagai barang logam yang kecil. Termasuk baling-baling, rantai kapal, jangkar kapal, lonceng, perlengkapan tetap (fixture) rel kereta api yang terpasang, kabel logam yang dijalin pembalut sejenisnya, kabel logam yang tidak terisolasi atau kabel logam terisolasi yang tidak dapat digunakan sebagai konduktor listrik, paku dan paku payung, paku sumbat/keling, cincing penutup dan barang-barang tidak berulir sejenis, screw machine product, kantong timah, magnet logam permanen, botol atau kendi logam hampa udara, tanda logam (bukan listrik), lencana logam dan lencana militer logam dan pengeriting rambut dan sisir logam, kerangka dan pegangan payung."
+    },
+    "26110": {
+      "uuid": "84dd8978-65cf-4983-809c-062ef67cdc85",
+      "uraian": "Kelompok ini mencakup pembuatan tabung gambar televisi, tabung kamera televisi, tabung dan katup amplifier dan receiver. Termasuk tabung elektron, konektor elektronik, kabel printer, kabel monitor, kabel USB, konektor dan lain-lain, katup elektronik dan tabung lampu."
+    },
+    "26120": {
+      "uuid": "85f5a299-95df-4430-9f01-2fb3d8e907dd",
+      "uraian": "Kelompok ini mencakup pembuatan semi konduktor dan komponen elektronik lainnya, seperti transistor dan peralatan semi konduktor yang sejenis, integrated circuits, printed circuits, induktor, resistor, kapasitor dan berbagai komponen elektronik lainnya. Termasuk industri mikroprosesor, induktor jenis komponen elektronik (misalnya cok, gulungan, trafo), kristal elektronik dan crystal assemblies, solenoida, switch dan transducer untuk aplikasi elektronik, interface cards (misalnya sound (kartu suara), video (kartu video), kontroler, kartu jaringan, modem), komponen layar (plasma, polimer, LCD), light emitting diodes (LED), IC atau integrated circuit (analog, digital, maupun hibrid) dan dioda. Termasuk juga pembuatan sel fotovoltaik dan chip smartcard."
+    },
+    "26210": {
+      "uuid": "671f40ed-1db5-47ca-ad1d-9b0c9f1166a7",
+      "uraian": "Kelompok ini mencakup usaha pembuatan berbagai macam mesin komputasi, seperti komputer desktop, komputer laptop, komputer mainframe, komputer ukuran tangan (misal PDA), komputer tablet, dan server komputer. Termasuk kegiatan perakitan komputer."
+    },
+    "26220": {
+      "uuid": "62d84482-4d64-4c05-97ee-8b8362b70c75",
+      "uraian": "Kelompok ini mencakup pembuatan perlengkapan komputer, seperti disk drive magnetik, flash drive dan alat penyimpanan lainnya, disk drive optik (misalnya CD-RW, CD-ROM, DVD-ROM, DVD-RW), printer, monitor, keyboard, mouse, joystick, dan aksesori trackball, terminal komputer, scanner, bar code scanner, smart card reader, proyektor komputer (video beamer), alat perlengkapan media imersif (virtual reality/augmented reality/mixed reality) seperti virtual reality helmets, augmented reality glasses, dan alat pendukung lainnya. Termasuk industri terminal komputer, seperti anjungan tunai mandiri (ATM), terminal point of sale (POS), yang tidak dioperasikan secara mekanis dan peralatan kantor multifungsi, seperti kombinasi faks-scanner-fotokopi."
+    },
+    "26310": {
+      "uuid": "2f8d40fd-a49d-4eaf-8a7a-d752c8c0dce6",
+      "uraian": "Kelompok ini mencakup pembuatan alat-alat transmisi komunikasi, seperti peralatan pesawat telepon dan faksimili, termasuk di dalamnya mesin penjawab dan lainnya."
+    },
+    "26320": {
+      "uuid": "4425d022-d147-4271-8d3f-74e956941e70",
+      "uraian": "Kelompok ini mencakup pembuatan alat-alat transmisi komunikasi, seperti peralatan pager, telepon selular, tablet seluler, dan peralatan komunikasi bergerak (mobile) dan lainnya."
+    },
+    "26391": {
+      "uuid": "bd9212a6-009a-434a-8a8b-950537ecfe56",
+      "uraian": "Kelompok ini mencakup pembuatan smart card, seperti perencanaan design chip (design house), perencanaan tata letak sirkuit smart card, industri chip foundry, industri chip module packaging, pembuatan firmware dan software yang berkaitan langsung dengan smart card, chip packaging. Contoh smart card seperti simcard, Near Field Communications (NFC), dengan teknologi 2G, 3G, 4G, 5G dst, kartu perbankan, kartu akses, micro dan macro payment, kartu kredit dan semua kartu yang menggunakan pengaman data dan atau komunikasi."
+    },
+    "26399": {
+      "uuid": "9be0b33d-f31b-4160-86b6-81eda6f27acb",
+      "uraian": "Kelompok ini mencakup pembuatan alat-alat transmisi komunikasi lainnya, peralatan Private Branch Exchange (PBX), peralatan komunikasi data (bridge, router, gateway), pesawat telepon tanpa kabel, peralatan TV kabel, antena transmisi (pemancar) dan penerima, peralatan studio televisi dan radio dan peralatan siaran termasuk kamera televisi, modem peralatan carrier, sistem alarm kebakaran dan pencurian, transmitor radio dan televisi, peralatan infrared (misalnya remote kontrol), EDC (Electronic Data Capture) dan lainnya. Termasuk juga pembuatan set top box untuk terestrial dan satelit."
+    },
+    "26410": {
+      "uuid": "e859fc7a-da59-4c30-90cd-eece55c56210",
+      "uraian": "Kelompok ini mencakup pembuatan televisi, seperti pesawat penerima televisi dan kombinasi, monitor televisi dan pertunjukan. Termasuk perakitan televisi."
+    },
+    "26420": {
+      "uuid": "4d3fd291-a69b-4d10-af64-f0910c010012",
+      "uraian": "Kelompok ini mencakup pembuatan peralatan audio dan video elektronik untuk hiburan di rumah (home entertainment) untuk rumah tangga dan kendaraan bermotor, seperti pesawat penerima radio dan kombinasi, tape recorder dan video recorder. Termasuk industri peralatan stereo, pemutar CD dan VCD/DVD, kamera video jenis rumah tangga dan jukebox."
+    },
+    "26490": {
+      "uuid": "853eed71-34a9-4bd8-afc9-6f23b4ca30a9",
+      "uraian": "Kelompok ini mencakup pembuatan peralatan elektronika untuk rumah tangga, seperti mikrofon, loudspeaker, headphone, amplifier dan sebagainya.  Termasuk industri mesin karaoke, headphone (radio, stereo, komputer) dan konsol video game dan lainnya."
+    },
+    "26511": {
+      "uuid": "087731bc-0b17-4ccf-a17d-69f98b3e18b2",
+      "uraian": "Kelompok ini mencakup usaha pembuatan alat-alat pengukur, pemeriksa dan pengujian manual, baik yang ada maupun yang tidak ada hubungannya dengan penyelidikan ilmu pengetahuan dan bersifat mekanis, seperti pesawat ukur, thermometer, barometer, kompas, timbangan presisi, pesawat terapi mekanis, meteran air ledeng dan gas, serta instrumen ukur tanah. Termasuk juga perlengkapan dari peralatan-peralatan tersebut. Kelompok ini mencakup juga usaha pembuatan alat-alat pengukur, pemeriksa dan pengujian manual yang berhubungan dengan kesehatan, seperti timbangan badan dan timbangan bayi."
+    },
+    "26512": {
+      "uuid": "cd390765-bcd3-4154-9df9-0ec2fbd39af8",
+      "uraian": "Kelompok ini mencakup usaha pembuatan alat-alat pengukur, pemeriksa dan pengujian elektrik/listrik, baik yang ada maupun yang tidak ada hubungannya dengan penyelidikan ilmu pengetahuan, seperti meteran arus listrik. Termasuk juga perlengkapan dari peralatan-peralatan tersebut."
+    },
+    "26513": {
+      "uuid": "7d10a94e-0686-49d7-8ea9-8e26a29870fc",
+      "uraian": "Kelompok ini mencakup usaha pembuatan alat-alat instrumen analitis, skala, neraca dan inkubator laboratorium serta alat laboratorium lainnya untuk pengukuran dan pengujian, alat-alat pengukur dan pemeriksa elektronik, baik yang ada maupun yang tidak ada hubungannya dengan penyelidikan ilmu pengetahuan, seperti  pesawat pengatur elektronik otomatis, speedometer, argometer, elektronik sinar katoda, radar, radio kontrol dan instrumen navigasi, meteorologi, geofisika, hidrologi dan spectofotometer serta alat ukur digital (termasuk thermometer dan barometer). Termasuk juga perlengkapan dari peralatan-peralatan tersebut. Kelompok ini mencakup juga usaha pembuatan mikroskop proton dan elektron (kecuali mikroskop optis) dan timbangan digital."
+    },
+    "26514": {
+      "uuid": "b9b76ef4-48da-4af1-a38b-bd29fa8ddfc9",
+      "uraian": "Kelompok ini mencakup pembuatan berbagai peralatan pengukuran dan kontrol dari barang-barang yang sedang diproses, baik alat ukur panas, tekanan, kekentalan, maupun alat ukur sifat-sifat barang."
+    },
+    "26520": {
+      "uuid": "f440a4a2-3d6a-4524-ac8a-2752d2d64b58",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam jam seperti arloji tangan, arloji saku, arloji kalung, jam dinding, jam beker dan lonceng. Termasuk juga usaha pembuatan bagian-bagian dari jam/arloji, seperti movement part, dial plate/hand, pegas, batu baterai, lempeng jam, jarum dan bagian lainnya, case (badan) jam dan arloji, termasuk case (badan) dari logam mulia, alarm for watch, instrumen panel clocks, crono meter, stop watch, pencatat waktu parking, pencatat waktu datang dan pulang pegawai (pencatat waktu absen), time/date stamps dan pencatat waktu proses, time locks (pengunci waktu) dan lain-lain."
+    },
+    "26602": {
+      "uuid": "7ea4720e-f199-4609-aac1-99cd4b9b97df",
+      "uraian": "Kelompok ini mencakup pembuatan peralatan dan perlengkapan elektromedikal dan elektroterapi, seperti peralatan electrocardiograph, peralatan test mata (termasuk reflektor, endoscope dan lain-lain), ozone therapy, oxygen therapy, penangkap citra (scanner) untuk diagnosa medis, peralatan MRI (magnetic resonce imaging), peralatan ultrasound medis, peralatan endoskopi elektromedikal, peralatan laser medis, peralatan alat bantu dengar dan peralatan alat pacu jantung."
+    },
+    "26710": {
+      "uuid": "d719a2df-9397-4b1a-bebb-4dd3c16aa49d",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam kamera fotografi, seperti kamera foto biasa, kamera langsung jadi, kamera untuk micro film, kamera digital, kamera untuk still picture dan kamera untuk penelitian udara."
+    },
+    "26791": {
+      "uuid": "5d731506-23e8-43b4-9e66-75358ba30165",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam kamera cinematografi, proyektor, seperti kamera cinematografi, proyektor cinematografi, image proyektor, slide projector, overhead transparancy projector, aparat cahaya kilat fotografi, frame kamera, tempat film dan lensa kamera zoom. Termasuk alat pengukur cahaya untuk fotografi."
+    },
+    "26792": {
+      "uuid": "135660ad-7240-4337-9319-fee19fc5609f",
+      "uraian": "Kelompok ini mencakup usaha pembuatan teropong dan alat optik serta bagian-bagiannya untuk ilmu pengetahuan dan percetakan seperti teropong monoculer, teropong astronomi, elbow telescope, periscope, optik, spectroscope, spectograph, lensa berlapis diasah, lensa prisma.  Termasuk mikroskop optik, binokular dan teleskop, cermin optik, peralatan kaca pembesar optik, peralatan presisi (ketepatan) masinis optik, komparator optik, peralatan pembidik senjata optik, peralatan positioning optik, peralatan dan instrumen pengukuran dan pemeriksaan optik (misalnya peralatan pengontrol api/fire control equipment, pengukur jarak) dan peralatan laser. Kelompok ini juga mencakup industri pelapisan, penggosokan lensa dan mounting lensa (bukan opthalmik) dan lainnya."
+    },
+    "26800": {
+      "uuid": "8652b33a-44a6-4973-8b4b-89dfd173cfbd",
+      "uraian": "Kelompok ini mencakup usaha pembuatan media rekam magnetik dan optik untuk suara, gambar maupun data, yang bahan utamanya dari plastik, seperti pita audio dan video magnetik kosong, kaset audio dan video magnetik kosong, piringan hitam kosong, film yang belum peka terhadap cahaya, pita untuk merekam data dan disk/diskette kosong dan disk optik kosong dan media hard drive. Usaha pembuatan film yang peka terhadap cahaya dimasukkan dalam kelompok 20299. Usaha rekaman suara dengan media pita kaset, piringan hitam dimasukkan dalam kelompok 59201. Sedangkan rekaman gambar film dan pita video dimasukkan dalam subgolongan 5911 (Produksi gambar Bergerak, Video dan Program Televisi). Usaha rekaman data dengan pita, disk/diskette dan sejenisnya yang menggunakan jasa komputer dimasukkan dalam kelompok 62090."
+    },
+    "27111": {
+      "uuid": "c8b527ca-582b-4fd8-8f2a-a471be477a50",
+      "uraian": "Kelompok ini mencakup usaha pembuatan motor listrik dan komponen/bagiannya, seperti motor AC, motor DC, stator, rotor, brush dan commutator, kecuali mesin pembakaran dalam untuk menyalakan motor."
+    },
+    "27112": {
+      "uuid": "b14ddc1c-12d4-494e-aa61-41c8d08716dd",
+      "uraian": "Kelompok ini mencakup usaha pembuatan generator dan komponen/bagiannya seperti generator arus bolak-balik, generator arus searah, generator set, stator, rotor, commutator dan rotary converter. Termasuk generator tenaga (kecuali alternator pengisi baterai untuk mesin pembakaran dalam), perangkat generator motor (kecuali perangkat generator turbin) dan perangkat generator penggerak utama."
+    },
+    "27113": {
+      "uuid": "41d03489-96cb-4d42-9ea7-3cb681028a7c",
+      "uraian": "Kelompok ini mencakup usaha pembuatan transformator, pengubah arus, pengontrol tegangan dan komponen/bagiannya, seperti transformator distribusi, transformator tenaga, pengubah arus AC ke DC , pengontrol tegangan, radiator, ring bike lite dan commutator. Termasuk transformator distribusi listrik, transformator arc-welding, flourescent ballast atau lighting ballast, transformator sub stasiun untuk distribusi tenaga listrik dan pengatur transmisi dan distribusi voltase listrik."
+    },
+    "27120": {
+      "uuid": "d5153d1f-99e9-4046-b24e-de6cf11d65fa",
+      "uraian": "Kelompok ini mencakup usaha pembuatan panel listrik dan switch gear serta komponen/bagiannya, seperti control panel otomatis, ligthing distribution board, pemutus aliran listrik, pemutus arus dan control desk, control panel dan pengaliran sakelar tertutup. Termasuk sakelar pemutus aliran listrik, angker dinamo untuk untuk pabrik, surge suppressor/penindas sentakan listrik (untuk distribusi tingkat voltase), panel kontrol untuk distribusi tenaga listrik, relay listrik, pipa/saluran peralatan papan penghubung/switchboard aliran listrik, sekering listrik, peralatan pemindah tenaga (power switching), saklar tenaga listrik (kecuali tombol tekan, snap, solenoida, tumbler) dan KWH meter."
+    },
+    "27201": {
+      "uuid": "2ae890cb-d9de-4977-ae04-bc3130cf35fb",
+      "uraian": "Kelompok ini mencakup usaha pembuatan segala macam batu baterai, seperti sel dan baterai listrik primer, baterai alkali, dan baterai mercury. Termasuk baterai dan sel-sel utama, baik yang mengandung mangan dioksida, merkuri dioksida, perak oksida atau lainnya, baterai asam timah, baterai Ni-Cad, baterai Ni-Mh, baterai Lithium, baterai cell kering dan baterai cell basah. Termasuk penggunaan untuk baterai HP dan baterai laptop."
+    },
+    "27202": {
+      "uuid": "be708281-e534-4d20-bac0-ee346addec70",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam akumulator listrik, aki dan komponennya seperti aki dari 6V atau 12V dengan kekuatan 200 amper atau kurang, pelat aki, separator, wadah, penutup, pole dan jepitan aki (tipe gigi)."
+    },
+    "27203": {
+      "uuid": "36281f3c-5a9b-45de-a5b8-a422fc0e90cf",
+      "uraian": "Kelompok ini mencakup usaha pembuatan segala macam baterai untuk kendaraan bermotor listrik."
+    },
+    "27310": {
+      "uuid": "e569e226-6996-4ff7-988c-c4c9a692274f",
+      "uraian": "Kelompok ini mencakup usaha pembuatan kabel serat optik."
+    },
+    "27320": {
+      "uuid": "1f475b92-7a7f-40a2-aa9a-f1e0a0e4fdd3",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam kabel listrik dan kabel elektronik yang dibalut dengan isolator atau berpenyekat dari baja, tembaga atau aluminium, seperti kabel komunikasi atau telepon, kabel listrik jaringan tegangan rendah/menengah/ tinggi. Usaha pembuatan kawat/kabel logam tanpa dibalut dimasukkan dalam kelompok 24202."
+    },
+    "27330": {
+      "uuid": "2eb3ab56-5169-4c8f-9fea-9f01c2dbd50f",
+      "uraian": "Kelompok ini mencakup usaha pembuatan fitting, sakelar, stop kontak dan sebagainya, seperti batang penghantar, konduktor listrik (kecuali jenis switchgear), GFCI (ground fault circuit interrupter), lamp holder, penangkal petir dan koil, steker untuk untuk perangkat kawat listrik (misalnya penekan, tombol tekan, snap, tumbler switcher), outlet dan socket listrik (stop kontak), kotak untuk peralatan kawat listrik (seperti junction, outlet, switch box), kabel dan peralatan listrik, kutub transmisi dan line hardware dan plastik untuk peralatan kawat bukan pembawa arus termasuk kotak plastik junction, face plates dan sejenisnya dan peralatan pole line plastik."
+    },
+    "27401": {
+      "uuid": "c6bd4713-3e9f-43d4-9d69-804ffc8dbcbd",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam lampu pijar untuk penerangan, seperti bohlam tidak termasuk fitting dan perlengkapannya, penerangan fotografi (flash bulbs) dan penerangan untuk panggung/lampu sorot (spot light). Termasuk lampu ultra violet dan infra red, lampu senter, penerangan pada alat-alat kedokteran. Usaha pembuatan peralatan penerangan pada sepeda dan kendaraan bermotor dimasukkan pada kelompok 27403."
+    },
+    "27402": {
+      "uuid": "57ed16a0-8815-4f25-8e2b-77e3590f8b88",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam lampu tabung gas dan discharge, seperti lampu neon, lampu helium, lampu argon, lampu natrium dan lampu mercury. Termasuk lampu listrik serangga."
+    },
+    "27403": {
+      "uuid": "421d25cf-35df-4f8b-99d3-c038376e5143",
+      "uraian": "Kelompok ini mencakup pembuatan peralatan penerangan untuk alat transportasi motor, mobil, pesawat, kapal dan alat transportasi lainnya (lampu rem, lampu tanda berbelok, lampu interior dan sebagainya). Termasuk usaha pembuatan komponen dan perlengkapannya."
+    },
+    "27404": {
+      "uuid": "18d310a6-c140-4126-b620-4f2ef994ae40",
+      "uraian": "Kelompok ini mencakup usaha pembuatan lampu LED, baik berupa lampu LED terpisah maupun dirakit menjadi lampu untuk kebutuhan tertentu. Misalnya lampu LED lampu senter, kendaraan mauapu pencahayaan umum."
+    },
+    "27409": {
+      "uuid": "d4ddfcca-5e0c-4d6c-a450-53a978d05fc4",
+      "uraian": "Kelompok ini mencakup usaha pembuatan atau industri peralatan penerangan yang dipasang di langit-langit, tempat lilin (chandeliers), lampu meja, perangkat lampu hias pohon natal, batang perapian listrik, lentera (dengan bahan bakar karbit, listrik, gas, bensin, minyak tanah), peralatan lampu jalan (kecuali rambu-rambu lalu lintas) dan peralatan penerangan bukan listrik. Termasuk komponen lampu listrik seperti stater, filamen dan reflektor. Industri ballast tercakup di kelompok 27113."
+    },
+    "27510": {
+      "uuid": "680dad77-68b2-41a6-96d2-6840db12932d",
+      "uraian": "Kelompok ini mencakup pembuatan selimut listrik, penghisap debu (vacuum cleaners), pengkilat lantai (floor polishers), tempat sampah listrik, peralatan untuk mengolah dan mempersiapkan makanan (grinders, blenders, pembuka kaleng, juicers, dan sebagainya) dan peralatan listrik lainnya seperti sikat gigi listrik, alat-alat cukur listrik dan alat-alat perawatan tubuh listrik lainnya, pengasah pisau listrik dan sebagainya.  Termasuk kulkas (refrigerator), mesin pencuci piring, mesin pencuci dan pengering pakaian, unit pembuangan/tempat sampah dan kap ventilasi.  Pembuatan mesin cuci, mesin pengering dan sejenisnya dalam bentuk yang besar atau untuk kepentingan niaga dimasukkan dalam kelompok 28262. Pembuatan mesin jahit baik untuk keperluan rumah tangga maupun tidak dimasukkan dalam kelompok 28262."
+    },
+    "27520": {
+      "uuid": "e931d6c1-4038-478f-9a09-3c56a9d552c1",
+      "uraian": "Kelompok ini mencakup pembuatan kompor (misalnya oven, microwave oven, cookers, hot plates, toasters, pembuat kopi dan teh, frypans, roasters, penggorengan dan pemanggang listrik dan hoods dan sebagainya), alat pemanas dan alat masak dengan menggunakan arus listrik, kipas angin dan pemanas ruangan.  Termasuk  industri peralatan elektrotermal rumah tangga, seperti alat pemanas air listrik, selimut listrik, alat listrik untuk perawatan rambut (pengering, sisir, sikat, pengeriting), setrika listrik, alat resistor pemanas listrik dan lain-lain."
+    },
+    "27530": {
+      "uuid": "7425040f-400e-431d-9a54-9d32a6790213",
+      "uraian": "Kelompok ini mencakup pembuatan atau industri peralatan masak dan pemanas bukan listrik rumah tangga, seperti kompor masak, panggangan, pemanas air, peralatan masak lain, penghangat makanan, penghangat piring dan lain-lain dan pemanas ruangan bukan listrik, seperti tungku atau perapian."
+    },
+    "27900": {
+      "uuid": "aaeefe6f-cb60-43b0-acb8-5a4180688194",
+      "uraian": "Kelompok ini mencakup pembuatan dinamo lampu sepeda, dinamo magnetik, busi, alat-alat peringatan suara (sirine, klakson, alarm, bel, dan sebagainya), peralatan sinyal listrik seperti alat-alat pengatur lalu-lintas jalan raya, jalan kereta api, di pelabuhan laut dan udara dan sinyal untuk pejalan kaki, berbagai peralatan listrik dan elektronik yang tidak termasuk kelompok manapun, seperti charger (pengisi) baterai padat, alat pembuka dan penutup pintu listrik, mesin pembersih ultrasonik (kecuali untuk laboratorium, dokter gigi), tanning beds, peralatan solid state inverter, peralatan rektifikasi, fuel cells, penyuplai daya teregulasi dan tidak teregulasi, UPS (uninterruptible power supllies), supresor gelombang (kecuali untuk distribusi level voltase), kabel peralatan, kabel sambungan, perangkat kabel listrik lainnya yang berpenyekat dan berkonektor, karbon dan grafit elektroda, kontak dan produk karbon dan grafit listrik lainnya, akselerator partikel, kapasitor, resistor, kondenser listrik dan komponen sejenisnya, elektromagnet, papan skor listrik, reklame listrik, insulator (penyekat) listrik (kecuali penyekat kaca atau porselen), peralatan patri dan solder listrik, besi solder tangan dan pembuatan peralatan modul fotovoltaik (panel surya), rokok elektrik (vape). Termasuk usaha pembuatan komponen dan perlengkapannya."
+    },
+    "28111": {
+      "uuid": "9c04efdf-e2c7-4fb9-aff6-464053ae773b",
+      "uraian": "Kelompok ini mencakup usaha pembuatan motor penggerak yang bukan berupa motor bakar dalam, seperti mesin uap, turbin dan bagian-bagiannya, turbin uap dan turbin sejenis lainnya, turbin hidrolik, kincir air dan regulatornya, turbin angin dan turbin gas/udara, kecuali turbojet atau turbo baling-baling untuk pesawat terbang; perangkat turbin-ketel (boiler-turbine), perangkat generator-turbin dan kincir angin."
+    },
+    "28112": {
+      "uuid": "a8a97b03-3fa1-4845-8e00-9466b7f6a581",
+      "uraian": "Kelompok ini mencakup usaha pembuatan motor penggerak mula dengan bahan pembakaran dalam, baik berupa motor bakar cetus api maupun motor bakar nyala kompresi, seperti motor diesel, motor bensin, motor bakar dalam dengan bahan bakar gas/alkohol, dan sejenisnya. Termasuk Industri mesin piston pembakaran dalam (kecuali mesin kendaraan bermotor, pesawat terbang dan mesin penggerak putaran), seperti mesin kapal laut dan mesin kereta api. Usaha pembuatan motor pembakaran dalam untuk kendaraan bermotor roda empat atau lebih dimasukkan dalam kelompok 29101 dan 29102. Usaha pembuatan motor pembakaran dalam untuk kendaraan bermotor roda dua dan tiga dimasukkan dalam kelompok 30912, dan motor pembakaran dalam untuk pesawat terbang dimasukan dalam kelompok 30300."
+    },
+    "28113": {
+      "uuid": "25777448-5be3-41e1-b966-652750030f89",
+      "uraian": "Kelompok ini mencakup usaha pembuatan komponen/suku cadang, dari mesin-mesin penggerak mula (kelompok 28111 dan 28112), seperti engine block, piston, cincin piston, karburator cylinder head dan sejenisnya untuk semua jenis mesin pembakaran dalam, mesin diesel dan sebagainya dan inlet dan klep/katup pelepas gas dari mesin pembakaran dalam."
+    },
+    "28120": {
+      "uuid": "db5c9ae4-87e3-465c-9a47-7289bdda94a7",
+      "uraian": "Kelompok ini mencakup usaha pembuatan komponen hidrolik dan pneumatik, termasuk didalamnya pompa hidrolik, motor hidrolik, silinder hidrolik dan pneumatik, klep/katup hidrolik dan pneumatik, perkakas dan pipa karet hidrolik dan pneumatik; peralatan pengolahan udara yang digunakan dalam sistem pneumatik; sistem tenaga zat cair dan gas; dan peralatan transmisi hidrolik."
+    },
+    "28130": {
+      "uuid": "ba6c2af3-276e-4fa4-8b0f-9058a64e7d7f",
+      "uraian": "Kelompok ini mencakup usaha pembuatan kompresor udara dan gas, kompresor untuk refrigerator dan AC, kompresor untuk kendaraan bermotor, pompa laboratorium, pompa air, pompa udara, pompa vakum atau pompa udara, kompresor udara dan gas lainnya, pompa untuk zat cair baik terpasang alat pengukur ataupun tidak, pompa yang didesain untuk mesin pembakaran dalam, seperti pompa bahan bakar, oli, dan air untuk kendaraan bermotor dan sebagainya. Termasuk katup dan keran air dari logam, seperti klep/katup dan kran untuk keperluan industri, mencakup klep/katup regulasi dan kran pipa masuk; kran dan katup untuk kebersihan (sanitasi); kran dan katup untuk pemanasan; dan pompa tangan. Katup dari karet dimasukkan ke subgolongan  2219. Keran dari porselen dimasukkan ke subgolongan 23931."
+    },
+    "28140": {
+      "uuid": "73e380b5-af78-40e0-bad5-90c3d0975d90",
+      "uraian": "Kelompok ini mencakup usaha pembuatan bola dan bantalan poros (ball and roller bearings), termasuk bola, bantalan guling, ring dan bagian-bagian lain dari bearings. Termasuk pula pembuatan komponen dan suku cadang peralatan transmisi mekanik, antara lain cam shafts, poros engkol (crank shafts), engkol, kerangka bearing dan bearing poros sederhana, persneling, roda gigi, bantalan blok, kopling dan poros kopling, roda gendeng dan kerek/katrol, mata rantai bersambung, rantai transmisi tenaga (rantai keteng) dan sebagainya."
+    },
+    "28151": {
+      "uuid": "5979b28a-10fb-4a0b-beed-50f0213d9336",
+      "uraian": "Kelompok ini mencakup usaha pembuatan tungku dan alat sejenis yang tidak menggunakan arus listrik, untuk memanaskan, memanggang dan melelehkan bijih besi, logam dan sejenisnya, tungku pembakar, peralatan pemanas rumah tangga bukan listrik permanen untuk daerah pegunungan, seperti peralatan pemanas solar, pemanas uap, pemanas minyak dan peralatan pemanas dan tungku sejenisnya. Termasuk pembuatan mechanical stokers, mechanical grates, mechanical ash discharges dan sejenisnya."
+    },
+    "28152": {
+      "uuid": "d79a463b-aed6-4b4f-a7ac-7b61ca1f3454",
+      "uraian": "Kelompok ini mencakup usaha pembuatan tungku, oven dan alat pemanas lainnya yang penggunaannya memerlukan arus listrik, misalnya peralatan induksi listrik untuk industri dan laboratorium termasuk incinerator, tungku pembakar, peralatan pemanas ruangan listrik permanen untuk daerah pegunungan, pemanas kolam renang listrik dan tungku listrik untuk rumah tangga.  Alat pengatur panas untuk makanan, minuman dan tembakau termasuk pula non-electric oven untuk pembuat roti dimasukkan dalam kelompok 28250, sedangkan alat pengatur panas untuk pulp, kertas dan bahan industri lainnya dimasukkan dalam kelompok 28292 dan 28299."
+    },
+    "28160": {
+      "uuid": "676d37bb-1a7c-4b84-bb3a-1dc478ce5340",
+      "uraian": "Kelompok ini mencakup pembuatan mesin pengangkat dan pemindah (pemuat dan pembongkar) barang dan orang yang digerakkan dengan tangan atau tenaga yang digunakan di pabrik, gudang, pelabuhan, terminal, stasiun kereta api, bandar udara dan sebagainya, seperti katrol kerek (alat kerek), winches, putaran/paksi jangkar dan dongkrak; derrick, crane, mobile lifting frame, staddle carriers dan lain-lain; truk kerja, baik yang memakai alat angkut dan alat angkat maupun tidak, baik yang tidak dilengkapi dengan pendorong maupun yang tidak, dan truk kerja yang digunakan dalam pabrik (termasuk alat angkut dengan tangan dan gerobak tangan); manipulator mekanik dan robot yang khusus dibuat untuk mengangkut, mengangkat, memuat dan membongkar.  Termasuk alat pembawa barang, teleferics (kereta gantung) dan lain-lain, lift, eskalator dan pemindah pejalan kaki (lantai bergerak) dan bagian-bagian, conveyor, komponen dan peralatan khusus alat angkut dan alat angkat. Alat pengangkat dan pemindah seperti traktor yang digunakan di sektor pertanian dimasukkan dalam kelompok 28210. Alat pengangkut dan pemindah yang dibuat khusus untuk penggunaan di bawah tanah dimasukkan dalam kelompok 28240."
+    },
+    "28171": {
+      "uuid": "dc7fb5b4-3c8f-44ac-96f9-50a636b7e4f9",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam mesin kantor dan akuntansi secara manual, seperti mesin hitung manual, mesin tik manual, mesin stensil manual, mesin peruncing pensil, sempoa, alat timbang pos (postage meters), mesin pengelola surat (pengisi amplop, penyegel dan mesin pemberi alamat, membuka, mengurutkan, menscan), mesin pemeriksa, mesin stenografi, alat penjilid (penjilid plastik atau pita), mesin penghitung koin dan pembungkus koin, stapler dan pembersih stapler, mesin pemungutan suara, mesin isolasi (tape dispencer) dan mesin pembuat lubang kertas dan sejenisnya. Termasuk pembuatan komponen dan suku cadangnya. Jasa pemeliharaan dan perbaikannya tercakup dalam kelompok 33121."
+    },
+    "28172": {
+      "uuid": "edc7085f-91f2-44c0-92b7-c1d0e642986b",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam mesin kantor dan akuntansi elektrik, seperti mesin hitung elektrik, mesin tik elektrik, mesin stensil elektrik dan sejenisnya, kalkulator, alat timbang pos (postage meters), mesin pengelola surat (pengisi amplop, penyegel dan mesin pemberi alamat, membuka, mengurutkan, menscan), mesin pemeriksa, mesin stenografi, alat penjilid (contoh penjilid plastik atau pita), mesin pemeriksa tulisan, mesin penghitung koin dan pembungkus koin, peruncing pensil, stapler dan pembersih stapler, mesin pemungutan suara, mesin pembuat lubang kertas.  Termasuk usaha pembuatan komponen dan suku cadangnya. Jasa pemeliharaan dan perbaikannya tercakup dalam kelompok 33121."
+    },
+    "28173": {
+      "uuid": "c7f1bbd2-1d97-4922-ac98-90fe1aee3092",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam mesin kantor dan akuntansi elektronik, seperti mesin hitung elektronik, cash register dan sejenisnya. Usaha pembuatan sub assembly dan komponen elektronik mesin komputasi dimasukkan dalam kelompok 26120."
+    },
+    "28174": {
+      "uuid": "fa6ff8d3-268f-4a12-a91b-0c68c00aec44",
+      "uraian": "Kelompok ini mencakup usaha pembuatan mesin fotocopi, mesin electronic sheet, mesin lightdruk dengan sistem optik atau contact type, termasuk perlengkapan dari mesin-mesin tersebut."
+    },
+    "28179": {
+      "uuid": "4f0694c9-bc64-4b69-9566-b340fc271caf",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam mesin kantor lainnya, seperti toner cartridge,  papan tulis, seperti white board dan marker board dan mesin pendikte."
+    },
+    "28180": {
+      "uuid": "40c8b505-b241-426e-a3f1-5dec69dff886",
+      "uraian": "Kelompok ini mencakup usaha pembuatan perkakas tangan (pertukangan) yang digerakkan tenaga, baik dengan motor listrik atau motor bukan listrik atau yang digerakkan dengan tekanan udara, seperti gergaji sirkular dan reciprocating, bor dan bor palu, penabur pasir yang digerakkan dengan tangan, alat pemaku (pneumatik), penyangga (buffers), router, penggerinda, stepler, alat paku tembak, alat ketam/serut, gunting dan catut, kunci inggris dan alat pemaku (powder actuated)."
+    },
+    "28191": {
+      "uuid": "50facab6-bac3-4b1c-a24d-51da16c0eb13",
+      "uraian": "Kelompok ini mencakup pembuatan mesin pembungkus, pembotolan, dan pengalengan yang berfungsi sebagai pengisi, penutup, penyegel, pembungkus dan pemberian label di botol, kaleng dan kotak. Termasuk mesin untuk pengering dan pembersih botol minuman, mesin untuk mencampur udara ke dalam minuman dan sejenisnya."
+    },
+    "28192": {
+      "uuid": "9b1799e1-2e42-44aa-9a38-00e0f0cda5a2",
+      "uraian": "Kelompok ini mencakup pembuatan mesin-mesin timbangan (bukan untuk laboratorium), seperti timbangan untuk keperluan toko, kantor dan rumah tangga, alat penimbang yang menyatu dengan kalkulator, timbangan stasiun, scale for continuous weighing, jembatan timbang dan timbangan lainnya,  baik bergerak atau tidak. Termasuk pembuatan komponen dan perlengkapannya."
+    },
+    "28193": {
+      "uuid": "19887491-253e-4f88-8bad-955ad1a88623",
+      "uraian": "Kelompok ini mencakup pembuatan mesin pendingin dan pembeku (cold storage) untuk tujuan komersial dan perakitan komponen utamanya, seperti lemari pamer (display cases), mesin-mesin penjual (dispense cases), mesin AC (air conditioning) termasuk untuk kendaraan bermotor, kipas angin dan exhaust hood untuk keperluan industri dan laboratorium termasuk pembuatan komponen dan perlengkapannya, dan mesin pendingin produk biologis (vaksin dan darah)."
+    },
+    "28199": {
+      "uuid": "bbb32021-dc94-413f-9212-006e0e623960",
+      "uraian": "Kelompok ini mencakup pembuatan mesin umum lainnya, seperti fire sprinklers, mesin penyaring dan pembersih cairan dan gas, unit penyulingan cairan, peralatan untuk proyeksi, penyebaran atau penyemprotan cairan atau bubuk, seperti pistol semprot, pemadam api, mesin penyemprot pasir, mesin pembersih dengan uap air dan lain-lain, mesin penyulingan atau rektifikasi untuk kilang minyak, industry kimia, industry minuman dan lain-lain, mesin penukar panas (heat exchanger), mesin untuk  mencairkan udara atau gas, generator gas, mesin penggulung lainnya dan silindernya (kecuali untuk logam dan kaca) termasuk calendering machine (mesin pres), mesin sentrifugal (kecuali mesin pemisah krim dan pengering pakaian), mesin paking dan tali untuk isolasi dan sejenisnya yang terbuat dari kombinasi bahan atau lapisan bahan yang sama, mesin penjual barang otomatis, kipas ventilasi loteng (kipas gable/dinding, ventilasi atap dan lain-lain), meteran pita dan perkakas tangan sejenis, alat presisi masinis (bukan optik) dan peralatan patri dan solder bukan listrik.  Termasuk pembuatan komponen dan peralatannya."
+    },
+    "28210": {
+      "uuid": "881f876b-f75d-4435-acbf-07e43cb00c32",
+      "uraian": "Kelompok ini mencakup usaha pembuatan mesin-mesin untuk penyiapan dan pengolahan lahan pertanian dan kehutanan misalnya traktor dan mesin bajak; mesin-mesin penanam, pemupuk, pemeliharaan tanaman dan pemanenan hasil-hasil (misalnya mesin penabur benih, mesin penugal, mesin penabur pupuk, mesin pemanen, mesin penyemprot, mesin pemotong rumput dan mesin penuai); serta mesin-mesin untuk pengolahan awal hasil pertanian (misalnya mesin perontok, mesin pengupas, mesin penyosoh dan mesin penggilingan gabah), trailer (kereta gandeng) atau semi trailer bongkar muat secara otomatis untuk pertanian, mesin pembersih dan pemilih atau penyortir telur, buah-buahan dan hasil perkebunan, mesin pemerah susu, mesin penghangat unggas, mesin beternak lebah, peralatan untuk penyiapan makanan ternak dan mesin lainnya untuk keperluan tanaman pangan, peternakan, perkebunan dan kehutanan. Termasuk mesin pembuatan komponen dan perlengkapan/implement mesin-mesin pertanian."
+    },
+    "28221": {
+      "uuid": "88782b97-1d6b-42a5-8a3e-8c19a850fedb",
+      "uraian": "Kelompok ini mencakup pembuatan mesin-mesin/peralatan untuk pengolahan dan pengerjaan logam, seperti mesin perkakas (misalnya mesin bubut, mesin freis, mesin gerinda, mesin gergaji, mesin press, mesin gunting), serta perlengkapan dan komponennya (seperti cutting tools, mould and dies, jig and fixture)."
+    },
+    "28222": {
+      "uuid": "0813340a-cd4f-4c53-add3-ecc0d78235e7",
+      "uraian": "Kelompok ini mencakup pembuatan mesin-mesin/peralatan untuk pengolahan dan pengerjaan kayu, bambu, rotan, gabus dan sejenisnya, seperti berbagai mesin/peralatan, baik yang sederhana maupun modern, yang digunakan untuk pabrik sawmill, plywood, pabrik pengolahan rotan dan sejenisnya. Termasuk pula usaha pembuatan komponen dan perlengkapannya."
+    },
+    "28223": {
+      "uuid": "d64de55e-4e4a-4f54-a02e-2e4a5158c30f",
+      "uraian": "Kelompok ini mencakup pembuatan mesin-mesin/peralatan untuk pengolahan dan pengerjaan bahan selain logam dan kayu, seperti mesin/peralatan untuk pengolahan karet yang diperkeras (hardened rubber), plastik tebal (hard plastic), kaca, tulang dan lainnya."
+    },
+    "28224": {
+      "uuid": "f5a1dfa3-886a-48d4-95cf-263de9dcd945",
+      "uraian": "Kelompok ini mencakup pembuatan mesin/peralatan untuk pengelasan dengan gas atau arus listrik, seperti mesin las listrik AC maupun DC. Termasuk pula pembuatan mesin sejenis yang menggunakan laser, photon beam, gelombang ultrasonic, electron beam dan magnetic pulse."
+    },
+    "28230": {
+      "uuid": "152c96ab-c3f8-406d-ba6b-d13eded386bf",
+      "uraian": "Kelompok ini mencakup pembuatan mesin dan perlengkapannya untuk pengerjaan logam panas, seperti mesin pengubah (converter), cetakan baja (ingot moulds), pencedok dan penuang  dan mesin peleburan, mesin penggilingan penggulung logam dan penggulung untuk penggilingan sejenisnya. Termasuk pula pembuatan mesin canai logam baik panas maupun dingin."
+    },
+    "28240": {
+      "uuid": "3702c644-f01a-495e-bae5-b5fa26da86e4",
+      "uraian": "Kelompok ini mencakup pembuatan mesin-mesin peralatan untuk kegiatan pertambangan, penggalian, dan konstruksi, seperti alat pengangkat dan alat pengangkut (misalnya conveyor), mesin untuk menyaring, mensortir, memisahkan, mencuci, menghancurkan bahan-bahan mineral, mesin pengeboran, pemotongan dan mesin terowongan dan sinking (baik untuk penggunaan di bawah tanah atau tidak), traktor yang digunakan dalam kegiatan pertambangan dan konstruksi, mesin pemindah tanah, seperti bulldozer, angle dozer, graders, scrapers, leveler, sekop, sekop pemuatan dan perlengkapannya, dan berbagai mesin untuk kegiatan konstruksi, dan mesin pencampur beton dan mortar, mesin pile-driver dan pile ekstraktor, penyebar mortar dan aspal, mesin penghalus permukaan beton dan lain-lain, traktor tracklaying dan traktor yang digunakan dalam konstruksi atau pertambangan, pisau bulldozer dan angle dozer dan truk dumping off-road. Termasuk pembuatan bagian/komponen dan perlengkapannya. Pembuatan traktor untuk pertanian dimasukkan dalam kelompok 28210."
+    },
+    "28250": {
+      "uuid": "828fa54e-1bb7-494f-92fb-b5f53f070cf8",
+      "uraian": "Kelompok ini mencakup pembuatan mesin-mesin untuk pengolahan berbagai makanan, minuman dan tembakau, seperti mesin pengolah makanan dan susu, mesin pengering pertanian, mesin pemisah krim, mesin pengolahan susu (misalnya homogenizers), mesin pengubah susu (misalnya pembuat keju, dan mesin pencetak keju) dan mesin pembuat keju (misalnya homogenizers, pencetakan, pengepresan), mesin untuk industri penggilingan padi atau biji-bjian, seperti mesin untuk membersihkan, memilih atau memilah benih padi atau biji-bijian dan sayuran kacang-kacangan yang dikeringkan (mesin penampi, lajur penyaring, pemisah, mesin penyikat biji-bijian dan lain-lain); dan mesin untuk memproduksi tepung dan bahan makanan dan lain-lain (mesin penggilingan biji-bijian, penyaring, pengayak tepung, pengisi, blender, pembersih kulit  padi, penggilingan padi, pemecah kacang kapri dan lainnya), mesin pembuat minuman anggur dan juice buah, mesin pembuat roti, mie dan spaghetti dan sejenis seperti oven roti, mixer, pembuat adonan, cetakan, pemotong, mesin pembuat roti dan lain-lain, mesin pembuat rokok dan berbagai mesin pengolahan makanan yang lain. Termasuk mesin untuk industri roti atau pembuat macaroni, mesin dan peralatan untuk pengolahan berbagai makanan, seperti mesin untuk membuat gula-gula, kokoa atau coklat, mesin untuk industri gula, mesin untuk pembuatan bir, mesin untuk pengolahan daging dan unggas, mesin untuk pengolahan buah-buahan, kacang-kacangan dan sayuran, mesin untuk pengolahan ikan, kerang-kerangan dan hasil laut lainnya; mesin untuk penyulingan dan pemurnian; dan mesin lainnya untuk industri dan pengolahan makanan dan minuman; mesin pengambilan dan pengolahan minyak dan lemah hewan dan tumbuhan; mesin untuk pengolahan tembakau dan untuk pembuatan rokok dan cerutu atau untuk tembakau pipa atau tembakau kunyah atau snuff; mesin pengolahan makanan di hotel dan restoran."
+    },
+    "28261": {
+      "uuid": "a92148fc-d3f8-4660-a81f-27f8afab4eae",
+      "uraian": "Kelompok ini mencakup pembuatan kabinet mesin jahit, baik dari kayu, plywood, maupun dari logam."
+    },
+    "28262": {
+      "uuid": "0ca59d79-ed13-4ee1-b117-a191df8d3e1a",
+      "uraian": "Kelompok ini mencakup pembuatan mesin jahit dan kepala mesin jahit, baik untuk keperluan rumah tangga maupun untuk untuk keperluan niaga, termasuk pembuatan mesin obras, mesin bordir, mesin oversum dan mesin-mesin untuk penatu dan dry cleaning (mesin cuci, mesin pengering, mesin penyeterika dan lain-lain). Pembuatan mesin cuci, mesin pengering dan sejenisnya untuk keperluan rumah tangga dimasukkan dalam kelompok 27510."
+    },
+    "28263": {
+      "uuid": "6f8ed2d9-c319-4305-ab09-476ab1ae7794",
+      "uraian": "Kelompok ini mencakup usaha pembuatan mesin-mesin tekstil, seperti mesin persiapan pengolahan serat, mesin pintal, mesin persiapan pembuatan kain, mesin tenun, mesin rajut, mesin pemeriksa kesalahan kain, mesin-mesin penyelesaian (finishing), mesin konveksi dan sejenisnya."
+    }
+  },
+  "failed": {},
+  "debug": {}
+}

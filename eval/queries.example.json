@@ -1,0 +1,12 @@
+[
+  {"query": "usaha depot air minum isi ulang", "expected": ["11052"]},
+  {"query": "pabrik air mineral kemasan botol", "expected": ["11051"]},
+  {"query": "jasa jahit baju sesuai pesanan", "expected": ["14120"]},
+  {"query": "bikin sepatu sepak bola", "expected": ["15202"]},
+  {"query": "pembatikan tulis dan cap", "expected": ["13134"]},
+  {"query": "budidaya ayam petelur", "expected": ["01462"]},
+  {"query": "bengkel servis motor", "expected": ["45407"]},
+  {"query": "percetakan undangan dan brosur", "expected": ["18111"]},
+  {"query": "produksi film animasi", "expected": ["59112"]},
+  {"query": "pabrik pupuk urea", "expected": ["20122"]}
+]

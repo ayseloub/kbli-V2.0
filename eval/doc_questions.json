@@ -1,0 +1,21 @@
+{
+  "_catatan": "Pertanyaan 'relevan' sebaiknya memang dijawab oleh dokumen yang sudah kamu aktifkan. Edit sesuai dokumenmu.",
+  "relevan": [
+    "apa syarat perizinan untuk usaha risiko rendah?",
+    "usaha risiko menengah rendah butuh izin apa saja?",
+    "apa itu sertifikat standar?",
+    "apa sanksi kalau pelaku usaha tidak memenuhi kewajiban?",
+    "apa yang dimaksud dengan NIB?",
+    "tingkat risiko usaha ada apa saja?",
+    "perizinan berusaha berbasis risiko itu apa?",
+    "kalau risiko tinggi izinnya apa?"
+  ],
+  "tidak_relevan": [
+    "berapa biaya sewa ruko di jakarta?",
+    "syarat beasiswa kuliah ke luar negeri",
+    "cara mengurus SIM yang hilang",
+    "aturan main sepak bola",
+    "prosedur pembuatan paspor",
+    "denda telat bayar kartu kredit"
+  ]
+}

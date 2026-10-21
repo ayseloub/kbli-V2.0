@@ -1,0 +1,23 @@
+# rahasia
+.env
+.env.*
+!.env.example
+
+# Python / tooling
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# data yang dibuat saat aplikasi jalan (tetap di server, tidak di Git)
+data/uploads/
+data/kbli_versions/
+backups/
+eval/results/
+dump.rdb
+*.zip
+
+# embedding KBLI (data/processed/*.npy, ±5,5 MB) SENGAJA ikut di-commit
+# supaya server tidak perlu menghitung ulang dengan IndoSBERT.
+
+tools/ambil_uraian.js

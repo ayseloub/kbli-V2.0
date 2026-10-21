@@ -1,0 +1,70 @@
+# Test -> deploy otomatis ke VPS setiap push ke main (atau jalankan manual dari tab Actions).
+#
+# Secrets yang perlu diisi di GitHub: Settings → Secrets and variables → Actions
+#   VPS_HOST     : IP VPS, mis. 103.176.79.204
+#   VPS_USER     : user SSH di VPS, mis. bkpmvps
+#   VPS_SSH_KEY  : private key khusus deploy (lihat deploy/DEPLOY.md bagian GitHub)
+name: deploy
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-production
+  cancel-in-progress: false
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - name: Backend tests
+        run: |
+          pip install -r requirements.txt
+          python -m pytest -q
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+      - name: Frontend typecheck
+        working-directory: web
+        run: |
+          npm ci --no-audit --no-fund
+          npx tsc --noEmit
+
+  deploy:
+    needs: test
+    runs-on: ubuntu-latest
+    environment: production
+    steps:
+      - name: Siapkan SSH
+        run: |
+          install -m 700 -d ~/.ssh
+          echo "${{ secrets.VPS_SSH_KEY }}" > ~/.ssh/id_deploy
+          chmod 600 ~/.ssh/id_deploy
+          ssh-keyscan -H "${{ secrets.VPS_HOST }}" >> ~/.ssh/known_hosts
+
+      - name: Pull & rebuild di VPS
+        run: |
+          ssh -i ~/.ssh/id_deploy "${{ secrets.VPS_USER }}@${{ secrets.VPS_HOST }}" \
+            'cd ~/kbli-v2 && ./deploy/update.sh'
+
+      - name: Cek kesehatan
+        run: |
+          for i in $(seq 1 30); do
+            if ssh -i ~/.ssh/id_deploy "${{ secrets.VPS_USER }}@${{ secrets.VPS_HOST }}" \
+                 'docker compose -f ~/kbli-v2/docker-compose.prod.yml exec -T api python -c "import urllib.request;urllib.request.urlopen(\"http://localhost:8000/health\",timeout=5)"' ; then
+              echo "API sehat"; exit 0
+            fi
+            echo "menunggu API... ($i)"; sleep 10
+          done
+          echo "API tidak sehat setelah 5 menit"; exit 1

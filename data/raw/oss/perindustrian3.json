@@ -1,0 +1,406 @@
+{
+  "result": {
+    "20113": {
+      "uuid": "b1227f79-6895-4ed9-9397-601b6d1b3130",
+      "uraian": "Kelompok ini mencakup usaha industri kimia dasar yang menghasilkan bahan anorganik pigment, seperti meni merah, chrome yellow, zinc yellow, barium sulphate, pigmen serbuk aluminium, oker dan pigment dengan dasar titanium."
+    },
+    "20114": {
+      "uuid": "8bb4760a-5f63-4580-b99c-2e6b6d1285e3",
+      "uraian": "Kelompok ini mencakup usaha industri kimia dasar anorganik yang belum tercakup dalam golongan industri kimia dasar anorganik di atas, seperti fosfor dengan turunannya, belerang dengan turunannya, nitrogen dengan turunannya, dan industri kimia dasar yang menghasilkan senyawa halogen dengan turunannya, logam kecuali logam alkali, senyawa oksida kecuali pigmen. Termasuk industri bahan baku untuk bahan peledak."
+    },
+    "20115": {
+      "uuid": "6fb1f22c-c065-47dc-81b9-f8fc5574fca8",
+      "uraian": "Kelompok ini mencakup usaha industri kimia organik yang menghasilkan bahan kimia dari hasil pertanian termasuk kayu, getah (gum), minyak nabati industri (IVO) dengan produk antara lain: asam alufamat, asam asetat, asam citrat, asam benzoat, fatty acid, fatty alcohol, glycerine, furfural, sarbitol, dan bahan kimia organik lainnya dari hasil pertanian. Kelompok ini juga mencakup pembuatan biofuel, arang kayu, arang batok kelapa dengan produk: biofuel cair (biodiesel dan bioethanol anhidrat), biohidrokarbon (minyak diesel nabati, minyak bensin nabati, minyak avtur/jet fuel nabati) dan bahan kimia resin/damar buatan berbasis bahan terbarukan (biobenzene, biotoluene dan bioxylene dan biopolymer - bioplastik dari bahan terbarukan)."
+    },
+    "20116": {
+      "uuid": "e6923499-eac3-44a4-95f9-8dbf4267dbe3",
+      "uraian": "Kelompok ini mencakup usaha industri kimia dasar yang menghasilkan bahan kimia organik, zat warna dan pigment dengan hasil antara siklisnya, seperti hasil antara phenol dan turunannya, zat warna tekstil dan zat warna untuk makanan dan obat-obatan."
+    },
+    "20117": {
+      "uuid": "91edd90f-f254-40e0-a397-402d4f0cd729",
+      "uraian": "Kelompok ini mencakup usaha industri kimia dasar organik yang menghasilkan bahan kimia, yang bahan bakunya berasal dari minyak bumi dan gas bumi maupun batu bara, seperti ethylene, propilene, benzena, toluena, caprolactam termasuk pengolahan coaltar."
+    },
+    "20118": {
+      "uuid": "d2a73767-63f4-4c84-9758-e8c531e60fc1",
+      "uraian": "Kelompok ini mencakup usaha industri kimia dasar organik yang menghasilkan bahan kimia khusus, seperti bahan kimia khusus untuk minyak dan gas bumi, pengolahan air, karet, kertas, konstruksi, otomotif, bahan tambahan makanan (food additive), tekstil, kulit, elektronik, katalis, minyak rem (brake fluid), serta bahan kimia khusus lainnya."
+    },
+    "20119": {
+      "uuid": "12e6ee2f-2a62-4e28-baaf-df18df09ef40",
+      "uraian": "Kelompok ini mencakup usaha industri Kimia Dasar Organik yang belum tercakup dalam golongan Industri Kimia Dasar Organik, seperti plasticizer, bahan untuk bahan baku pestisida, zat aktif permukaan, bahan pengawet."
+    },
+    "20121": {
+      "uuid": "8d078dc5-6f26-49ca-a4d2-d22976fc9caa",
+      "uraian": "Kelompok ini mencakup usaha pembuatan pupuk hara makro primer jenis pupuk alam seperti pupuk fosfat alam (pupuk alam anorganik)."
+    },
+    "20122": {
+      "uuid": "200c81e8-664b-4d1b-b095-0201d18c9141",
+      "uraian": "Kelompok ini mencakup usaha pembuatan pupuk hara makro primer jenis pupuk buatan tunggal seperti urea, ZA, TSP, DSP dan Kalsium Sulfat. Termasuk juga pembuatan gas CO2, asam sulfat, amoniak, asam fosfat, asam nitrat dan lain-lain yang berkaitan dengan pembuatan pupuk dan tidak dapat dilaporkan secara terpisah."
+    },
+    "20123": {
+      "uuid": "e83a26ae-2de2-4b1d-ad5c-589feebf43ba",
+      "uraian": "Kelompok ini mencakup usaha pembuatan pupuk yang mengandung minimal 2 unsur hara makro primer melalui proses reaksi kimia seperti Mono Amonium Fosfat (pupuk buatan majemuk nitrogen fosfat), Kalium Amonium Khlorida (pupuk buatan majemuk nitrogen kalium), Kalium Metafosfat (pupuk buatan majemuk fosfat kalium) dan Amonium Kalium Fosfat (pupuk buatan majemuk nitrogen fosfat kalium). Total kandungan unsur hara makro primer minimal 10 persen sampai dengan 30 persen."
+    },
+    "20124": {
+      "uuid": "51fe98dd-281c-4946-b53e-c41e84735e88",
+      "uraian": "Kelompok ini mencakup usaha pembuatan pupuk yang mengandung minimal 2 unsur hara makro primer melalui pencampuran pupuk secara fisik tanpa merubah sifat kimia dan sifat pupuk aslinya. Total kandungan unsur hara makro primer minimal 10 persen."
+    },
+    "20125": {
+      "uuid": "a14f28e5-1476-4595-aa2e-ef284332c6d7",
+      "uraian": "Kelompok ini mencakup usaha pembuatan pupuk yang mengandung unsur hara makro sekunder jenis Ca, Mg, dan S seperti Kiserit (Mg, S), Oksida Magnio (Mg)."
+    },
+    "20126": {
+      "uuid": "25d62cdc-dc48-4678-a82b-f23a0a2ccadf",
+      "uraian": "Kelompok ini mencakup usaha pembuatan pupuk yang mengandung unsur hara mikro seperti Seng, Besi, Tembaga, Mangan, Boron dan Molybdenum."
+    },
+    "20127": {
+      "uuid": "cd671c98-ac89-4d83-868c-80e20043df39",
+      "uraian": "Kelompok ini mencakup usaha pembuatan pupuk yang mengandung mikro organisme atau formula pupuk yang berasal dari hasil samping industri yang mempunyai kandungan hara mikro sebagai komponen utama serta mengandung total unsur hara makro primer dalam jumlah rendah sampai sedang (kurang dari 30 persen)."
+    },
+    "20128": {
+      "uuid": "a103bd4c-042f-48ec-8437-0f16f0c4dbc0",
+      "uraian": "Kelompok ini mencakup usaha pembuatan media tanam dengan tanah gemuk/gambut sebagai unsur pokok. Termasuk juga usaha pembuatan media tanam campuran dari tanah alami, pasir, tanah liat dan mineral."
+    },
+    "20129": {
+      "uuid": "805a4436-8d41-43e9-ab72-3b74da8a3161",
+      "uraian": "Kelompok ini mencakup usaha pembuatan pupuk yang belum termasuk dalam kelompok manapun."
+    },
+    "20131": {
+      "uuid": "a2737e1f-c731-4df4-a09b-66f331bb7438",
+      "uraian": "Kelompok ini mencakup usaha pembuatan damar buatan dan bahan baku plastik (bijih plastik murni), seperti alkid, poliester, aminos, poliamid, epoksid, silikon, poliuretan, polietilen (PE), polipropilen (PP), polistiren, polivinil klorid, selulosa asetat dan selulosa nitrat. Pengolahan lanjutan dari damar buatan dan bahan plastik yang dibeli untuk menghasilkan barang dari bahan baku tersebut, seperti barang plastik, film dan lembaran film yang belum peka terhadap sinar dimasukkan dalam kelompok 26800."
+    },
+    "20132": {
+      "uuid": "a5fe8814-0cd7-48ce-a4cc-ccefb75b8ff5",
+      "uraian": "Kelompok ini mencakup usaha pembuatan karet buatan, seperti styrene butadiene rubber (SBR), polychloroprene (neoprene), acrylonitrile butadine rubber (nitrile rubber), silicone rubber (polysiloxane) dan isoprene rubber."
+    },
+    "20211": {
+      "uuid": "80549cb9-017a-458b-a5da-fe85f277afa8",
+      "uraian": "Kelompok ini mencakup usaha pembuatan bahan baku untuk pestisida, seperti buthyl phenyl methyl carbamat (BPMC), methyl isopropyl carbamat (MIPC), diazinon, carbofuran, glyphosate, monocrotophos, arsentrioxyde dan copper sulphate."
+    },
+    "20212": {
+      "uuid": "d4ae8a76-1fed-4b0e-b904-80f8ef9afad4",
+      "uraian": "Kelompok ini mencakup usaha pengolahan bahan aktif menjadi pemberantas hama (pestisida) dalam bentuk siap dipakai seperti insektisida, fungisida, rodentisida, herbisida, nematisida, molusida dan akarisida. Termasuk juga pembuataan disinfektan untuk pertanian dan kegunaan lainnya."
+    },
+    "20213": {
+      "uuid": "b95620ec-8c61-4371-a6b8-e0d05286e7b2",
+      "uraian": "Kelompok ini mencakup usaha pengolahan bahan kimia menjadi zat pengatur tumbuh, seperti atonik, ethrel, cepha, dekamon, mixtalol, hidrasil dan sitozim."
+    },
+    "20214": {
+      "uuid": "74e2991e-fe4b-4117-a67a-760526b8435d",
+      "uraian": "Kelompok ini mencakup usaha pembuatan bahan amelioran (pembenah tanah) seperti kapur pertanian, kapur fosfat, dolomit, zeolit dan bahan amelioran yang mengandung bahan organik."
+    },
+    "20221": {
+      "uuid": "0ae3612c-33fc-4c2d-9ab0-f0e970d5072b",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam cat, seperti cat dasar, cat logam, cat kayu, cat tembok, cat kapal, cat epoksi dan email dan lacquer. Termasuk Industri pigmen dan bahan celup olahan, pewarna dan opacifier (pembuat tidak jelas), industri email pengkilap dan pelapis dan preparat sejenisnya, tinta cetak dan cat untuk melukis."
+    },
+    "20222": {
+      "uuid": "110a34a7-3165-4884-9878-0674052ee98e",
+      "uraian": "Kelompok ini mencakup usaha pembuatan berbagai macam pernis, seperti pelarut komposit organik dan tiner dan penghapus cat atau pernis. Termasuk Mastik."
+    },
+    "20223": {
+      "uuid": "9d4361c7-d6b5-4c24-abcd-67cc37aa1e19",
+      "uraian": "Kelompok ini mencakup usaha pembuatan lak. Termasuk industri dempul dan plamur atau senyawa dempul dan dempul non refraktori atau bahan penutup permukaan sejenis."
+    },
+    "20231": {
+      "uuid": "10bd65aa-45e2-4c6f-a44a-1f04d4ed5906",
+      "uraian": "Kelompok ini mencakup usaha pembuatan sabun (selain sabun yang tercakup dalam kelompok 20232) dalam berbagai bentuk, baik padat, bubuk, cream atau cair, industri pembuatan deterjen dan bahan pembersih rumah tangga lainnya, seperti pembersih lantai organik; kertas, gumpalan kapas, laken dan sebagainya yang dilapisi dengan sabun atau deterjen seperti tisue basah; gliserol mentah; pembersih permukaan, seperti bubuk pencuci baik padat maupun cair dan deterjen, preparat pencuci piring dan pelembut bahan pakaian; produk pembersih dan pengkilap, seperti pengharum dan deodorant ruangan, lilin buatan dan lilin olahan (wax), pengilap dan krim untuk barang dari kulit, pengilap dan krim untuk kayu, pengilap kaca dan logam, pasta dan bubuk gosok, termasuk kertas, gumpalan dan lain-lain yang dilapisi dengan pasta dan bubuk penggosok."
+    },
+    "20232": {
+      "uuid": "421cb5f9-6ec4-42e9-be27-7ef541973939",
+      "uraian": "Kelompok ini mencakup usaha pembuatan kosmetik untuk manusia, seperti tata rias muka, wangi-wangian atau parfum, produk perawatan rambut (shampo, obat pengeriting dan pelurus rambut, dan lain-lain), produk perawatan kuku atau menikur dan pedikur, produk perawatan kulit (krim atau lotion pencegah terbakar sinar matahari dan krim atau lotion agar kulit terlihat cokelat setelah berjemur), produk untuk kebersihan badan (sabun kosmetik, sabun mandi, sabun antiseptik, external intimate hygiene, deodorant, garam mandi dan lain-lain), produk untuk bercukur. Kosmetik dekoratif seperti tata rias muka, tata rias mata, wangi-wangian atau parfum, tata rias kuku dan tata rias rambut termasuk pewarna rambut. Termasuk pasta gigi dan produk untuk menjaga higienitas mulut, termasuk produk kosmetik pemutih gigi."
+    },
+    "20233": {
+      "uuid": "fc033f18-3fe2-46f8-bd39-971d487f1a2a",
+      "uraian": "Kelompok ini mencakup usaha pembuatan kosmetik untuk hewan, termasuk parfum, shampo, sabun, bedak, krim atau lotion, dan lainnya."
+    },
+    "20234": {
+      "uuid": "db29002c-06f7-45d5-a5e3-ffa5e6a9d6a3",
+      "uraian": "Kelompok ini mencakup usaha pembuatan produk perekat gigi."
+    },
+    "20291": {
+      "uuid": "53310c82-fc82-458e-b515-0c0122db96c4",
+      "uraian": "Kelompok ini mencakup usaha pembuatan perekat/lem untuk keperluan industri atau alat rumah tangga yang berasal dari tanaman, hewan atau plastik, seperti starch, perekat dari tulang, cellulose ester dan ether, phenol formaldehyde, urea formaldehyde, melamine formaldehyde dan perekat epoksi."
+    },
+    "20292": {
+      "uuid": "fa7e833e-e6da-4df1-b3a8-827860edd072",
+      "uraian": "Kelompok ini mencakup usaha pembuatan barang peledak, seperti mesiu, dinamit, detonator, kembang api, petasan, mercuri fulminat dan bahan pendorong roket."
+    },
+    "20293": {
+      "uuid": "e45baaa6-c0e0-4b54-b9f2-163413e8eee2",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam tinta, seperti tinta tulis dan tinta khusus."
+    },
+    "20294": {
+      "uuid": "e4bc5542-3dfd-4b24-81ec-f22516311182",
+      "uraian": "Kelompok ini mencakup usaha pembuatan minyak atsiri, seperti minyak jahe, minyak keningar, minyak ketumbar, minyak cengkeh, minyak kapol, minyak pala, minyak melati, minyak kenanga, minyak mawar, minyak akar wangi, minyak sereh, minyak nilam, minyak cendana, minyak kayu putih, minyak permen, minyak rempah-rempah, minyak jarak dan minyak dari rumput-rumputan/semak, daun dan kayu yang belum termasuk kelompok manapun."
+    },
+    "20295": {
+      "uuid": "2f6032b7-624d-4edb-bba4-63445388da6b",
+      "uraian": "Kelompok ini mencakup usaha pembuatan korek api dalam bentuk batangan (matches). Pembuatan batu korek api (flint) dimasukkan dalam kelompok 23990. Industri korek api dari logam (lighter) dimasukkan dalam kelompok 32909."
+    },
+    "20296": {
+      "uuid": "fa15d0bc-3955-4987-bbf8-e7333f471bcf",
+      "uraian": "Kelompok ini mencakup usaha pengolahan lebih lanjut dari minyak atsiri yang masuk pada KBLI 20294 menjadi aneka produk hilir minyak atsiri untuk bahan baku produksi bahan perasa (flavour) dan produksi bahan perisa/wewangian (fragrance), termasuk untuk  produksi aneka bahan kimia yang berbasis pengolahan hilir minyak atsiri. Termasuk didalamnya industri bioaditif bahanbakar minyak dari minyak atsiri. Contoh minyak atsiri rantai tengah/hilir yaitu turunan minyak cengkeh antara lain carryophyllene, eugenol, methyl eugenol, vaniline; turunan minyak sereh wangi antara lain citronellol, geraniol, citronellal, rodinol, dsb."
+    },
+    "20299": {
+      "uuid": "bac826eb-3e63-4036-ad9f-5e7c7a909982",
+      "uraian": "Kelompok ini mencakup usaha pembuatan bermacam-macam bahan-bahan dan barang-barang kimia yang belum diklasifikasikan dalam kelompok manapun seperti gelatin, bahan isolasi panas selain plastik dan karet, bahan semir/polish. Termasuk juga pembuatan film yang peka terhadap cahaya dan kertas fotografi."
+    },
+    "20301": {
+      "uuid": "ea605a41-89d7-4aab-981c-08278e32867b",
+      "uraian": "Kelompok ini mencakup usaha pembuatan serat, benang, atau strip filamen buatan dalam bentuk gulungan tow, seperti poliamida, poliester, polipropilena, akrilik, selulosa asetat dan sebagainya untuk diolah lebih lanjut dalam industri tekstil."
+    },
+    "20302": {
+      "uuid": "cbd9c8bd-ed73-4936-86fb-6213c28b2ee0",
+      "uraian": "Kelompok ini mencakup usaha pembuatan serat stapel buatan, seperti poliamida, poliester, rayon viskosa, akrilik, selulosa asetat dan sebagainya (kecuali serat gelas dan serat optik) untuk diolah lebih lanjut dalam industri tekstil. Serat stapel adalah serat buatan yang dipotong pendek-pendek."
+    },
+    "21011": {
+      "uuid": "02674a48-f382-47d1-bed4-a75b0c9653ec",
+      "uraian": "Kelompok ini mencakup usaha pembuatan dan pengolahan bahan obat, bahan pembantu dan bahan pengemas untuk manusia, yang berasal dari bahan kimia, bahan alam, hewan dan tumbuh-tumbuhan termasuk yang berasal dari hasil biologis, seperti bahan obat-obatan, seperti antisera dan fraksi darah lainnya, vaksin dan preparat homeopatik. Termasuk industri substansi aktif obat (antibiotik, vitamin, salisilik dan asam o-asetilsalsilik dan lain-lain) untuk bahan farmakologi dalam industri obat-obatan, pengolahan darah, industri gula murni kimia dan pengolahan kelenjar dan industri ekstraksi kelenjar dan lain-lain."
+    },
+    "21012": {
+      "uuid": "bb646b37-d029-4f26-8462-18dac303e5df",
+      "uraian": "Kelompok ini mencakup usaha pembuatan dan pengolahan obat-obatan, suplemen kesehatan/makanan, yang berbentuk jadi (sediaan) untuk manusia, misalnya dalam bentuk tablet, kapsul, salep, bubuk, larutan, larutan parenteral dan suspensi, obat kontrasepsi hormonal, industri produksi radiofarmaka, dan industri farmasi bioteknologi."
+    },
+    "21013": {
+      "uuid": "47fce88b-2bc9-498b-8eb1-a53ac9900bfb",
+      "uraian": "Kelompok ini mencakup usaha pembuatan, pengolahan dan pengemasan ulang obat-obatan yang berbentuk jadi (sediaan) untuk hewan, misalnya dalam bentuk serbuk, tablet, kapsul, salep, larutan, suspensi, aerosol dan lainnya. Termasuk industri produk benang bedah,  industri alat-alat diagnosa medis, industri produksi radioisotop untuk radiofarmaka, industri farmasi bioteknologi dan industri pembalut medis, perban dan sejenisnya yang dikhususkan untuk hewan."
+    },
+    "21014": {
+      "uuid": "fd439880-258e-4dc0-8891-5018a0c44f60",
+      "uraian": "Kelompok ini mencakup usaha pembuatan dan pengolahan bahan obat, bahan pembantu dan bahan pengemas untuk hewan, yang berasal dari bahan kimia, bahan alam, hewan dan tumbuh-tumbuhan termasuk yang berasal dari hasil biologis, seperti bahan obat-obatan, seperti antisera dan fraksi darah lainnya, vaksin dan preparat homeopatik. Termasuk industri substansi aktif obat untuk bahan farmakologi dalam industri obat-obatan, seperti antibiotik, vitamin, salisilik dan asam o-asetilsalsilik dan lain-lain, pengolahan darah, industri gula murni kimia dan pengolahan kelenjar dan industri ekstraksi kelenjar dan lain-lain."
+    },
+    "21015": {
+      "uuid": "2d13cabb-9cdb-4ec5-b4c1-f1daeab64d2a",
+      "uraian": "Kelompok ini mencakup usaha pembuatan dan pengolahan alat kesehatan terkait diagnosa medis dan produk lainnya dalam subgolongan 2011. Kelompok ini mencakup industri produk kontrasepsi untuk penggunaan eksternal, industri alat-alat diagnosa medis seperti uji kehamilan, dan industri pembalut medis, perban dan sejenisnya dan kapas kosmetik."
+    },
+    "21021": {
+      "uuid": "5e02fa2e-8d9e-4bc0-bb35-b8d3de40d5ca",
+      "uraian": "Kelompok ini mencakup usaha pengolahan macam-macam ekstrak dan simplisia, sediaan galenik, bahan tambahan atau bahan lainnya, baik yang berkhasiat maupun yang tidak berkhasiat, yang berubah maupun yang tidak berubah, yang digunakan dalam pengolahan obat tradisional, walaupun tidak semua bahan tersebut masih terdapat di dalam produk ruahan."
+    },
+    "21022": {
+      "uuid": "41801026-d232-4acf-a9b6-24d1bb1e73b9",
+      "uraian": "Kelompok ini mencakup usaha pengolahan macam-macam produk obat tradisional yang bahannya berasal dari tumbuh-tumbuhan, bahan hewan, bahan mineral, sediaan sarian (galenik), atau campuran dari bahan tersebut yang berbentuk serbuk, rajangan, pil, dodol/jenang, pastiles, tablet, kapsul, cairan, larutan, emulsi dan suspensi, salep, krim dan gel, supositoria. Termasuk industri minuman jamu dan suplemen kesehatan/makanan bukan produk farmasi."
+    },
+    "21023": {
+      "uuid": "4b65e214-c022-477f-af2b-584324bb0300",
+      "uraian": "Kelompok ini mencakup usaha pengolahan macam-macam produk obat tradisional atau obat alami untuk hewan yang bahannya berasal antara lain dari tumbuh-tumbuhan, bahan hewan, bahan mineral, sediaan sarian (galenik), atau campuran dari bahan tersebut yang berbentuk serbuk, rajangan, pil, dodol/jenang, pastiles, tablet, kapsul, cairan, larutan, emulsi dan suspensi, salep, krim dan gel, supositoria."
+    },
+    "22111": {
+      "uuid": "a81cdcae-a1d0-4e4c-bc77-1c672445eaa0",
+      "uraian": "Kelompok ini mencakup usaha pembuatan ban luar dan ban dalam dengan bahan utamanya dari karet alam ataupun karet buatan untuk semua jenis kendaraan bermotor, sepeda, kendaraan angkutan lainnya dan peralatan yang memakai ban."
+    },
+    "22112": {
+      "uuid": "e45d7061-183e-4e0e-a71e-8f9e954781c4",
+      "uraian": "Kelompok ini mencakup usaha perbaikan ban yang telah terpakai (ban bekas) menjadi seperti ban baru, sehingga dapat digunakan lagi untuk kendaraan bermotor, sepeda, kendaraan angkutan lainnya dan peralatan yang memakai ban."
+    },
+    "22121": {
+      "uuid": "3ff89f91-c6a3-402a-af97-84c20106bd17",
+      "uraian": "Kelompok ini mencakup usaha pengasapan karet yang dilakukan dengan tujuan mengawetkan karet, seperti Ribbed Smoked Sheet (RSS) dan brown crepe dari pengasapan."
+    },
+    "22122": {
+      "uuid": "3caffa9b-f65d-4245-83bd-8e1469b7ef04",
+      "uraian": "Kelompok ini mencakup usaha pengolahan karet dengan cara digiling sehingga menghasilkan karet dalam bentuk lembaran, seperti sheet (lembaran karet halus) dan crepe (lembaran karet yang berkeriput)."
+    },
+    "22123": {
+      "uuid": "8e77efaf-2e6b-4397-ad82-87bf2b21b75d",
+      "uraian": "Kelompok ini mencakup usaha pengolahan karet yang menghasilkan karet remah, termasuk karet spon (busa)."
+    },
+    "22191": {
+      "uuid": "8fde76da-1c9e-47c2-9e40-35e3ecf1c420",
+      "uraian": "Kelompok ini mencakup usaha pembuatan barang-barang dari karet, untuk keperluan rumah tangga, seperti karpet karet, selang karet, tabung, pipa atau selang air, benang dan tali karet, benang rajut atau tenun dan kain berlapis karet, penutup bingkai penggulung dari karet, matras karet yang bisa dipompa, balon yang bisa dipompa, sikat dari karet dan matras waterbed (kasur air) dari karet. Termasuk usaha pembuatan keset, tali timba dan pot bunga dari karet."
+    },
+    "22192": {
+      "uuid": "140b0fad-c0f6-483c-b3a7-b19718106afc",
+      "uraian": "Kelompok ini mencakup usaha pembuatan barang-barang dari karet, untuk keperluan industri, seperti belt conveyor, fan belt, engine mounting, lining dari karet, karet berbentuk plat, lembaran, potongan, batangan dan bentuk profil, perkakas, cincin dan segel dari karet, batang pipa untuk uap panas dari karet keras dan bahan repair dari karet. Seal/segel dari karet bagian dan kelengkapan dari motor penggerak, transmisi, body, frame, suspensi, steering, axle terbuat dari karet."
+    },
+    "22193": {
+      "uuid": "a028b666-c91f-477a-9a4b-3a4fac06c88c",
+      "uraian": "Kelompok ini mencakup usaha pembuatan kompon dan barang-barang dari karet untuk keperluan infrastruktur, seperti: kompon untuk aspal karet, serbuk karet alam teraktivasi (SKAT), dock fender, seismic bearing, bantalan jembatan, rubber dam, road bump, rail pad, rail guard, canal blocking, traffic cone."
+    },
+    "22194": {
+      "uuid": "a7764f57-71fd-42f1-bbf5-ab953a22e36d",
+      "uraian": "Kelompok ini mencakup usaha pembuatan barang dari karet untuk kebutuhan menunjang kesehatan, antara lain seperti sarung kontrasepsi (KB)/kondom, dot dan alat kompres, sarung tangan karet medis, dan kateter urin (folley catheter)."
+    },
+    "22199": {
+      "uuid": "09e7e47e-bc2f-407a-8a0c-b47d0eae6535",
+      "uraian": "Kelompok ini mencakup usaha pembuatan barang lainnya dari karet, seperti pembuatan barang dari ban bekas dan sisa macam-macam barang dari karet, antara lain sarung tangan karet selain medis. Termasuk barang-barang karet untuk pakaian (jika hanya disatukan bersama, bukan dijahit), sisir, jepit rambut, rol rambut dan sejenisnya dari karet keras, kain tekstil  yang diresapi, dilapisi atau dilaminasi dengan karet, di mana karet adalah bahan pokok, topi dan baju mandi dari karet, jas hujan dan pakaian menyelam dari karet dan alat-alat seks dari karet."
+    },
+    "22210": {
+      "uuid": "bbe17bdf-0c11-494f-ab45-a32867290ab6",
+      "uraian": "Kelompok ini mencakup usaha pembuatan barang dari plastik untuk bangunan, seperti pintu, jendela, kusin, daun penutup jendela, kerai, skirting boards dari plastik, tangki, tandon air dari plastik, penutup lantai, dinding dan langit-langit plastik dalam bentuk gulungan atau lembaran dan peralatan kebersihan dari plastik, seperti hordeng plastik, shower, wastafel, lavatory pan, bak penyiram (flushing) dan lain-lain."
+    },
+    "22220": {
+      "uuid": "0421652f-1c7b-48d3-a135-0e5e8ac7c47a",
+      "uraian": "Kelompok ini mencakup usaha pembuatan kemasan dari plastik, seperti tas atau kantong plastik, sak atau karung plastik, kemasan kosmetik, kemasan film, kemasan obat, kemasan makanan dan kemasan lainnya dari plastik (wadah, botol, boks, kotak, rak dan lain-lain)."
+    },
+    "22230": {
+      "uuid": "cf68d391-a54f-4738-85a7-f48df9910f49",
+      "uraian": "Kelompok ini mencakup usaha pembuatan pipa dan selang dari plastik, seperti pipa PVC/PE/PP dan selang plastik PVC/PE/PP. Termasuk tabung plastik dan perlengkapan pipa."
+    },
+    "22291": {
+      "uuid": "21a161f3-1031-43f1-a24f-dee8efb14831",
+      "uraian": "Kelompok ini mencakup usaha pembuatan barang plastik lembaran, seperti plastik lembaran berbagai jenis PE/PP/PVC, kulit imitasi, formika, kaca plastik dan plastik lembaran lainnya. Termasuk plate plastik, lembaran plastik, balok plastik, film, foil, potongan plastik dan lain-lain (baik berperekat atau tidak)."
+    },
+    "22292": {
+      "uuid": "85a614d2-c383-43d1-84e1-12dc2f121d83",
+      "uraian": "Kelompok ini mencakup usaha pembuatan barang-barang perlengkapan dan peralatan rumah tangga dari plastik, seperti tikar, karpet, ember, sikat gigi, vas dan peralatan rumah tangga lainnya. Termasuk industri peralatan makan, peralatan dapur dan barang-barang toilet plastik serta industri penutup lantai elastis, seperti vynil, linoleum dan sebagainya."
+    },
+    "22293": {
+      "uuid": "9291478e-5e00-422f-aa84-5eae148d786c",
+      "uraian": "Kelompok ini mencakup usaha pembuatan barang-barang dan peralatan teknik/industri dari plastik, seperti bagian-bagian mesin, bagian dan kelengkapan dari motor penggerak, transmisi, body, frame, suspensi, steering, axle terbuat dari plastik, botol-botol, pipa-pipa dan lemari plastik untuk keperluan teknik/industri. Termasuk industri ban berjalan pembawa barang (conveyer belt)."
+    },
+    "22299": {
+      "uuid": "f563c28b-06f1-472c-b182-83ad354dc898",
+      "uraian": "Kelompok ini mencakup usaha pembuatan barang-barang yang belum diklasifikasikan dimanapun, seperti peralatan kantor/pendidikan, peralatan kesehatan/laboratorium dari plastik, film atau lembaran kertas kaca (cellophane), batu buatan dari plastik, tanda dari plastik (bukan listrik), berbagai barang plastik, seperti tutup kepala, peralatan penyekat, bagian dari peralatan penerangan, barang-barang kantor atau sekolah, barang-barang pakaian (jika hanya disegel atau disatukan, tidak dijahit), perlengkapan untuk furnitur, patung, tape perekat dari plastik, kertas dinding plastik, alas sepatu dari plastik, pegangan cerutu dan rokok dari plastik, sisir, pengeriting rambut dari plastik, barang kesenangan dari plastik dan sebagainya. Termasuk juga pembuatan barang dari busa plastik. Pembuatan barang-barang peralatan olahraga dimasukkan dalam kelompok 32300. Pembuatan mainan anak-anak dari plastik dimasukkan dalam kelompok 32402. Pembuatan tas, buku saku dan sejenisnya dari kulit dan kulit buatan diklasifikasikan dalam kelompok 15121."
+    },
+    "23111": {
+      "uuid": "2e92a973-4939-43c4-89a7-923a9ed1445e",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam kaca lembaran, seperti kaca lembaran bening tak berwarna, kaca lembaran bening berwarna, kaca lembaran buram berwarna, kaca patri, kaca berukir dan kaca cermin."
+    },
+    "23112": {
+      "uuid": "47758e9d-4bac-4e98-91e5-4d2cdca9808f",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam kaca pengaman seperti kaca pengaman diperkeras, kaca pengaman berlapis, kaca pengaman isolasi dan kaca pengaman lainnya."
+    },
+    "23119": {
+      "uuid": "2a048e2e-0003-4a48-bea3-b1cde468e060",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam kaca yang belum termasuk kelompok 23111 dan 23112, seperti tubes, rods, kaca batangan atau kaca pipa."
+    },
+    "23121": {
+      "uuid": "258a51c3-2cf7-434b-83d7-1a452843e93d",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam perlengkapan rumah tangga dari kaca , seperti cangkir, piring, mangkok, teko, stoples, asbak dan botol susu bayi. Termasuk juga usaha pembuatan barang-barang pajangan dari kaca, seperti patung atau arca dari kaca, vas, lampu kristal, semprong lampu tekan dan semprong lampu tempel."
+    },
+    "23122": {
+      "uuid": "5a23caa2-a2aa-4278-ba78-37092ffd5f9d",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam alat laboratorium selain laboratorium klinis, farmasi dan kesehatan dari gelas, seperti botol serum/infus, ampul, tabung uji, tabung ukur, kaca sorong mikroskop, cuvet dan dessicator."
+    },
+    "23123": {
+      "uuid": "b9c0732a-fd09-41c4-bf05-992d7a6cc7ee",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam barang untuk kemasan dari kaca, seperti botol dan guci. Termasuk wadah lain dari kaca atau kristal."
+    },
+    "23124": {
+      "uuid": "b8fbe2ab-c3f6-4833-b3b9-1065703dd8b1",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam alat laboratorium klinis, pada umumnya untuk keperluan diagnosis, seperti tabung uji untuk sampel biologis (darah, urin, saliva)."
+    },
+    "23129": {
+      "uuid": "fbc42205-da2f-4fb9-a1ed-94ac8e29392c",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam barang lainnya dari gelas yang belum tercakup dalam kelompok 23121 s.d. 23123  seperti tasbih, rosario, manik gelas, gelas enamel dan aquarium, serat kaca (fiberglass), termasuk produk-produk dari wol kaca dan non woven kaca, kaca jam dinding atau kaca arloji, kaca dan elemen optik yang tidak bekerja secara optis, barang kaca yang digunakan pada perhiasan imitasi dan kaca isolasi dan perlengkapan isolasi kaca. Termasuk juga usaha pembuatan bahan bangunan dari gelas seperti bata, ubin, genteng, paving blocks dan sekat dinding dari kaca."
+    },
+    "23911": {
+      "uuid": "53b5102e-4d83-4f71-85f2-fb85621d0cf3",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam bata tahan api, mortar tahan api dan semen tahan api, beton dan komposit sejenisnya yang tahan api, seperti alumina, silica dan basic."
+    },
+    "23919": {
+      "uuid": "347cc4bd-2a68-4c17-befc-dc8da3fd154e",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam barang tahan api, selain bata tahan api. Termasuk barang keramik penyekat panas dari tepung fossil siliceous; ubin dan balok refraktori; tabung kimia atau labu destilasi, wadah tempat melebur logam, penyaring, tabung, pipa dan sebagainya; dan barang refraktori yang mengandung magnet, dolomit atau kromit."
+    },
+    "23921": {
+      "uuid": "dad1701a-9a28-4330-ba37-e62319cd49d3",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam batu bata seperti bata pres, bata berongga, bata hiasan, bata bukan pres dan bata lubang. Termasuk juga pembuatan semen merah dan kerikil tanah liat."
+    },
+    "23922": {
+      "uuid": "ffbdd299-c70e-45eb-9e0c-1a75163a35de",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam genteng tanah liat/keramik, seperti genteng pres, genteng biasa, genteng kodok dan genteng yang diglazur."
+    },
+    "23923": {
+      "uuid": "be0f59a1-7067-4cb1-ab09-00a36e6993b7",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam peralatan saniter dari porselen seperti kloset, bidet, wastafel, urinoir, bak cuci, bak mandi dan lain-lain."
+    },
+    "23929": {
+      "uuid": "99bc8622-fd30-4cb6-ae57-a6d2b7a583de",
+      "uraian": "Kelompok ini mencakup usaha pembuatan barang dari tanah liat/keramik untuk keperluan bahan bangunan bukan batu bata, genteng dan peralatan saniter dari porselen, seperti saluran air, ubin, lubang angin dan buis (cincin untuk sumur). Termasuk tungku keramik atau ubin dinding non refraktori, kubus mosaik  dan sebagainya, paving atau ubin keramik non refraktori, ubin untuk atap, cerobong asap, pipa, saluran keramik dan sebagainya dan balok lantai dari tanah liat yang dibakar."
+    },
+    "23931": {
+      "uuid": "5e43b2d8-1917-4032-8acb-ae24421002af",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam perlengkapan rumah tangga dari porselen, seperti piring, tatakan, cangkir, mangkok, teko, kendi, sendok , asbak, barang toilet dan toples dan barang-barang sejenis yang digunakan untuk pengangkutan atau pengepakan barang. Termasuk juga usaha pembuatan barang pajangan dari porselen seperti arca atau patung dan barang keramik ornamental lainnya, tempat bunga, kotak rokok dan guci."
+    },
+    "23932": {
+      "uuid": "006dfe1f-2fb5-49e8-acb7-ab1615d0c10c",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam barang dari tanah liat untuk perlengkapan rumah tangga, pajangan/hiasan dan sejenisnya, seperti piring, cangkir, mangkok, kendi, teko, periuk, tempayan, patung, vas bunga, tempat sirih, kotak sigaret,  celengan,  toples, dan barang-barang sejenis yang digunakan untuk pengangkutan atau pengepakan barang dan lain-lain."
+    },
+    "23933": {
+      "uuid": "3029738a-dd61-4b32-b5b4-9959bf49eda8",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam alat laboratorium, listrik dan teknik serta perlengkapan dari porselen seperti lumpang dan alu, piring penapis, tabung kimia, botol/guci, cawan, rumah sekering, insulator, isolator tegangan rendah dan isolator tegangan tinggi. Termasuk  magnet ferit dan keramik  dan barang-barang keramik laboratorium, kimia dan industrial."
+    },
+    "23939": {
+      "uuid": "cac6202c-14d5-4443-847d-8dab28165bde",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam barang dari tanah liat/keramik dan porselen lainnya bukan bahan bangunan yang belum tercakup dalam kelompok 23931 sampai dengan 23933. Termasuk furnitur keramik dan barang-barang keramik lainnya, ytdl."
+    },
+    "23941": {
+      "uuid": "f54443a8-3198-4360-bc17-f82880cc254b",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam semen (semen hidrolik dan arang atau kerak besi), seperti portland, natural, semen mengandung alumunium, semen terak dan semen superfosfat dan jenis semen lainnya."
+    },
+    "23942": {
+      "uuid": "245bbab9-6377-433c-bf66-e1348860f92f",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam kapur dari batu kapur, seperti kapur tohor, kapur tembok dan kapur lepaan. Termasuk kapur slaked lime dan kapur hidrolik."
+    },
+    "23943": {
+      "uuid": "85bbff4b-7c84-4482-9eeb-6305b34f9e69",
+      "uraian": "Kelompok ini mencakup usaha pembuatan gips, yang terbentuk dari calcined gipsum atau calsium sulphate. Termasuk calcined dolomite."
+    },
+    "23951": {
+      "uuid": "135006e5-46b0-4117-9efe-6de25d842b8a",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam barang dari semen, seperti patung, pot kembang dan lain-lain."
+    },
+    "23952": {
+      "uuid": "1b96056f-c953-451a-b597-20cab1db61bc",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam barang dari kapur, seperti kapur tulis, kapur gambar, batako dan dempul."
+    },
+    "23953": {
+      "uuid": "6c0e0b66-7aea-422b-a9d7-76384099d4fd",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam barang dari semen dan atau kapur atau batu buatan untuk keperluan konstruksi seperti ubin, bata/dinding, pipa beton dan beton praktekan, papan, lembaran, panel, tonggak dan sebagainya, komponen struktur prafabrik untuk gedung atau bangunan sipil dan bahan-bahan bangunan dari substansi tumbuh-tumbuhan (wol kayu, alang-alang, jerami dan lain-lain) yang disatukan dengan semen atau bahan pencampur mineral lainnya."
+    },
+    "23954": {
+      "uuid": "61a934c3-6160-400d-a635-1d8572118052",
+      "uraian": "Kelompok ini mencakup pembuatan barang dari gips yang digunakan dalam konstruksi, seperti papan, lembaran, panel dan lain-lain. Termasuk Industri bahan bangunan dari substansi tumbuh-tumbuhan (wol kayu, alang-alang, jerami dan lain-lain) yang disatukan plester gips."
+    },
+    "23955": {
+      "uuid": "8a755a76-c268-4ffa-88c8-0fb61cee4c83",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam barang dari asbes untuk keperluan bahan bangunan seperti asbes gelombang, asbes rata, pipa asbes bertekanan dan asbes berlapis."
+    },
+    "23956": {
+      "uuid": "36be766d-9218-4ad6-86bd-f64b2adcfc57",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam barang dari asbes untuk keperluan industri."
+    },
+    "23957": {
+      "uuid": "f48118c5-fe0c-4233-914e-eeeac6c297cf",
+      "uraian": "Kelompok ini mencakup usaha pembuatan mortar atau beton siap pakai (ready mixed and dry mixed concrete and mortar)."
+    },
+    "23959": {
+      "uuid": "b7a6f01c-a4a8-4c2e-afa6-dec4697008cb",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam barang dari semen, kapur, gips dan asbes lainnya, yang belum tercakup dalam kelompok 23951 sampai dengan 23957, seperti industri  barang dari semen serat selulosa atau sejenisnya, seperti reservoir, palung atau bak, kolam, bak cuci piring, guci, mebel, rangka jendela dan lain-lain, barang lainnya dari beton, plester gips, semen atau batu buatan, seperti patung, furnitur, relief gambar timbul dan sebagainya dan mortar bubuk."
+    },
+    "23961": {
+      "uuid": "5c28d62f-d402-4407-a702-540e6a23cc5f",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam barang dari marmer/granit untuk keperluan rumah tangga dan pajangan, seperti daun meja, ornamen dan patung. Termasuk pembuatan furnitur dari marmer dan granit."
+    },
+    "23962": {
+      "uuid": "554299fd-1b66-4931-ba99-c83babbfccfc",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam barang dari marmer/granit untuk keperluan bahan bangunan, seperti ubin dan bak mandi."
+    },
+    "23963": {
+      "uuid": "487a6829-78ac-4f88-968a-aa36037b2174",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam barang dari batu untuk keperluan rumah tangga, pajangan, dan bahan bangunan, seperti lumpang, cobek, batu pipisan, batu asah, batu lempengan, batu pecah-pecahan, abu batu dan kubus mozaik."
+    },
+    "23969": {
+      "uuid": "f8abb203-46be-4223-9437-f51dfba0942b",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam barang dari batu marmer, granit atau batu lainnya untuk keperluan lainnya yang belum tercakup dalam kelompok 23961 hingga 23963,  seperti industri batu monumen."
+    },
+    "23990": {
+      "uuid": "3509fdee-0915-4eec-b52a-b618c898986f",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam barang dari bahan galian lainnya yang belum tercakup di tempat lain, seperti tepung kaolin, tepung gips, dan tepung talk. Termasuk juga usaha pembuatan kertas penggosok (abrasive paper) dan gerinda, penajaman dan pengilapan batu dan batu abrasi atau penggosok baik alami atau buatan, batu korek api (lighter flint); bahan friksi dan barang tak berbingkai dengan bahan pokok substansi mineral atau selulosa; bahan penyekat dari mineral, seperti wol terak, wol batu dan jenis wol lainnya; exfoliated vermiculate, tanah liat yang dikembangkan dan sejenis penyekat dengan panas, bahan penyerap suara; barang dari berbagai substansi mineral, seperti mika dan barang dari mika, barang dari tanah gemuk (peat) sebagai bahan pembakar, barang dari grafit (barang elektris); barang dari aspal atau material sejenisnya, misalnya perekat berbahan dasar aspal, aspal karet alam, ter batu bara dan sebagainya; dan karbon dan serat grafit dan barang turunannya (kecuali elektroda dan peralatan elektris)."
+    },
+    "24101": {
+      "uuid": "4af1d41b-5cdb-4bc2-bf7b-5c0d7ff726ae",
+      "uraian": "Kelompok ini mencakup usaha pembuatan besi dan baja dalam bentuk dasar, seperti pellet bijih besi, besi spons, besi kasar (pig iron) dan pembuatan besi dan baja dalam bentuk baja kasar seperti ingot baja, billet baja, baja bloom dan baja slab. Termasuk juga pembuatan besi dan baja paduan. Termasuk kegiatan tungku pembakar, steel converter, pabrik penggulungan dan finishing; produksi besi kasar dalam bentuk dasar seperti balok; produksi besi campuran; produksi produk besi yang direduksi langsung dari bijih besi dan produk besi berongga lainnya; produksi besi dari hasil pemurnian dengan proses elektrolisis dan proses kimia lainnya; produksi butir besi dan bubuk besi; produksi baja batangan (ingot) atau bentuk dasar lainnya; peleburan kembali ingot sisaan besi atau baja; dan  produksi baja setengah jadi."
+    },
+    "24102": {
+      "uuid": "a96c3d2c-a9a4-4d24-b1d8-e467ac9956bf",
+      "uraian": "Kelompok ini mencakup usaha penggilingan baja, baik penggilingan panas maupun dingin, yang membuat produk-produk gilingan batang kawat baja, baja tulangan, baja profil (H-beam, I-beam dan sejenisnya), baja strip, baja rel,  pelat baja, baja lembaran hasil gilingan panas (hot rolled sheet) dan baja lembaran hasil gilingan dingin (cold rolled sheet) dilapisi atau tidak dilapisi dengan logam atau non logam lainnya termasuk penggilingan baja scrap. Termasuk  industri baja balok atau potongan gulungan panas, industri baja open section gulungan panas, industri baja balok dan baja solid section hasil proses cold drawing, grinding dan turning, industri baja open section hasil pembentukan dingin progresif pada mesin penggulung atau pelipatan pada mesin pres atau pada penggulungan flat baja, industri kawat baja baik kawat satuan maupun pilinan (strand) hasil proses cold drawing, tempering, dan  stressing, industri lembaran tiang pancang baja atau baja las open section, industri material rel kereta api baja (rel belum terpasang)."
+    },
+    "24103": {
+      "uuid": "53d6243b-5410-4842-ab2b-81191fa05eb1",
+      "uraian": "Kelompok ini mencakup usaha pembuatan tabung, pipa dan sambungan pipa dari besi dan baja. Termasuk Industri tabung, pipa dan profile berongga baja tanpa kelim hasil pembentukan gulungan panas, hot drawing atau hot extruding, gulungan dingin atau cold drawing; industri tabung dan pipa baja las hasil pengelasan dan pembentukan panas atau dingin, sebagai proses lanjutan dari gulungan dingin atau cold drawing; dan industri fittings pipa baja, seperti flat flanges dan flanges with forged collar, butt-welded fittings, threaded fittings dan socket-welded fiitings."
+    }
+  },
+  "failed": {},
+  "debug": {}
+}

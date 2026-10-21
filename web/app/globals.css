@@ -1,0 +1,83 @@
+@import "tailwindcss";
+
+/* Palet mengikuti website Asisten Virtual BKPM.
+   Tema: ikut sistem, bisa dipaksa lewat <html data-theme="light|dark"> (tombol di header). */
+:root {
+  --paper: #f4f4f4;        /* latar halaman */
+  --surface: #ffffff;
+  --bubble: #f3f4f6;
+  --ink: #111827;
+  --muted: #6b7280;
+  --line: #e5e7eb;
+  --brand: #303b91;        /* navy BKPM: isian (tombol, lencana, gelembung user) */
+  --brand-fg: #303b91;     /* navy untuk teks/ikon */
+  --brand-ink: #ffffff;
+  --brand-soft: #eceef8;
+  --go: #4f9451;           /* hijau tombol aksi (sedikit lebih gelap dari #65A666 agar teks putih terbaca) */
+  --go-ink: #ffffff;
+  --accent: #3e7d40;       /* hijau untuk teks/ikon */
+  --accent-soft: #edf6ed;
+  --warn: #9a5b00;
+  --danger: #b42318;
+  --danger-soft: #fdecea;
+  --header: #303b91;
+  --header-line: transparent;
+  --shadow: 0 8px 30px rgba(17, 24, 39, 0.08);
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #0e1120; --surface: #161a2e; --bubble: #1f243b; --ink: #e7e9f3; --muted: #9ba1ba;
+    --line: #2a3052; --brand: #4451c4; --brand-fg: #a9b3ff; --brand-ink: #ffffff; --brand-soft: #232a55;
+    --go: #4f9a52; --go-ink: #ffffff; --accent: #86d08a; --accent-soft: #1c3322; --warn: #f0b35a;
+    --danger: #ff8a80; --danger-soft: #3a1d1d; --header: #121629; --header-line: #232a4a;
+    --shadow: 0 8px 30px rgba(0, 0, 0, 0.45);
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #0e1120; --surface: #161a2e; --bubble: #1f243b; --ink: #e7e9f3; --muted: #9ba1ba;
+  --line: #2a3052; --brand: #4451c4; --brand-fg: #a9b3ff; --brand-ink: #ffffff; --brand-soft: #232a55;
+  --go: #4f9a52; --go-ink: #ffffff; --accent: #86d08a; --accent-soft: #1c3322; --warn: #f0b35a;
+  --danger: #ff8a80; --danger-soft: #3a1d1d; --header: #121629; --header-line: #232a4a;
+  --shadow: 0 8px 30px rgba(0, 0, 0, 0.45);
+  color-scheme: dark;
+}
+
+@theme inline {
+  --color-paper: var(--paper);
+  --color-surface: var(--surface);
+  --color-bubble: var(--bubble);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-brand: var(--brand);
+  --color-brand-fg: var(--brand-fg);
+  --color-brand-ink: var(--brand-ink);
+  --color-brand-soft: var(--brand-soft);
+  --color-go: var(--go);
+  --color-go-ink: var(--go-ink);
+  --color-accent: var(--accent);
+  --color-accent-soft: var(--accent-soft);
+  --color-warn: var(--warn);
+  --color-danger: var(--danger);
+  --color-danger-soft: var(--danger-soft);
+  --color-header: var(--header);
+  --color-header-line: var(--header-line);
+  --shadow-soft: var(--shadow);
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+}
+
+html, body { height: 100%; }
+body { background: var(--paper); color: var(--ink); -webkit-font-smoothing: antialiased; }
+html { transition: background-color .2s ease; }
+
+@keyframes rise { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+.animate-rise { animation: rise .22s ease-out both; }
+@keyframes blink { 0%, 80%, 100% { opacity: .25; } 40% { opacity: 1; } }
+.dot { animation: blink 1.2s infinite both; }
+.dot:nth-child(2) { animation-delay: .15s; }
+.dot:nth-child(3) { animation-delay: .3s; }
+@media (prefers-reduced-motion: reduce) { .animate-rise, .dot { animation: none; } html { transition: none; } }

@@ -1,0 +1,404 @@
+{
+  "result": {
+    "11051": {
+      "uuid": "07957ae3-2e98-46b6-a7c2-72a2eab8f27a",
+      "uraian": "Kelompok ini mencakup usaha industri yang melakukan proses pengolahan air baku menjadi air minum yang dikemas dan siap dikonsumsi langsung, mengandung mineral ataupun tidak, dengan atau tanpa penambahan gas seperti O2 ataupun CO2, dengan atau tanpa penambahan mineral."
+    },
+    "11052": {
+      "uuid": "f7488909-1dc3-4798-ae4a-1c73e8600fe4",
+      "uraian": "Kelompok ini mencakup industri air minum yang dapat langsung dikonsumsi berupa depot air isi ulang baik yang dioperasikan manual oleh manusia maupun mesin pengisi otomatis (automatic tap water machine) dengan menggunakan wadah dan tutup tanpa merk yang dapat disediakan oleh depot dan/atau dibawa sendiri oleh konsumen."
+    },
+    "11090": {
+      "uuid": "52d0beed-d248-47d2-b700-1408aa89c166",
+      "uraian": "Kelompok ini mencakup usaha industri minuman lainnya yang tidak termasuk dalam subgolongan 1101 s.d 1105, seperti minuman penyegar, nira, air tebu, air kelapa, minuman sereal panas, serbuk sekoteng, dan serealia celup."
+    },
+    "12011": {
+      "uuid": "137259bb-32cf-4047-b8f6-7ecd372993fc",
+      "uraian": "Kelompok ini mencakup usaha pembuatan kretek yang mengandung tembakau rajangan, krosok rajang, cengkeh rajang, dan tambahan bahan-bahan perisa, yang menghasilkan campuran beraroma khas, dilinting dengan berbagai bahan pembungkus (ambri/papir/tipping).  Termasuk industri kretek tangan, kretek tangan dan kretek tangan filter."
+    },
+    "12012": {
+      "uuid": "7e69eeaf-cb50-46cf-9718-a1341e5d164b",
+      "uraian": "Kelompok ini mencakup usaha pembuatan rokok putih yang tidak mengandung komponen cengkeh."
+    },
+    "12013": {
+      "uuid": "ad346096-463e-4a75-bd53-12331d5f4f58",
+      "uraian": "Kelompok ini mencakup usaha pembuatan kretek yang mengandung tembakau rajangan, krosok rajang, cengkeh rajang, dan tambahan bahan-bahan perisa, yang menghasilkan campuran beraroma khas, dilinting dengan berbagai bahan pembungkus (ambri/papir/tipping). Termasuk industri kretek mesin."
+    },
+    "12019": {
+      "uuid": "bb241542-05a3-4d1b-bf7a-ca85be83b683",
+      "uraian": "Kelompok ini mencakup usaha pembuatan rokok lainnya, selain kretek atau rokok putih, seperti cerutu, rokok kelembak menyan dan rokok klobot/kawung, tembakau iris (TIS), cerutek, dan hasil pengolahan tembakau lainnya (HPTL). Termasuk industri tembakau pipa, tembakau yang dikunyah dan tembakau sedot (snuff)."
+    },
+    "12099": {
+      "uuid": "d3990d17-c009-43e3-a897-8697a8068e89",
+      "uraian": "Kelompok ini mencakup industri pengolahan tembakau yang belum diklasifikasikan ditempat lain, seperti industri homogenisasi atau rekonstitusi tembakau dan tembakau bersaus. Termasuk pembuatan bumbu rokok, serta kelengkapan  rokok lainnya, seperti kelembak menyan, saus rokok/tembakau, uwur, klobot, kawung serta pembuatan filter."
+    },
+    "13111": {
+      "uuid": "fe63b8b6-2e05-4f16-92fe-b13ab086eaca",
+      "uraian": "Kelompok ini mencakup usaha persiapan serat tekstil, seperti reeling (pilin/menggulung) dan pencucian serat sutera, degreasasi (penghilangan lemak) dan karbonisasi wol dan pencelupan bulu domba, termasuk proses penyusunan dan penyisiran (carding atau combing) dari serat rambut hewan serat tumbuhan, dan serat buatan (sintetis dan artifisial)."
+    },
+    "13112": {
+      "uuid": "30b1c479-c2c3-4cf0-82e1-22907c57ae9c",
+      "uraian": "Kelompok ini mencakup usaha pemintalan serat menjadi benang, kecuali benang jahit. Termasuk kegiatan penteksturan, penyimpulan, pelipatan dan pencucian benang rajutan filamen sintetis dan benang artifisial (dari bubur kayu)."
+    },
+    "13113": {
+      "uuid": "ca470e0d-1aed-4766-b23a-24fad9378799",
+      "uraian": "Kelompok ini mencakup usaha pembuatan benang jahit, baik dengan bahan baku serat maupun benang.  termasuk kegiatan penteksturan, penyimpulan, pelipatan dan pencucian benang jahit."
+    },
+    "13121": {
+      "uuid": "f8e5aca5-6d13-4474-b7b4-a48f8b202d83",
+      "uraian": "Kelompok ini mencakup usaha pertenunan, baik yang dibuat dengan alat gedogan, alat tenun bukan mesin (ATBM), alat tenun mesin (ATM) ataupun alat tenun lainnya, termasuk pembuatan sarung, kecuali industri kain tenun ikat. Usaha pertenunan karung goni dan karung lainnya dimasukkan dalam kelompok 13925, 13926, 13929."
+    },
+    "13122": {
+      "uuid": "63b305e8-cd60-4bbd-9730-1b972bf395d1",
+      "uraian": "Kelompok ini mencakup usaha pembuatan kain tenun ikat dan usaha pewarnaan benang dengan cara mengikat terlebih dahulu."
+    },
+    "13123": {
+      "uuid": "47b66294-8622-4a75-a999-6bc67b130c3f",
+      "uraian": "Kelompok ini mencakup usaha pembuatan bulu tiruan dengan penenunan."
+    },
+    "13131": {
+      "uuid": "bdf08eec-bca5-4c4f-9fed-9aaa4f5c7755",
+      "uraian": "Kelompok ini mencakup usaha pengelantangan, pencelupan dan penyempurnaan lainnya untuk benang maupun benang jahit."
+    },
+    "13132": {
+      "uuid": "8503d848-e960-4c05-afc2-4a73ccae3d02",
+      "uraian": "Kelompok ini mencakup usaha pengelantangan, pencelupan dan penyempurnaan lainnya untuk kain."
+    },
+    "13133": {
+      "uuid": "25e7b188-18f9-4de7-a7e9-0614bf7711f8",
+      "uraian": "Kelompok ini mencakup usaha pencetakan kain dengan media perantara seperti kasa dan sebagainya, termasuk juga pencetakan kain motif batik."
+    },
+    "13134": {
+      "uuid": "939b4ca5-06c9-48d1-afbc-755504220b79",
+      "uraian": "Kelompok ini mencakup usaha pembatikan dengan proses malam (lilin), baik yang dilakukan dengan tulis, cap maupun kombinasi antara cap dan tulis."
+    },
+    "13911": {
+      "uuid": "c4275202-34f0-4d04-8800-00f4ff3ff482",
+      "uraian": "Kelompok ini mencakup usaha pembuatan kain yang dibuat dengan cara rajut seperti handuk, kain ihram, vitrase."
+    },
+    "13912": {
+      "uuid": "fb88bb9f-9169-42f4-a9bc-c789fd3829cc",
+      "uraian": "Kelompok ini mencakup usaha kain sulaman dikerjakan dengan tangan."
+    },
+    "13913": {
+      "uuid": "9f82a066-ada8-42d7-9f6b-4ffe75b74929",
+      "uraian": "Kelompok ini mencakup usaha pembuatan bulu tiruan rajutan."
+    },
+    "13921": {
+      "uuid": "d121f221-ab93-4c48-9045-88e20339a566",
+      "uraian": "Kelompok ini mencakup usaha pembuatan barang-barang jadi tekstil, seperti selimut, seprei, taplak meja, sarung bantal, bed cover, gorden, handuk, sarung alas kursi, sajadah/penutup lantai yang dibuat dengan proses penggabungan dan/atau penjahitan beberapa bahan tekstil, selubung mobil dan selimut listrik dan lain-lain. Sajadah/penutup lantai dari karpet/permadani dimasukkan dalam kelompok 13930."
+    },
+    "13922": {
+      "uuid": "93a51979-4b3a-48d4-9a1b-9f82aa86a7fe",
+      "uraian": "Kelompok ini mencakup usaha barang jadi tekstil sulaman, baik yang dikerjakan dengan tangan maupun dengan mesin, seperti pakaian/barang jadi sulaman dan badge."
+    },
+    "13923": {
+      "uuid": "4a79b7a7-9dba-4abd-8856-fe4087677946",
+      "uraian": "Kelompok ini mencakup usaha pembuatan bantal dan sejenisnya, seperti bantal dan guling, selimut kapas, selimut bulu angsa, bantal kursi, kantong tidur dan lain-lain dari kapuk, dakron dan sejenisnya."
+    },
+    "13924": {
+      "uuid": "89b36394-2836-4616-ba1e-2b917e29fa89",
+      "uraian": "Kelompok ini mencakup usaha pembuatan barang jadi rajutan, seperti kaos lampu, deker, bando."
+    },
+    "13925": {
+      "uuid": "4c41ef12-d7b8-4890-9a96-0b3fea3052e1",
+      "uraian": "Kelompok ini mencakup usaha pembuatan karung goni."
+    },
+    "13926": {
+      "uuid": "a702250a-ae4c-465f-abdc-e72c1bf4b61b",
+      "uraian": "Kelompok ini mencakup usaha pembuatan karung bagor (karung terigu/gula blacu) dan karung lainnya. Kecuali pembuatan karung plastik masuk dalam kelompok 22220."
+    },
+    "13929": {
+      "uuid": "8298217b-588b-4653-aa8e-3c374aa64453",
+      "uraian": "Kelompok ini mencakup usaha pembuatan barang jadi tekstil lainnya, seperti layar, tenda, bendera, terpal, parasut, pelampung/jaket penyelamat dan lain-lain: lap pembersih, serbet piring dan barang perlengkapan sejenisnya dan lain-lain."
+    },
+    "13930": {
+      "uuid": "58c72f3f-d259-4f27-9070-d36a353d7fc2",
+      "uraian": "Kelompok ini mencakup usaha pembuatan karpet, permadani, sajadah, dan sejenisnya yang terbuat dari serat, baik serat alam, sintetis maupun serat campuran, baik yang dikerjakan dengan proses tenun (woven), tufting, braiding, flocking dan needle punching. Termasuk industri penutup lantai dari lakan atau bulu kempa yang dibuat dengan jarum tenun. Karpet yang terbuat dari bahan-bahan gabus, karet atau plastik  masing-masing dimasukkan dalam kelompok 16299, 22191 atau 22210. Sajadah/penutup lantai yang dibuat dengan proses penggabungan dan/atau penjahitan beberapa bahan tekstil dimasukkan dalam kelompok 13921. Kain alas lantai dengan lapisan permukaan keras dimasukkan dalam kelompok 13999."
+    },
+    "13941": {
+      "uuid": "1f0e09fe-d329-4245-a34f-803df8590b7a",
+      "uraian": "Kelompok ini mencakup usaha pembuatan berbagai macam tali, baik terbuat dari serat alam maupun serat sintetis atau serat campuran, seperti tali rami, tali goni (yute), tali sisal (agave), tali rafia dan tali nylon."
+    },
+    "13942": {
+      "uuid": "d4a5b26e-9072-4b44-992f-8468ce1cf5c3",
+      "uraian": "Kelompok ini mencakup usaha pembuatan barang-barang dari tali, seperti jaring ikan, jala ikan, tali kapal, tali sepatu, sumbu kompor dan sumbu lampu, baik terbuat dari tali serat alam, tali serat sintetis atau tali serat campuran."
+    },
+    "13991": {
+      "uuid": "060c2554-cf9c-45aa-ac6f-b96e80cc76d3",
+      "uraian": "Kelompok ini mencakup usaha pembuatan kain pita, seperti kain pita, renda, kain label, velcro, dan badges."
+    },
+    "13992": {
+      "uuid": "886b42bf-9a3d-4ab6-b86e-f41b62773483",
+      "uraian": "Kelompok ini mencakup usaha pembuatan kain dilapisi/ditutupi/diresapi dengan plastik atau karet dan selanjutnya digunakan untuk keperluan industri, seperti kain terpal, kain layar, kain tenda, kain payung, kain kanvas untuk melukis dan kulit imitasi dari media tekstil."
+    },
+    "13993": {
+      "uuid": "04a1e50c-35ca-4c3a-bb64-8513ca909fa8",
+      "uraian": "Kelompok ini mencakup usaha industri kain yang dibuat tanpa dengan proses anyaman atau perajutan, seperti kain kempa, kain felting dan kain laken. Termasuk industri kain untuk keperluan pelayanan kesehatan manusia, seperti duk operasi (surgical drape); baju, masker, penutup kepala dan perlengkapan non woven lain untuk operasi; dan pembalut luka non woven."
+    },
+    "13994": {
+      "uuid": "0853db80-2d8f-4166-9e8e-5408301231f5",
+      "uraian": "Kelompok ini mencakup usaha pembuatan kain ban dari benang sintetik kekuatan tinggi, seperti kain ban dari nylon dan kain ban dari polyester."
+    },
+    "13995": {
+      "uuid": "910d91e0-77cf-44c1-9c73-7ae132dd48aa",
+      "uraian": "Kelompok ini mencakup usaha pengolahan kapuk."
+    },
+    "13996": {
+      "uuid": "46b076e0-0dec-4cca-92a7-daf7ae71f2fb",
+      "uraian": "Kelompok ini mencakup usaha pembuatan kain tulle, kain trikot, kain bordir, dan kain jaring lainnya. Jaring ikan dikelompokkan ke dalam 13942."
+    },
+    "13999": {
+      "uuid": "f781820b-babd-4db7-87ef-b5c43b236cab",
+      "uraian": "Kelompok ini mencakup usaha industri tekstil lainnya yang belum/tidak tercakup dalam golongan industri tekstil manapun, seperti benang karet, benang logam dan pipa/selang kain dan lainnya."
+    },
+    "14111": {
+      "uuid": "d8cc18ef-c791-4e69-a5b2-7d30e35cbc7e",
+      "uraian": "Kelompok ini mencakup usaha pembuatan pakaian jadi (konveksi) dari tekstil/kain (tenun maupun rajutan) dengan cara memotong dan menjahit sehingga siap dipakai, seperti kemeja, celana, kebaya, blus, rok, baju bayi, pakaian tari dan pakaian olahraga."
+    },
+    "14112": {
+      "uuid": "85379bda-922d-447b-9548-343d79dab57a",
+      "uraian": "Kelompok ini mencakup usaha pembuatan pakaian jadi (konveksi) dari kulit atau kulit imitasi, dengan cara memotong dan menjahit sehingga siap pakai, seperti jaket, mantel, rompi, celana dan rok. Termasuk  pembuatan aksesori pakaian dari kulit seperti pakaian pekerja las (welder) dari kulit."
+    },
+    "14120": {
+      "uuid": "94760c6a-1cee-4bd7-8300-af940e59bf46",
+      "uraian": "Kelompok ini mencakup usaha penjahitan dan pembuatan pakaian sesuai pesanan yang melayani masyarakat umum  dengan tujuan komersil."
+    },
+    "14131": {
+      "uuid": "37fa9bfe-32a4-42fe-9811-3fe4d748be27",
+      "uraian": "Kelompok ini mencakup usaha pembuatan perlengkapan pakaian jadi (konveksi) tekstil dan dari kain dengan cara memotong dan menjahit sehingga siap dipakai, seperti topi, peci, dasi, sarung tangan, mukena, selendang, kerudung, ikat pinggang, syal, bando, dasi tuksedo, jaring rambut, dan lain-lain, baik dari kain tenun maupun kain rajut yang dijahit. Termasuk industri alas kaki dari bahan kain tanpa sol dan bagian-bagian dari produk yang disebutkan sebelumnya."
+    },
+    "14132": {
+      "uuid": "8ac45dd8-905b-4119-a92e-80558ae290e3",
+      "uraian": "Kelompok ini mencakup usaha pembuatan perlengkapan pakaian jadi dari kulit atau kulit imitasi, dengan cara memotong dan menjahit sehingga siap pakai, seperti topi, sarung tangan, ikat pinggang, bando, jaring rambut, dan lain-lain.  Termasuk industri penutup kepala dari kulit berbulu dan bagian-bagian dari produk yang disebutkan sebelumnya."
+    },
+    "14200": {
+      "uuid": "a80cd0d3-8228-4db5-854e-68abd9b06434",
+      "uraian": "Kelompok ini mencakup usaha pembuatan pakaian jadi/barang jadi dari kulit berbulu dan atau perlengkapannya, seperti mantel berbulu, berbagai barang dari kulit berbulu, misalnya gambar, tikar, keset dan barang lain dari kulit berbulu, seperti permadani, pouffes tanpa isi, kain kilap industri."
+    },
+    "14301": {
+      "uuid": "6c9ebda4-c55d-4a53-969b-d968f43d1ea8",
+      "uraian": "Kelompok ini mencakup usaha pembuatan pakaian jadi, seperti sweater, kardigan, baju kaos, mantel, dan barang sejenisnya, termasuk topi yang dibuat dengan cara dirajut ataupun renda, kecuali industri rajutan kaos kaki."
+    },
+    "14302": {
+      "uuid": "9b48de04-0766-4204-bc62-38574119a37a",
+      "uraian": "Kelompok ini mencakup usaha pakaian jadi sulaman, baik yang dikerjakan dengan tangan maupun dengan mesin."
+    },
+    "14303": {
+      "uuid": "78492709-7969-45c5-a551-a85d5e22f7cc",
+      "uraian": "Kelompok ini mencakup usaha pembuatan kaos kaki yang dibuat dengan cara rajut ataupun renda, seperti kaos kaki, termasuk kaos kaki, stocking, pantyhose."
+    },
+    "15111": {
+      "uuid": "1b816f2d-b378-40a7-ac3d-a04664bcb2c4",
+      "uraian": "Kelompok ini mencakup usaha pengawetan kulit yang berasal dari hewan besar, hewan kecil, reptil, ikan dan hewan lainnya, baik yang dilakukan dengan pengeringan, penggaraman, maupun pengasaman (pikel), seperti kulit hewan besar (sapi, kerbau), kulit hewan kecil (domba, kambing), kulit reptil (buaya, ular, biawak), kulit ikan (ikan pari,hiu/cucut, kakap, belut) dan kulit hewan lainnya."
+    },
+    "15112": {
+      "uuid": "1b666d38-e8ae-49c9-9e94-72b1ade52249",
+      "uraian": "Kelompok ini mencakup usaha penyamakan kulit yang berasal dari ternak besar (sapi, kerbau), ternak kecil (domba, kambing), reptil (buaya, ular, biawak), ikan (ikan pari, hiu cucut, kakap, belut) dan hewan lainnya yang dimasak dengan chrome nabati, sintetis, samak minyak dan samak kombinasi menjadi kulit tersamak, seperti wet blue, crust, sol, vache raam, kulit box, kulit beludru, kulit gelase dan kulit hiasan, kulit berbulu, kulit laminasi, kulit patent, kulit jaket, kulit sarung tangan, kulit chamois dan lainnya."
+    },
+    "15113": {
+      "uuid": "ccf14c3e-0a11-4c87-84c0-bd56ac84aaca",
+      "uraian": "Kelompok ini mencakup usaha pemberian warna atau pencelupan pada kulit bulu yang digunakan pada barang jadi kulit."
+    },
+    "15114": {
+      "uuid": "42bd161a-e53b-41aa-b9ce-974386798fe4",
+      "uraian": "Kelompok ini mencakup usaha pembuatan kulit komposisi yang berasal dari potongan/remahan kulit hewan yang direkatkan kembali. Industri kulit buatan/imitasi yang berbahan utama tekstil dimasukkan dalam kelompok 13992. Industri kulit buatan/imitasi yang berbahan utama karet dimasukkan dalam kelompok 2219; dan industri kulit buatan/imitasi yang berbahan utama plastik dimasukkan dalam kelompok 2229."
+    },
+    "15121": {
+      "uuid": "1bd3c888-8262-48d8-9a6d-cc676b6bf835",
+      "uraian": "Kelompok ini mencakup usaha pembuatan barang-barang dari kulit dan kulit komposisi atau bahan lain seperti plastik, tekstil, serat yang divulkanisir atau paperboard untuk keperluan pribadi, seperti koper, ransel, tas, dompet, kotak rias, sarung senjata, tempat kaca mata dan tali jam. Termasuk industri tali sepatu kulit."
+    },
+    "15122": {
+      "uuid": "b0e8937a-4187-4d48-8ada-1d350c6eb16c",
+      "uraian": "Kelompok ini mencakup usaha pembuatan barang-barang dari kulit dan kulit komposisi untuk keperluan teknik/industri, seperti klep, packing, rem pickers, sarung tangan kerja, kulit pompa, kulit ban mesin (belt), kulit apron dan sisir kulit pada mesin (combing leather)."
+    },
+    "15123": {
+      "uuid": "85d251f4-8d37-4904-9755-9051bf88792e",
+      "uraian": "Kelompok ini mencakup usaha pembuatan barang-barang dari kulit dan kulit komposisi untuk keperluan hewan, seperti ikat leher hewan, tali kekang hewan, pelana hewan, brongsong mulut hewan, cambuk dan sepatu hewan."
+    },
+    "15129": {
+      "uuid": "637bc6f7-6fb9-4bbb-b0d1-871459fff05d",
+      "uraian": "Kelompok ini mencakup usaha pembuatan barang-barang dari kulit dan kulit komposisi untuk keperluan yang belum terliput dalam kelompok 15121 sampai dengan 15123, seperti jok, sabuk pengaman, alat pengepak dan kerajinan tatah sungging (hiasan, wayang dan kap lampu) dan lain-lain."
+    },
+    "15201": {
+      "uuid": "e892b8aa-d160-4bee-af0c-1a58cc7afbc2",
+      "uraian": "Kelompok ini mencakup usaha pembuatan alas kaki keperluan sehari-hari dari kulit dan kulit buatan, karet, kanvas dan kayu, seperti sepatu harian, sepatu santai (casual shoes), sepatu sandal, sandal kelom dan selop. Termasuk juga usaha pembuatan bagian-bagian dari alas kaki tersebut, seperti atasan, sol dalam, sol luar, penguat depan, penguat tengah, penguat belakang, lapisan dan aksesori dari kulit dan kulit buatan."
+    },
+    "15202": {
+      "uuid": "dc101900-c1f9-4a17-8064-10530c791d92",
+      "uraian": "Kelompok ini mencakup usaha pembuatan sepatu untuk olahraga dari kulit dan kulit buatan, karet dan kanvas, seperti sepatu sepak bola, sepatu atletik, sepatu senam, sepatu jogging dan sepatu ballet. Termasuk juga usaha pembuatan bagian bagian dari sepatu olahraga tersebut, meliputi atasan, sol luar, sol dalam, lapisan dan aksesori."
+    },
+    "15203": {
+      "uuid": "dace1942-69af-4845-bce1-37758201904b",
+      "uraian": "Kelompok ini mencakup usaha pembuatan sepatu termasuk pembuatan bagian-bagian dari sepatu untuk keperluan teknik lapangan/industri dari kulit, kulit buatan, karet dan plastik,  seperti sepatu tahan kimia, sepatu tahan panas, sepatu pengaman."
+    },
+    "15209": {
+      "uuid": "cf7a59b3-064a-4944-b26b-97ab8c1c936f",
+      "uraian": "Kelompok ini mencakup usaha pembuatan alas kaki lainnya yang belum termasuk golongan manapun, seperti sepatu kesehatan dan sepatu lainnya, misalnya sepatu dari gedebog (pelepah batang pisang) dan eceng gondok. Termasuk industri gaiter, legging dan barang sejenisnya."
+    },
+    "16101": {
+      "uuid": "a3059e1e-84b7-473e-929c-4813aef0473e",
+      "uraian": "Kelompok ini mencakup usaha penggergajian, pengirisan, pengulitan dan pemotongan kayu gelondongan menjadi balok, kaso (usuk), reng, papan dan sebagainya. Termasuk industri kayu untuk bantalan rel kereta dan bahan baku untuk pembuatan lantai kayu."
+    },
+    "16102": {
+      "uuid": "4feba2fd-bb6d-4d38-bc2e-6064540ac56a",
+      "uraian": "Kelompok ini mencakup usaha pengawetan kayu dengan cara pengeringan kayu, pengolahan kimia dan perendaman kayu dengan bahan pengawet atau bahan lainnya."
+    },
+    "16103": {
+      "uuid": "31d6fa99-86bc-494a-ac22-19f0fb78a7db",
+      "uraian": "Kelompok ini mencakup usaha pengawetan rotan, bambu dan sejenisnya."
+    },
+    "16104": {
+      "uuid": "81b4a6e5-278f-4d89-a7c5-d24dc86af3f1",
+      "uraian": "Kelompok ini mencakup usaha pengolahan rotan menjadi bahan setengah jadi, seperti rotan poles, hati rotan dan kulit rotan."
+    },
+    "16105": {
+      "uuid": "d19b58de-ef4b-4943-bb3b-2ef662af6aab",
+      "uraian": "Kelompok ini mencakup usaha pembuatan partikel kayu dan sejenisnya seperti wol kayu, tepung kayu, dan irisan atau serpih kayu (woodchips)."
+    },
+    "16211": {
+      "uuid": "366d2854-8726-4905-a5e1-23dc9e58188c",
+      "uraian": "Kelompok ini mencakup usaha pembuatan kayu lapis biasa, seperti kayu lapis tripleks, multipleks, kayu lapis interior, eksterior dan sejenisnya. Termasuk juga kayu lapis konstruksi, seperti kayu lapis cetak beton, kayu lapis tahan air dan sejenisnya."
+    },
+    "16212": {
+      "uuid": "25011c91-2dff-45a4-9425-56cc7703ddfc",
+      "uraian": "Kelompok ini mencakup usaha pembuatan kayu lapis yang dilaminasi, seperti teak wood, rose wood, polyester plywood dan sejenisnya. Termasuk juga bambu lapis yang dilaminasi."
+    },
+    "16213": {
+      "uuid": "872d9503-c6f6-4595-895c-6cc579db6fb3",
+      "uraian": "Kelompok ini mencakup usaha pembuatan panel kayu lainnya, seperti particle board, chip board, fibre board, Medium Density Fibreboard (MDF) dan sejenisnya."
+    },
+    "16214": {
+      "uuid": "46ab7057-18a0-4363-9b4f-094474caedc6",
+      "uraian": "Kelompok ini mencakup usaha pembuatan serutan pelapis (veneer) dengan cara pengupasan (rotary), penyayatan (slicer) dan sejenisnya."
+    },
+    "16215": {
+      "uuid": "65161070-d6a8-4674-9f52-699fbd90d4ad",
+      "uraian": "Kelompok ini mencakup industri kayu laminasi seperti barecore, blockboard, dan lamin board."
+    },
+    "16221": {
+      "uuid": "b15dc8b9-a719-46b1-85d0-99cc5f779e48",
+      "uraian": "Kelompok ini mencakup industri komponen bahan bangunan dari kayu yang digunakan utamanya untuk industri konstruksi, seperti balok, kaso, rangka atap yang dihaluskan keempat sisinya; tiang penopang yang dibuat dari kayu secara bilah sambung (finger joint) dengan perekat atau dihubungkan dengan logam (metal); profil dan moulding kayu, daun pintu/jendela dan rangkanya (kusen), tangga dan susuran tangga, manik-manik dari kayu dan papan penghias tembok dan papan nama; atap sirap, lantai kayu siap pasang yang terbuat dari kayu solid (solid wood) atau engineering wood; serta pengerjaan kayu untuk bahan bangunan lainnya."
+    },
+    "16222": {
+      "uuid": "66706318-2118-4856-9a47-640aa31e56b0",
+      "uraian": "Kelompok ini mencakup usaha pengerjaan kayu untuk bangunan prafabrikasi. Termasuk industri rumah bergerak dan partisi kayu (tidak termasuk penyekat ruangan yang berdiri sendiri/furnitur)"
+    },
+    "16230": {
+      "uuid": "972f3636-590d-496c-a700-9dfa80ca444d",
+      "uraian": "Kelompok ini mencakup usaha pembuatan segala macam wadah atau peti/kotak dari kayu untuk pengemasan, seperti kotak kemas, boks, peti kayu, drum kayu dan kemasan sejenisnya dari kayu; palet (pallets), kotak palet dan papan muat dari kayu lainnya; barel, tong, ember dan produk dari kayu lainnya; dan gulungan kawat dari kayu."
+    },
+    "16291": {
+      "uuid": "67d7ea39-ef1d-4131-b3aa-2bdb82b0971c",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam tikar, webbing, lampit, tas, topi, tampah, kukusan, bakul, kipas, tatakan, bilik/gedek dan sejenisnya yang bahan utamanya dari rotan atau bambu."
+    },
+    "16292": {
+      "uuid": "5a72ffe5-0e76-437a-aa4a-7435a18489a4",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam tikar, keset, tas, topi, tatakan dan kerajinan tangan lainnya yang bahan utamanya bukan rotan dan bambu, seperti pandan, mendong, serat, rumput dan sejenisnya."
+    },
+    "16293": {
+      "uuid": "1b20aa28-0d11-41e2-8fa5-a59ac13bf883",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam barang kerajinan dan ukir-ukiran dari kayu, seperti relief, topeng, patung, wayang, vas bunga, pigura dan kap lampu."
+    },
+    "16294": {
+      "uuid": "c33b8eef-5526-4a51-83fe-c6a9062523bd",
+      "uraian": "Kelompok ini mencakup usaha pembuatan macam-macam barang kerajinan dan ukir-ukiran dari kayu, seperti relief, topeng, patung, wayang, vas bunga, pigura dan kap lampu."
+    },
+    "16295": {
+      "uuid": "c599858e-7c28-4bc6-b963-cc7624cc31d2",
+      "uraian": "Kelompok ini mencakup industri kayu bakar dan pelet kayu yang dibuat dari serbuk kayu atau bahan substitusi seperti ampas kopi atau biji kedelai yang dipres."
+    },
+    "16299": {
+      "uuid": "b0af5e36-bcb4-4a9b-b05e-f8729c587f39",
+      "uraian": "Kelompok ini mencakup usaha pembuatan barang-barang dari kayu, rotan dan gabus lainnya yang belum tercakup sebelumnya. Barang-barang dari kayu misalnya alat tenun, gantungan baju, chopstik, tusuk gigi, sempoa (alat hitung), penggaris dan papan tulis. Termasuk juga pembuatan alat-alat kerja dari kayu, seperti plesteran, palu, rumah serutan kayu, gagang pegangan perkakas, palet, papan cucian dan sejenisnya. Barang dari gabus misalnya gabus lembaran, sumbat, piringan, cincin, pelapis, pelampung dan lainnya."
+    },
+    "17011": {
+      "uuid": "1f8a345c-91aa-4ad4-8f87-722c36d47922",
+      "uraian": "Kelompok ini mencakup usaha pembuatan bubur kertas dengan bahan dari kayu atau serat lainnya dan atau kertas bekas. Kegiatannya mencakup industri  bubur kertas yang diputihkan, separuh putihkan atau yang tidak diputihkan baik melalui proses mekanis, kimia (pelarutan atau non pelarutan), maupun semi kimia, industri bubur kertas cotton-linters dan penghilangan tinta dan industri bubur kertas dari kertas bekas."
+    },
+    "17012": {
+      "uuid": "ca9eeaf1-e54a-4ebf-bd59-2e9f2af65674",
+      "uraian": "Kelompok ini mencakup usaha pembuatan kertas koran dan kertas tulis cetak."
+    },
+    "17013": {
+      "uuid": "237a45b2-fe42-47e5-9d6d-b8067b6b0f46",
+      "uraian": "Kelompok ini mencakup usaha pembuatan kertas bandrol, bank notes, cheque paper, security paper, watermark paper, meterai, perangko dan sejenisnya."
+    },
+    "17014": {
+      "uuid": "57e60767-4919-43fe-8f6e-b7a9addcdf75",
+      "uraian": "Kelompok ini mencakup usaha pembuatan kertas khusus, seperti cardiopan, kertas litmus/lakmus, metalic paper, acid proof paper, kertas pola, kertas tersalut, kertas celopan dan sejenisnya. Pengerjaan kertas yang melapisi dengan segala cara, seperti coating, glazing, gumming, dan laminating serta pembuatan kertas karbon dan stensil dimasukkan dalam kelompok 17099, jika dalam bentuk potongan siap dijual ke konsumen. Pembuatan kertas fotografi dimasukkan dalam kelompok 20299. Pembuatan kertas penggosok/amplas (abrasive paper) dimasukkan dalam kelompok 23990."
+    },
+    "17019": {
+      "uuid": "ef1f7eed-9a96-411b-87d9-03601700c9a1",
+      "uraian": "Kelompok ini mencakup usaha pembuatan kertas magnetik, kertas kerut (crep) dan gumpalan selulosa dan webs serat selulosa."
+    },
+    "17021": {
+      "uuid": "53483253-9a06-4e5d-bf89-2ee9b30724f4",
+      "uraian": "Kelompok ini mencakup usaha pembuatan kertas konstruksi (kertas isolasi, condensor, roofing board, building board dan lain-lain), kertas bungkus dan pengepakan (kraftliner, medium liner/corrugating medium, ribbed kraft paper/kertas payung, kraft paper), board (post card karthotek, kertas londen, triplex, multiplex, bristol, straw board, chip board, duplex)."
+    },
+    "17022": {
+      "uuid": "8d0252a5-6f13-4fcf-b70e-f65c3a78758f",
+      "uraian": "Kelompok ini mencakup usaha pembuatan segala macam kemasan dan kotak dari kertas/karton yang digunakan untuk pembungkus/pengepakan, termasuk juga pembuatan kotak untuk rokok dan barang lainnya. Misalnya kemasan dan kotak dari kertas dan papan kertas bergelombang, kemasan dan kotak papan kertas yang dapat dilipat, kemasan dan kotak dari papan padat, kemasan dan kotak lain dari kertas dan papan kertas, sak dan kantong kertas dan kotak file kantor dan barang sejenisnya."
+    },
+    "17091": {
+      "uuid": "58b2f474-5b10-4a6a-9f3f-1cdf96fcfd63",
+      "uraian": "Kelompok ini mencakup usaha pembuatan kertas untuk kertas rumah tangga, kertas kebersihan pribadi dan barang kertas kapas selulosa, seperti tisu pembersih, facial tissue, toilet tissue, lens tissue, sapu tangan, handuk, serbet, kertas toilet, napkin, napkin untuk bayi, sanitary napkin (pembalut wanita), tampon, popok dewasa, dan napkin untuk cangkir, piring dan baki dan usaha pembuatan kertas kapas dan barang dari kertas kapas, seperti handuk/lap, kertas sigaret dan cork tipping paper."
+    },
+    "17099": {
+      "uuid": "a58279f2-6a22-4f5c-bb1e-bf0dc3c78f05",
+      "uraian": "Kelompok ini mencakup usaha pembuatan barang dari kertas dan papan kertas atau karton yang belum tercakup dalam subgolongan lain, seperti industri kertas tulis dan kertas cetak siap pakai, industri kertas printout komputer siap pakai, industri kertas kopi siap pakai, industri kertas tempel atau berperekat siap pakai, industri buku register, buku akuntansi, binder, album dan alat-alat tulis baik yang bersifat komersil atau untuk pendidikan sejenisnya, industri kotak, kantong, dompet dan buku catatan yang mengandung susunan kertas, industri wallpaper (kertas dinding) dan jenis pelapis dinding lainnya, termasuk wallpaper berlapis vinyl dan tekstil, industri label, industri kertas filter dan papan kertas filter, industri gulungan kertas dan papan kertas, gelendong kertas dan papan kertas dan sebagainya, industri tempat telur dan barang lainnya yang dibuat dari cetakan bubur kertas dan sebagainya, dan industri kertas kreasi baru. Termasuk di sini pengerjaan kertas dan karton dengan segala cara, seperti coating, glazing, gumming, laminating, pembuatan kertas karbon dan kertas stensil sheet dalam bentuk potongan siap dijual ke konsumen. Termasuk juga pembuatan kertas EKG dan pembuatan alat tulis kantor (stationeries) yang tidak dicetak, seperti amplop, kertas surat, kertas pembersih, dinner ware dari kertas dan sejenisnya. Pembuatan alat tulis kantor dan kartu yang dicetak dimasukkan dalam kelompok 18111."
+    },
+    "18111": {
+      "uuid": "6c4cefde-be5f-4bed-b0c1-00a23a242586",
+      "uraian": "Kelompok ini mencakup kegiatan industri percetakan surat kabar, majalah dan periodik lainnya seperti tabloid, surat kabar, majalah, jurnal, pamflet, buku dan brosur, naskah musik, peta, atlas, poster, katalog periklanan, prospektus dan iklan cetak lainnya, buku harian, kalender, formulir bisnis dan barang-barang cetakan komersial lainnya, kertas surat atau alat tulis pribadi dan barang-barang cetakan lainnya hasil mesin cetak, offset, klise foto, fleksografi dan sejenisnya, mesin pengganda, printer komputer, huruf timbul dan sebagainya termasuk alat cetak cepat; pencetakan secara langsung tanpa adanya media perantara ke bahan tekstil, plastik, kaca, logam, kayu dan keramik, kecuali pencetakan tabir sutera pada kain dan pakaian jadi; dan pencetakan pada label atau tanda pengenal (litografi, pencetakan tulisan di makam, pencetakan fleksografi dan sebagainya). Termasuk pula mencetak ulang melalui komputer, mesin stensil dan sejenisnya. Barang cetakan ini biasanya merupakan hak cipta. Industri label kertas atau karton termasuk kelompok 17099."
+    },
+    "18112": {
+      "uuid": "f99eff07-22bd-4030-877a-5d90b1e43859",
+      "uraian": "Kelompok ini mencakup industri pencetakan perangko pos, perangko perpajakan, dokumen, cek dan kertas rahasia lainnya, materai, uang kertas, blangko cek, giro, surat andil, obligasi surat saham, surat berharga lainnya, paspor, tiket pesawat terbang dan cetakan khusus lainnya."
+    },
+    "18113": {
+      "uuid": "629e9d45-b96d-418c-a36e-dc6263fa3b04",
+      "uraian": "Kelompok ini mencakup industri percetakan tiga dimensi (3D Printing) untuk berbagai keperluan dari polimer, plastik, clay, bijih logam dan lainnya."
+    },
+    "18120": {
+      "uuid": "24a2df6f-83fc-4565-a4d8-a0f3573d1470",
+      "uraian": "Kelompok ini mencakup usaha penjilidan lembar cetakan, misalnya menjadi buku, brosur, majalah, katalog dan sebagainya, dengan melipat, memasang, menjahit, merekatkan, menyatukan, penjilidan dengan perekat, perapihan dan gold stamping; produksi composed type, plates atau cylinders, penjilidan buku; komposisi, pemasangan huruf, pemasangan foto, input data mencakup scanning dan pengenalan karakter atau huruf optik, penyusunan elektronik; pembuatan gambar mencakup pemasangan image atau gambar (untuk proses pencetakan mesin cetak dan offset); pengukiran atau sketsa cylinders untuk gravure; proses pembuatan gambar langsung di atas pelat (temasuk pelat fotopolimer); pembuatan gambar untuk pencetakan dan pengecapan relief; pembuatan cetakan untuk percobaan; pekerjaan artistik mencakup penyiapan batu litho dan woodblocks (produksi batu lithographic, untuk digunakan dalam kegiatan percetakan di unit lain); pembuatan barang reprografi; desain barang cetakan seperti sketsa, layout, barang contoh dan sebagainya; dan kegiatan grafis lainnya seperti die-sinking dan die-stamping, penggandaan huruf braille, pemukulan dan pengeboran, penyulaman timbul, pemvernisan dan pelapisan, penyisipan dan pelipatan."
+    },
+    "18201": {
+      "uuid": "37791a88-13da-4a10-8897-5d549df7116c",
+      "uraian": "Kelompok ini mencakup usaha reproduksi dari kopi master pelat atau piringan gramofon, compact disk atau CD dan pita yang berisikan musik atau rekaman suara (audio) dan reproduksi dari kopi master perangkat lunak atau software dan data pada disk dan pita magnetik. Pembuatan piringan hitam kosong, pita kaset kosong, pita komputer dan disket kosong untuk merekam data dimasukkan dalam kelompok 26800. Industri rekaman suara di piringan hitam, pita kaset dan sejenisnya dimasukkan dalam kelompok 59201."
+    },
+    "18202": {
+      "uuid": "0884c8b6-8605-437d-afd1-9743e28d7f7a",
+      "uraian": "Kelompok ini mencakup usaha reproduksi dari kopi master rekaman, compact disk atau CD dan tape yang berisikan gambar bergerak atau film dan rekaman video lainnya. Penerbitan rekaman film dan video dimasukkan dalam kelompok 59131 dan 59132."
+    },
+    "19100": {
+      "uuid": "8c464f69-5849-4d36-86db-66e53731a981",
+      "uraian": "Kelompok ini mencakup usaha industri pengolahan gas, kokas dari batu bara, termasuk juga destilasi batu bara yang bukan merupakan bagian pabrik gas atau besi dan baja, atau destilasi batu bara yang menjadi bagian pabrik besi dan baja yang pembukuannya dapat dipisahkan.  Termasuk pengoperasian tungku kokas, produksi kokas dan semi kokas, produksi pitch kokas, produksi kokas mentah dan ter lignit dan pengaglomerasian kokas.  Usaha destilasi gas oleh pabrik gas yang penyalurannya melalui pipa saluran dimasukkan dalam kelompok 35202. Usaha pembuatan gas dan kokas yang tergabung dalam kegiatan pengolahan besi dan baja dimasukkan dalam kelompok 24101 sampai dengan 24103."
+    },
+    "19212": {
+      "uuid": "70c2d74a-bf51-4437-a7c5-05fc760e8110",
+      "uraian": "Kelompok ini mencakup usaha pembuatan minyak pelumas, oli dan gemuk yang berbahan dasar minyak."
+    },
+    "19291": {
+      "uuid": "102036a4-6875-4623-8187-ae765ceafa1e",
+      "uraian": "Kelompok ini mencakup usaha industri pengolahan aspal/ter, bitumen dan lilin (dapat digunakan untuk lapisan jalan, atap, kayu, kertas dan sebagainya) serta Petroleum Coke. Termasuk industri produk untuk industri petrokimia, industri bermacam-macam produk, seperti white spirit, vaseline, lilin parafin, jeli minyak bumi (petroleum jelly), industri briket minyak bumi dan pencampuran biofuel, seperti pencampuran alkohol dengan minyak bumi (misalnya gasohol)."
+    },
+    "19292": {
+      "uuid": "3e517e6f-150b-4b1d-ae56-8145b0c3c8fe",
+      "uraian": "Kelompok ini mencakup usaha pembuatan briket dari batu bara atau lignit, baik di lokasi penambangan maupun di luar lokasi penambangan. Termasuk pula pembuatan briket yang menggunakan batu bara atau lignit yang dibeli dari pihak lain."
+    },
+    "20111": {
+      "uuid": "92a35b84-2a95-45c6-a8fc-89ef9e2f8648",
+      "uraian": "Kelompok ini mencakup usaha industri kimia dasar yang menghasilkan bahan kimia khlor dan alkali, seperti soda kostik, soda abu, natrium khlorida, kalium hidroksida dan senyawa khlor lainnya. Termasuk juga usaha industri yang menghasilkan logam alkali, seperti lithium, natrium dan kalium, serta senyawa alkali lainnya. Industri pembuatan garam dapur/konsumsi dimasukkan dalam kelompok 10774."
+    },
+    "20112": {
+      "uuid": "282e7569-70d9-48ed-af95-569ca8e04aa7",
+      "uraian": "Kelompok ini mencakup usaha industri kimia dasar yang menghasilkan bahan kimia gas industri, seperti zat asam, zat lemas, zat asam arang, amoniak dan dry ice. Termasuk juga usaha industri kimia dasar yang menghasilkan gas mulia, seperti helium, neon, argon dan radon; serta jenis-jenis gas industri lainnya."
+    }
+  },
+  "failed": {
+    "19213": "timeout render /id/kbli/konversi/19213"
+  },
+  "debug": {}
+}

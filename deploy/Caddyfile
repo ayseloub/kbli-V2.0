@@ -1,0 +1,27 @@
+# HTTPS otomatis (Let's Encrypt) untuk {$DOMAIN}. Syarat: DNS domain sudah mengarah ke IP VPS
+# dan port 80/443 terbuka.
+{$DOMAIN} {
+	encode zstd gzip
+
+	request_body {
+		max_size 30MB
+	}
+
+	# Aplikasi chat + admin + API
+	handle /chat* {
+		# Caddy mengisi X-Forwarded-For dengan IP pengunjung asli (header dari luar diabaikan)
+		reverse_proxy web:3000
+	}
+
+	# Halaman lain: arahkan ke chat (atau ke website utama, atur ROOT_REDIRECT di .env)
+	handle {
+		redir * {$ROOT_REDIRECT} 302
+	}
+
+	header {
+		Strict-Transport-Security "max-age=31536000"
+		X-Content-Type-Options "nosniff"
+		Referrer-Policy "strict-origin-when-cross-origin"
+		-Server
+	}
+}

@@ -1,0 +1,449 @@
+[
+  {
+    "query": "usaha pecucian baju dry cleaning dan tekstil lainnya",
+    "expected": [
+      "9620"
+    ],
+    "kasus": "Kasus 1 - Variasi Deskripsi"
+  },
+  {
+    "query": "Tolong buatin Kode buat usaha laundry atau dry cleaning yang nyuci, nyetrika, sampe beresin baju dan barang tekstil, baik buat rumahan biasa maupun buat kebutuhan bisnis kayak hotel atau salon.",
+    "expected": [
+      "9620"
+    ],
+    "kasus": "Kasus 1 - Variasi Deskripsi"
+  },
+  {
+    "query": "usaha pencucian pakaian dan aktivitas penatu",
+    "expected": [
+      "9620"
+    ],
+    "kasus": "Kasus 1 - Variasi Deskripsi"
+  },
+  {
+    "query": "usaha laundry baju dan karpet kiloan",
+    "expected": [
+      "9620"
+    ],
+    "kasus": "Kasus 1 - Variasi Deskripsi"
+  },
+  {
+    "query": "Cari kode KBLI untuk usaha yang menyediakan jasa pencucian, dry cleaning, penatu, serta penyetrikaan dan perawatan berbagai jenis tekstil bagi rumah tangga maupun industri perorangan.",
+    "expected": [
+      "9620"
+    ],
+    "kasus": "Kasus 1 - Variasi Deskripsi"
+  },
+  {
+    "query": "Cari kode KBLI untuk usaha yang menyediakan jasa pencucian (laundry), dry cleaning, dan perawatan sepatu serta pencucian barang tekstil rumah tangga maupun milik perorangan.",
+    "expected": [
+      "9620"
+    ],
+    "kasus": "Kasus 1 - Variasi Deskripsi"
+  },
+  {
+    "query": "Kode ini buat usaha yang fokus ke layanan cuci, setrika, dan rawat pakaian atau barang kain, entah buat orang biasa atau kebutuhan usaha",
+    "expected": [
+      "9620"
+    ],
+    "kasus": "Kasus 1 - Variasi Deskripsi"
+  },
+  {
+    "query": "Saya mencari kode KBLI untuk usaha yang menyediakan jasa pencucian, dry cleaning, penatu, dan penyetrikaan barang-barang tekstil jadi bagi rumah tangga maupun pelanggan perorangan.",
+    "expected": [
+      "9620"
+    ],
+    "kasus": "Kasus 1 - Variasi Deskripsi"
+  },
+  {
+    "query": "Carikan kode KBLI berkaitan dengan usaha yang menyediakan jasa cuci barang. pakaian",
+    "expected": [
+      "9620"
+    ],
+    "kasus": "Kasus 1 - Variasi Deskripsi"
+  },
+  {
+    "query": "Layanan laundry yang nyediain jasa nyuci, nyetrika, sampe ngerapiin pakaian dan barang berbahan kain, cocok buat kebutuhan pribadi maupun usaha",
+    "expected": [
+      "9620"
+    ],
+    "kasus": "Kasus 1 - Variasi Deskripsi"
+  },
+  {
+    "query": "Kode KBLI mencakup kegiatan usaha yang bergerak di bidang jasa pencucian pakaian dan tekstil, termasuk layanan dry cleaning, penatu, penyetrikaan, serta perawatan berbagai produk tekstil untuk kebutuhan rumah tangga maupun pelanggan perorangan.",
+    "expected": [
+      "9620"
+    ],
+    "kasus": "Kasus 1 - Variasi Deskripsi"
+  },
+  {
+    "query": "Usaha yang bergerak di bidang layanan laundry, dry cleaning, pencucian sepatu, serta pembersihan berbagai produk tekstil untuk kebutuhan rumah tangga maupun pelanggan individu.",
+    "expected": [
+      "9620"
+    ],
+    "kasus": "Kasus 1 - Variasi Deskripsi"
+  },
+  {
+    "query": "Ini masuk ke bisnis laundry dan dry cleaning, yaitu jasa bersihin dan merapikan pakaian maupun tekstil lainnya",
+    "expected": [
+      "9620"
+    ],
+    "kasus": "Kasus 1 - Variasi Deskripsi"
+  },
+  {
+    "query": "Usaha yang bergerak dalam penyediaan layanan laundry, meliputi pencucian, dry cleaning, penatu, serta penyetrikaan berbagai jenis pakaian dan barang tekstil jadi untuk kebutuhan rumah tangga maupun pelanggan perorangan.",
+    "expected": [
+      "9620"
+    ],
+    "kasus": "Kasus 1 - Variasi Deskripsi"
+  },
+  {
+    "query": "Carikan kode KBLI yang berkaitan dengan usaha penyedia jasa pencucian barang, khususnya pakaian.",
+    "expected": [
+      "9620"
+    ],
+    "kasus": "Kasus 1 - Variasi Deskripsi"
+  },
+  {
+    "query": "usaha pembuatan perangkat lunak",
+    "expected": [
+      "58200"
+    ],
+    "kasus": "Kasus 1 - Variasi Deskripsi"
+  },
+  {
+    "query": "Ada gak kode buat perusahaan yang jual aplikasi atau game siap pakai, gak termasuk yang bikin sesuai pesanan klien",
+    "expected": [
+      "58200"
+    ],
+    "kasus": "Kasus 1 - Variasi Deskripsi"
+  },
+  {
+    "query": "Saya mencari kode KBLI untuk perusahaan yang mengembangkan dan menerbitkan perangkat lunak siap digunakan, seperti aplikasi, sistem operasi, atau permainan digital yang dipasarkan kepada pengguna.",
+    "expected": [
+      "58200"
+    ],
+    "kasus": "Kasus 1 - Variasi Deskripsi"
+  },
+  {
+    "query": "Cari kode KBLI untuk usaha yang menerbitkan perangkat lunak siap pakai, seperti sistem operasi, aplikasi bisnis, dan video game yang dapat digunakan di berbagai platform tanpa dibuat berdasarkan pesanan khusus.",
+    "expected": [
+      "58200"
+    ],
+    "kasus": "Kasus 1 - Variasi Deskripsi"
+  },
+  {
+    "query": "Kalau usaha yang bikin dan jual software jadi seperti aplikasi atau game yang langsung dipakai, itu biasanya kode ini.",
+    "expected": [
+      "58200"
+    ],
+    "kasus": "Kasus 1 - Variasi Deskripsi"
+  },
+  {
+    "query": "Saya mencari kode KBLI untuk usaha yang menerbitkan dan mendistribusikan perangkat lunak siap pakai, seperti sistem operasi, aplikasi bisnis, dan video game yang tidak dibuat berdasarkan pesanan.",
+    "expected": [
+      "58200"
+    ],
+    "kasus": "Kasus 1 - Variasi Deskripsi"
+  },
+  {
+    "query": "carikan kode KBLi untuk usaha yang bergerak dibidang jualan piranti lunak",
+    "expected": [
+      "58200"
+    ],
+    "kasus": "Kasus 1 - Variasi Deskripsi"
+  },
+  {
+    "query": "Bantu cari kode yang cocok buat bisnis desain logo, kemasan, sama materi promosi kayak brosur dan banner",
+    "expected": [
+      "74130"
+    ],
+    "kasus": "Kasus 1 - Variasi Deskripsi"
+  },
+  {
+    "query": "Kode KBLI apa yang digunakan untuk usaha yang menyediakan layanan desain grafis, branding, ilustrasi, dan pembuatan materi visual untuk media cetak maupun digital?",
+    "expected": [
+      "74130"
+    ],
+    "kasus": "Kasus 1 - Variasi Deskripsi"
+  },
+  {
+    "query": "Cari kode KBLI untuk usaha yang menyediakan jasa desain komunikasi visual atau desain grafis, seperti pembuatan logo, branding, desain iklan, kemasan, ilustrasi, infografik, materi promosi, desain media digital, serta desain untuk media cetak dan visual lainnya.",
+    "expected": [
+      "74130"
+    ],
+    "kasus": "Kasus 1 - Variasi Deskripsi"
+  },
+  {
+    "query": "Kode ini dipakai buat jasa desain visual, misalnya bikin logo, poster, kemasan produk, atau tampilan promosi",
+    "expected": [
+      "74130"
+    ],
+    "kasus": "Kasus 1 - Variasi Deskripsi"
+  },
+  {
+    "query": "Saya mencari kode KBLI untuk usaha yang menyediakan jasa desain komunikasi visual atau desain grafis, termasuk pembuatan logo, identitas merek, materi promosi, desain kemasan, ilustrasi, dan media digital maupun cetak.",
+    "expected": [
+      "74130"
+    ],
+    "kasus": "Kasus 1 - Variasi Deskripsi"
+  },
+  {
+    "query": "Carikan kode KBLI yang berkaitan dengan usaha penyedia jasa desain komunikasi visual atau desain grafis",
+    "expected": [
+      "74130"
+    ],
+    "kasus": "Kasus 1 - Variasi Deskripsi"
+  },
+  {
+    "query": "kode buat desain grafis secara umum, dari branding sampai signage toko",
+    "expected": [
+      "74130"
+    ],
+    "kasus": "Kasus 3 - Kode Mirip/Bersaudara"
+  },
+  {
+    "query": "Usaha yang menyediakan layanan perancangan berbagai materi visual, seperti logo, identitas merek, poster, kemasan, ilustrasi, dan media promosi untuk kebutuhan cetak maupun digital.",
+    "expected": [
+      "74130"
+    ],
+    "kasus": "Kasus 3 - Kode Mirip/Bersaudara"
+  },
+  {
+    "query": "Cari kode KBLI untuk usaha yang bergerak di bidang jasa desain komunikasi visual atau desain grafis, meliputi pembuatan logo, branding, materi promosi, ilustrasi, desain media digital, serta desain untuk media cetak dan visual lainnya.",
+    "expected": [
+      "74130"
+    ],
+    "kasus": "Kasus 3 - Kode Mirip/Bersaudara",
+    "expected_original": [
+      "74142"
+    ]
+  },
+  {
+    "query": "Ini buat jasa desain grafis umum yang dipakai di banyak kebutuhan, seperti branding, iklan, dan materi cetak.",
+    "expected": [
+      "74130"
+    ],
+    "kasus": "Kasus 3 - Kode Mirip/Bersaudara",
+    "expected_original": [
+      "74141"
+    ]
+  },
+  {
+    "query": "Saya mencari kode KBLI untuk usaha yang menyediakan jasa desain grafis dan komunikasi visual, seperti pembuatan logo, identitas merek, poster, kemasan, ilustrasi, serta materi promosi untuk media cetak maupun digital.",
+    "expected": [
+      "74130"
+    ],
+    "kasus": "Kasus 3 - Kode Mirip/Bersaudara"
+  },
+  {
+    "query": "Kode KBLI untuk usaha yang menyediakan jasa pembuatan desain visual",
+    "expected": [
+      "74130"
+    ],
+    "kasus": "Kasus 3 - Kode Mirip/Bersaudara"
+  },
+  {
+    "query": "Nah ini beda, khusus buat desain yang dipakai di industri film, TV, sama animasi/komik.",
+    "expected": [
+      "74141"
+    ],
+    "kasus": "Kasus 3 - Kode Mirip/Bersaudara"
+  },
+  {
+    "query": "Usaha yang berfokus pada pembuatan konsep dan desain visual untuk produksi film, video, acara televisi, animasi, serta komik, termasuk pengembangan karakter dan elemen visual pendukung.",
+    "expected": [
+      "74141"
+    ],
+    "kasus": "Kasus 3 - Kode Mirip/Bersaudara"
+  },
+  {
+    "query": "Cari kode KBLI untuk usaha yang menyediakan jasa desain khusus untuk film, video, program televisi, animasi, dan komik, termasuk pembuatan visual, karakter, storyboard, serta elemen grafis pendukung produksi.",
+    "expected": [
+      "74141"
+    ],
+    "kasus": "Kasus 3 - Kode Mirip/Bersaudara"
+  },
+  {
+    "query": "Kode ini lebih spesifik ke desain untuk film, video, acara TV, animasi, dan komik",
+    "expected": [
+      "74141"
+    ],
+    "kasus": "Kasus 3 - Kode Mirip/Bersaudara"
+  },
+  {
+    "query": "Saya mencari kode KBLI untuk usaha yang bergerak di bidang desain visual khusus untuk produksi film, video, acara televisi, animasi, dan komik, termasuk pembuatan karakter, latar, aset visual, serta elemen grafis pendukung.",
+    "expected": [
+      "74141"
+    ],
+    "kasus": "Kasus 3 - Kode Mirip/Bersaudara"
+  },
+  {
+    "query": "KBLI untuk usaha yang menyediakan jasa bikin rancangan untuk film, video",
+    "expected": [
+      "74141"
+    ],
+    "kasus": "Kasus 3 - Kode Mirip/Bersaudara"
+  },
+  {
+    "query": "Sedangkan yang satu ini fokusnya ke desain buat game aja.",
+    "expected": [
+      "74142"
+    ],
+    "kasus": "Kasus 3 - Kode Mirip/Bersaudara"
+  },
+  {
+    "query": "Usaha yang bergerak dalam perancangan elemen visual dan konten untuk permainan digital, seperti karakter, lingkungan permainan, antarmuka, aset grafis, dan komponen pendukung lainnya.",
+    "expected": [
+      "74142"
+    ],
+    "kasus": "Kasus 3 - Kode Mirip/Bersaudara"
+  },
+  {
+    "query": "Cari kode KBLI untuk usaha yang menyediakan jasa desain konten game, seperti perancangan karakter, lingkungan permainan, antarmuka (UI), aset visual, animasi, dan elemen pendukung lainnya dalam pengembangan game.",
+    "expected": [
+      "74142"
+    ],
+    "kasus": "Kasus 3 - Kode Mirip/Bersaudara"
+  },
+  {
+    "query": "Kalau yang ini, fokusnya ke desain konten untuk game.",
+    "expected": [
+      "74142"
+    ],
+    "kasus": "Kasus 3 - Kode Mirip/Bersaudara"
+  },
+  {
+    "query": "Saya mencari kode KBLI untuk usaha yang menyediakan jasa desain konten permainan (game), seperti desain karakter, lingkungan, antarmuka pengguna (UI), aset visual, level, dan elemen grafis untuk berbagai platform game.",
+    "expected": [
+      "74142"
+    ],
+    "kasus": "Kasus 3 - Kode Mirip/Bersaudara"
+  },
+  {
+    "query": "KBLI untuk usaha yang menyediakan jasa bikin rancangan game",
+    "expected": [
+      "74142"
+    ],
+    "kasus": "Kasus 3 - Kode Mirip/Bersaudara"
+  },
+  {
+    "query": "Tolong carikan kode buat jasa foto-video, dari foto formal kayak paspor sampai foto udara dan dokumentasi acara nikahan",
+    "expected": [
+      "74201"
+    ],
+    "kasus": "Kasus 4 - Istilah Sehari-hari"
+  },
+  {
+    "query": "Kode KBLI apa yang cocok untuk usaha jasa foto dan video, seperti foto wisuda, pernikahan, pas foto, produk, atau kebutuhan promosi bisnis?",
+    "expected": [
+      "74201"
+    ],
+    "kasus": "Kasus 4 - Istilah Sehari-hari"
+  },
+  {
+    "query": "Cari kode KBLI untuk usaha jasa foto dan video, seperti foto wisuda, pernikahan, pas foto, foto produk, foto properti, foto dari drone, serta dokumentasi berbagai acara.",
+    "expected": [
+      "74201"
+    ],
+    "kasus": "Kasus 4 - Istilah Sehari-hari"
+  },
+  {
+    "query": "Kode ini buat usaha foto, baik foto formal, foto produk, foto acara, sampai foto udara dan video dokumentasi",
+    "expected": [
+      "74201"
+    ],
+    "kasus": "Kasus 4 - Istilah Sehari-hari"
+  },
+  {
+    "query": "Saya mencari kode KBLI untuk usaha jasa foto dan video, seperti foto pas, foto wisuda, foto produk, foto prewedding, foto acara, atau dokumentasi pernikahan",
+    "expected": [
+      "74201"
+    ],
+    "kasus": "Kasus 4 - Istilah Sehari-hari"
+  },
+  {
+    "query": "kode KBLI untuk usaha yang menyediakan jasa foto dan video",
+    "expected": [
+      "74201"
+    ],
+    "kasus": "Kasus 4 - Istilah Sehari-hari"
+  },
+  {
+    "query": "Kepikiran mau cari kode buat studio rekaman yang bisa bikin master lagu atau rekaman siaran radio.",
+    "expected": [
+      "59201"
+    ],
+    "kasus": "Kasus 4 - Istilah Sehari-hari"
+  },
+  {
+    "query": "Saya ingin mencari kode KBLI untuk bisnis jasa rekaman suara di studio, termasuk pembuatan audio untuk musik, podcast, dan konten digital.",
+    "expected": [
+      "59201"
+    ],
+    "kasus": "Kasus 4 - Istilah Sehari-hari"
+  },
+  {
+    "query": "Cari kode KBLI untuk usaha jasa rekaman suara di studio, seperti rekaman lagu, podcast, voice over, dubbing, audio untuk film atau video, serta pembuatan master audio.",
+    "expected": [
+      "59201"
+    ],
+    "kasus": "Kasus 4 - Istilah Sehari-hari"
+  },
+  {
+    "query": "Ini kode untuk jasa rekaman suara, misalnya rekaman lagu, suara radio, atau produksi audio di studio",
+    "expected": [
+      "59201"
+    ],
+    "kasus": "Kasus 4 - Istilah Sehari-hari"
+  },
+  {
+    "query": "Saya mencari kode KBLI untuk usaha studio rekaman yang melayani rekaman suara, lagu, podcast, voice over, atau audio untuk film dan video.",
+    "expected": [
+      "59201"
+    ],
+    "kasus": "Kasus 4 - Istilah Sehari-hari"
+  },
+  {
+    "query": "kode KBLI untuk usaha yang menyediakan jasa rekaman suara",
+    "expected": [
+      "59201"
+    ],
+    "kasus": "Kasus 4 - Istilah Sehari-hari"
+  },
+  {
+    "query": "Saya mencari kode KBLI untuk bisnis yang mengelola penerbitan lagu, mengurus lisensi musik, dan menyebarkan karya musik ke berbagai media.",
+    "expected": [
+      "59202"
+    ],
+    "kasus": "Kasus 4 - Istilah Sehari-hari"
+  },
+  {
+    "query": "Cari kode KBLI untuk usaha yang menerbitkan dan mengelola karya musik, seperti mengurus hak cipta lagu, mempromosikan karya musik, menerbitkan buku musik, serta mendistribusikan rekaman musik ke berbagai media dan platform.",
+    "expected": [
+      "59202"
+    ],
+    "kasus": "Kasus 4 - Istilah Sehari-hari"
+  },
+  {
+    "query": "Kode ini dipakai buat usaha yang mengurus penerbitan lagu, buku musik, dan distribusi karya musik ke pasar.",
+    "expected": [
+      "59202"
+    ],
+    "kasus": "Kasus 4 - Istilah Sehari-hari"
+  },
+  {
+    "query": "Saya mencari kode KBLI untuk usaha yang mengurus hak cipta lagu, menerbitkan karya musik, mempromosikan lagu, dan mendistribusikan hasil rekaman musik ke berbagai platform atau media.",
+    "expected": [
+      "59202"
+    ],
+    "kasus": "Kasus 4 - Istilah Sehari-hari"
+  },
+  {
+    "query": "kode KBLI untuk usaha yang mengurus penerbitan dan hak cipta musik",
+    "expected": [
+      "59202"
+    ],
+    "kasus": "Kasus 4 - Istilah Sehari-hari"
+  }
+]

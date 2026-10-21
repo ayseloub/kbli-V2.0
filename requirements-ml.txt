@@ -1,0 +1,4 @@
+# Dipisah karena berat (~2 GB dengan torch). Dibutuhkan untuk embedding.
+# Untuk VPS tanpa GPU, pakai torch versi CPU:
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+sentence-transformers>=2.7
