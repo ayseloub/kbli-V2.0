@@ -171,3 +171,7 @@ Tab **Data KBLI** di admin:
 - **Riwayat versi**: setiap perubahan disimpan (30 versi terakhir, ±9 MB per versi) di
   `KBLI_VERSIONS_DIR` (default `data/kbli_versions`) dan bisa dipulihkan. "Data awal" = hasil pipeline.
 - Kalau uvicorn dijalankan dengan beberapa worker, worker lain memuat versi baru dalam ±5 detik.
+
+## Deploy
+
+Panduan VPS dari nol (Docker Compose + Caddy HTTPS + backup): `deploy/DEPLOY.md`.

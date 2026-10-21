@@ -1,0 +1,12 @@
+.git
+.env
+.venv
+**/__pycache__
+**/*.pyc
+.pytest_cache
+web
+data
+tests
+eval/results
+dump.rdb
+*.zip

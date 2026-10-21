@@ -1,0 +1,84 @@
+# Produksi di VPS:  docker compose -f docker-compose.prod.yml up -d --build
+# Nilai ${...} diambil dari file .env di folder ini.
+services:
+  db:
+    image: pgvector/pgvector:pg16
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: kbli
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?isi POSTGRES_PASSWORD di .env}
+      POSTGRES_DB: kbli
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./db/schema.sql:/docker-entrypoint-initdb.d/001_schema.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U kbli"]
+      interval: 5s
+      retries: 20
+    # sengaja TIDAK ada "ports": database tidak bisa diakses dari internet
+
+  redis:
+    image: redis:7-alpine
+    restart: unless-stopped
+    command: ["redis-server", "--appendonly", "yes"]   # jatah harian tidak hilang saat restart
+    volumes:
+      - redisdata:/data
+
+  api:
+    build: .
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      DATABASE_URL: postgresql://kbli:${POSTGRES_PASSWORD}@db:5432/kbli
+      REDIS_URL: redis://redis:6379/0
+      STORE_BACKEND: postgres
+      COOKIE_SECURE: "true"
+      TRUST_PROXY_HEADERS: "true"
+      TRUSTED_PROXY_HOPS: "1"
+    volumes:
+      - ./data:/app/data          # data KBLI, versi hasil edit dashboard, upload dokumen
+      - models:/models            # cache model HuggingFace (unduh sekali)
+    depends_on:
+      db: { condition: service_healthy }
+      redis: { condition: service_started }
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/health', timeout=5)"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 600s          # pertama kali: unduh IndoSBERT (±1,3 GB)
+
+  web:
+    build:
+      context: ./web
+      args:
+        NEXT_PUBLIC_BASE_PATH: /chat
+        NEXT_PUBLIC_HOME_URL: ${HOME_URL:-/}
+        KBLI_API_URL: http://api:8000
+    restart: unless-stopped
+    depends_on:
+      - api
+
+  caddy:
+    image: caddy:2
+    restart: unless-stopped
+    ports:
+      - "80:80"
+      - "443:443"
+      - "443:443/udp"
+    environment:
+      DOMAIN: ${DOMAIN:?isi DOMAIN di .env}
+      ROOT_REDIRECT: ${ROOT_REDIRECT:-/chat}
+    volumes:
+      - ./deploy/Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddydata:/data           # sertifikat HTTPS
+      - caddyconfig:/config
+    depends_on:
+      - web
+
+volumes:
+  pgdata:
+  redisdata:
+  models:
+  caddydata:
+  caddyconfig:

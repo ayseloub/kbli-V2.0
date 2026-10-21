@@ -7,6 +7,7 @@ const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "/chat";
 const API_URL = process.env.KBLI_API_URL ?? "http://localhost:8000";
 
 const nextConfig: NextConfig = {
+  output: "standalone",              // image Docker kecil: cukup `node server.js`
   basePath: basePath || undefined,
   experimental: {
     // Proxy Next memotong body request di 10 MB secara default; upload dokumen boleh sampai
